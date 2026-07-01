@@ -1,10 +1,10 @@
-# MEGCAL: Metric-Conditioned Decision Adaptation for Multi-Target CT Recognition
+# MEDA: Metric-Conditioned Decision Adaptation for Multi-Target CT Recognition
 
 <p align="center">
-  <img src="assets/pipeline.png" width="92%" alt="MEGCAL pipeline">
+  <img src="assets/pipeline.png" width="92%" alt="MEDA pipeline">
 </p>
 
-MEGCAL is a lightweight decision-adaptation framework for multi-target CT recognition. It keeps a shared 3D CT representation fixed and learns target-specific decision rules by selecting both a scoring function and an operating threshold for each diagnostic endpoint.
+MEDA is a lightweight decision-adaptation framework for multi-target CT recognition. It keeps a shared 3D CT representation fixed and learns target-specific decision rules by selecting both a scoring function and an operating threshold for each diagnostic endpoint.
 
 <p align="center">
   <b>17 CT targets</b> •
@@ -16,7 +16,7 @@ MEGCAL is a lightweight decision-adaptation framework for multi-target CT recogn
 ## Results
 
 <p align="center">
-  <img src="assets/results_multipanel.png" width="92%" alt="MEGCAL results">
+  <img src="assets/results_multipanel.png" width="92%" alt="MEDA results">
 </p>
 
 | Region | Targets | Validation N | Positives | BalAcc | AUROC |
