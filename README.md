@@ -9,6 +9,7 @@
 </p>
 
 <p align="center">
+  <a href="https://openreview.net/forum?id=jcUMMVgmUL"><img alt="Paper on OpenReview" src="https://img.shields.io/badge/Paper-OpenReview-8c1b13?style=flat-square"></a>
   <img alt="python" src="https://img.shields.io/badge/python-3.9%2B-3776ab?style=flat-square&logo=python&logoColor=white">
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-1.2-f7931e?style=flat-square&logo=scikitlearn&logoColor=white">
   <img alt="frozen encoder" src="https://img.shields.io/badge/encoder-frozen-6366f1?style=flat-square">
@@ -20,7 +21,7 @@
   <img src="assets/overview.png" width="96%" alt="MEDA overview: frozen CT encoder, candidate bank, joint selection of classifier and threshold, frozen head">
 </p>
 
-MEDA picks a classifier and an operating threshold for every clinical finding while the pretrained CT encoder stays frozen. Each finding gets its own head, chosen from labeled training cases only, so a new finding can be added without touching the encoder.
+Metric-Conditioned Decision Adaptation (MEDA) selects a classifier and an operating threshold for each clinical finding while keeping the pretrained CT encoder fixed. It compares classifiers and thresholds using labeled training data and keeps the combination with the highest balanced accuracy. New findings can be added without retraining the encoder.
 
 This repository is the code and results behind the paper by Dharini Raghavan, Amritpal Singh and Anant Madabhushi. MEDA received the **Meritorious Winner Award** in the Embedding Aggregation Optimization (Task 2 EAO), Vision-Language track of the [CVPR 2026 Foundation Models for General CT Image Diagnosis challenge](https://www.codabench.org/competitions/12650/) (team `dharini24`).
 
@@ -39,16 +40,16 @@ All numbers are means over 17 findings and five outer folds. Every method uses t
 
 | Encoder | Decision rule | Balanced acc. | AUROC | AUPRC | Sensitivity | F2 | G-mean |
 |---|---|---:|---:|---:|---:|---:|---:|
-| Merlin | Linear probe, 0.5 cutoff | 0.611 | 0.680 | 0.410 | 0.360 | 0.366 | 0.514 |
-| Merlin | Balanced probe + cutoff | 0.628 | 0.679 | 0.409 | 0.580 | 0.463 | 0.608 |
+| Merlin | LP (0.5) | 0.611 | 0.680 | 0.410 | 0.360 | 0.366 | 0.514 |
+| Merlin | Balanced LP + cutoff | 0.628 | 0.679 | 0.409 | 0.580 | 0.463 | 0.608 |
 | Merlin | **MEDA** | **0.650** | **0.701** | **0.422** | **0.631** | **0.490** | **0.635** |
-| CT-NEXUS | Linear probe, 0.5 cutoff | 0.583 | 0.642 | 0.348 | 0.318 | 0.323 | 0.474 |
-| CT-NEXUS | Balanced probe + cutoff | 0.602 | 0.642 | 0.347 | 0.558 | 0.439 | 0.574 |
+| CT-NEXUS | LP (0.5) | 0.583 | 0.642 | 0.348 | 0.318 | 0.323 | 0.474 |
+| CT-NEXUS | Balanced LP + cutoff | 0.602 | 0.642 | 0.347 | 0.558 | 0.439 | 0.574 |
 | CT-NEXUS | **MEDA** | **0.618** | **0.665** | **0.373** | **0.614** | **0.464** | **0.602** |
 
-The paired balanced-accuracy gain over the cutoff-tuned balanced probe is 0.023 with Merlin (95% interval 0.012 to 0.033).
+LP uses logistic regression with a 0.5 threshold. Balanced LP uses class-balanced logistic regression with a threshold selected from training data. The paired balanced-accuracy gain over balanced LP is 0.023 with Merlin (95% interval 0.012 to 0.033).
 
-MEDA-Lite reaches 0.660 (Merlin, 10 candidates) and 0.620 (CT-NEXUS, 16 candidates). Its selected heads need about 0.18 ms and 0.56 ms per embedding after feature extraction.
+MEDA-Lite reached balanced accuracies of 0.660 with Merlin (10 classifier settings) and 0.620 with CT-NEXUS (16 settings) in an exploratory analysis. Its selected classifiers required an average of 0.18 and 0.56 ms per embedding after feature extraction.
 
 ### Independent challenge cohorts
 
@@ -64,7 +65,7 @@ Mean balanced accuracy of the seven challenge systems on 30 finding and cohort e
 | VoCo-L + LP | 0.6474 | 0.6501 | 0.5121 | 0.6223 | 0.6193 |
 | VoCo-L + EAO | 0.6516 | 0.6650 | 0.5075 | 0.6089 | 0.6230 |
 
-MEDA has the highest balanced accuracy on both external Chinese cohorts. The Merlin linear probe is slightly ahead on German whole-body CT and over all 30 evaluations. Rebuild this table with `python scripts/external_table.py`.
+MEDA achieved the highest balanced accuracy among the seven systems on both external Chinese cohorts: 0.6673 for abdominal CT and 0.5466 for chest CT. On German whole-body CT, and across all 30 evaluations, the Merlin linear probe scored higher (0.7594 and 0.6537, against 0.7097 and 0.6479 for MEDA). Rebuild this table with `python scripts/external_table.py`.
 
 ### Figures
 
@@ -156,11 +157,13 @@ docs/                 method details, data notes, reproduction notes
 ## Citation
 
 ```bibtex
-@misc{raghavan2026meda,
-  title        = {MEDA: Metric-Conditioned Decision Adaptation for Multi-Target CT Recognition},
-  author       = {Raghavan, Dharini and Singh, Amritpal and Madabhushi, Anant},
-  year         = {2026},
-  howpublished = {CVPR 2026 Challenge on Foundation Models for General CT Image Diagnosis},
-  url          = {https://github.com/rdharini2001/MEDA}
+@inproceedings{
+raghavan2026meda,
+title={{MEDA}: Metric-Conditioned Decision Adaptation for Multi-Target {CT} Recognition},
+author={Dharini Raghavan and Amritpal Singh and Anant Madabhushi},
+booktitle={Submitted to CVPR 2026: Foundation Models for General CT Image Diagnosis},
+year={2026},
+url={https://openreview.net/forum?id=jcUMMVgmUL},
+note={under review}
 }
 ```
