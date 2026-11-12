@@ -1,5 +1,4 @@
-<h1 align="center">MEDA</h1>
-<h3 align="center">Metric-Conditioned Decision Adaptation for Multi-Target CT Recognition</h3>
+<h1 align="center">MEDA: Metric-Conditioned Decision Adaptation for Multi-Target CT Recognition</h1>
 
 <p align="center">
   <a href="https://www.codabench.org/competitions/12650/"><img alt="CVPR 2026 challenge" src="https://img.shields.io/badge/CVPR%202026-Challenge%20Website-1f6feb?style=for-the-badge&logo=codabench&logoColor=white"></a>
