@@ -1,0 +1,409 @@
+backbone,finding,context,variant,classifier,family,threshold,inner_balacc
+merlin,adrenal_hyperplasia,outer_0,MEDA-Full,logreg_l1_C0.05,Sparse logistic,0.5196723053890947,0.6610294117647059
+merlin,adrenal_hyperplasia,outer_0,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.5196723053890947,0.6610294117647059
+merlin,adrenal_hyperplasia,outer_1,MEDA-Full,rf_balanced,Random forest,0.1131143163325105,0.6580882352941176
+merlin,adrenal_hyperplasia,outer_1,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.4817689425859311,0.6544117647058824
+merlin,adrenal_hyperplasia,outer_2,MEDA-Full,logreg_l1_C0.1,Sparse logistic,0.3489462225711019,0.6647058823529413
+merlin,adrenal_hyperplasia,outer_2,MEDA-Lite,logreg_l1_C0.1,Sparse logistic,0.3489462225711019,0.6647058823529413
+merlin,adrenal_hyperplasia,outer_3,MEDA-Full,pca256_logreg,PCA-logistic,0.0277378079707196,0.6294117647058823
+merlin,adrenal_hyperplasia,outer_3,MEDA-Lite,logreg_C0.05,Balanced logistic,0.1464195949874698,0.6147058823529412
+merlin,adrenal_hyperplasia,outer_4,MEDA-Full,logreg_l1_C0.05,Sparse logistic,0.44,0.6794117647058824
+merlin,adrenal_hyperplasia,outer_4,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.44,0.6794117647058824
+merlin,adrenal_hyperplasia,historical_validation,MEDA-Full,logreg_l1_C0.05,Sparse logistic,0.4165136062286439,0.651764705882353
+merlin,adrenal_hyperplasia,historical_validation,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.4165136062286439,0.651764705882353
+merlin,ascites,outer_0,MEDA-Full,logreg_l1_C0.05,Sparse logistic,0.51,0.8842131932927952
+merlin,ascites,outer_0,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.51,0.8842131932927952
+merlin,ascites,outer_1,MEDA-Full,logreg_l1_C0.05,Sparse logistic,0.44,0.8935170807453416
+merlin,ascites,outer_1,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.44,0.8935170807453416
+merlin,ascites,outer_2,MEDA-Full,pca8_logreg,PCA-logistic,0.47,0.8687063875469673
+merlin,ascites,outer_2,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.4948137540820543,0.8650180200904838
+merlin,ascites,outer_3,MEDA-Full,xgb_d3_lr0.025_n450,XGBoost,0.0247683170251548,0.8638141246836899
+merlin,ascites,outer_3,MEDA-Lite,logreg_l1_C0.1,Sparse logistic,0.5,0.8552334943639291
+merlin,ascites,outer_4,MEDA-Full,logreg_l1_C0.05,Sparse logistic,0.5285642521522602,0.8626102292768959
+merlin,ascites,outer_4,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.5285642521522602,0.8626102292768959
+merlin,ascites,historical_validation,MEDA-Full,logreg_l1_C0.05,Sparse logistic,0.43,0.8759423656083303
+merlin,ascites,historical_validation,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.43,0.8759423656083303
+merlin,atherosclerosis,outer_0,MEDA-Full,pca8_logreg,PCA-logistic,0.33,0.7383677298311445
+merlin,atherosclerosis,outer_0,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.41,0.6872889305816134
+merlin,atherosclerosis,outer_1,MEDA-Full,histgb,HistGradientBoosting,0.0015228318816706,0.7282087393422656
+merlin,atherosclerosis,outer_1,MEDA-Lite,logreg_l1_C0.25,Sparse logistic,0.1421671223960041,0.7248686814859927
+merlin,atherosclerosis,outer_2,MEDA-Full,pca8_logreg,PCA-logistic,0.5513915043005891,0.7225241263000093
+merlin,atherosclerosis,outer_2,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.4425525568817082,0.693225897123583
+merlin,atherosclerosis,outer_3,MEDA-Full,pca16_logreg,PCA-logistic,0.2904524989381954,0.7392485711608733
+merlin,atherosclerosis,outer_3,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.4058058781958883,0.7126487398107373
+merlin,atherosclerosis,outer_4,MEDA-Full,pca8_logreg,PCA-logistic,0.45,0.761688372528811
+merlin,atherosclerosis,outer_4,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.47,0.7232268340672725
+merlin,atherosclerosis,historical_validation,MEDA-Full,pca8_logreg,PCA-logistic,0.4627401872049281,0.7504873294346979
+merlin,atherosclerosis,historical_validation,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.44,0.7080896686159843
+merlin,cholecystitis,outer_0,MEDA-Full,pca16_logreg,PCA-logistic,0.66,0.5984577922077922
+merlin,cholecystitis,outer_0,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.5038524680072345,0.5906655844155844
+merlin,cholecystitis,outer_1,MEDA-Full,logreg_C0.05,Balanced logistic,0.3713603286226409,0.6380681818181818
+merlin,cholecystitis,outer_1,MEDA-Lite,logreg_C0.05,Balanced logistic,0.3713603286226409,0.6380681818181818
+merlin,cholecystitis,outer_2,MEDA-Full,pca16_logreg,PCA-logistic,0.5568720669759375,0.6269475414522585
+merlin,cholecystitis,outer_2,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.5092767745847236,0.6162628644939965
+merlin,cholecystitis,outer_3,MEDA-Full,xgb_d2_lr0.05_n250,XGBoost,0.1999999999999999,0.6478344768439108
+merlin,cholecystitis,outer_3,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.6035258806360642,0.6382933104631218
+merlin,cholecystitis,outer_4,MEDA-Full,pca8_logreg,PCA-logistic,0.51,0.6588407661520869
+merlin,cholecystitis,outer_4,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.5245977378654131,0.6512471412235563
+merlin,cholecystitis,historical_validation,MEDA-Full,logreg_l1_C0.05,Sparse logistic,0.4986204476414537,0.6537878787878788
+merlin,cholecystitis,historical_validation,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.4986204476414537,0.6537878787878788
+merlin,colorectal_cancer,outer_0,MEDA-Full,rf_balanced,Random forest,0.0954657301835114,0.6706378986866792
+merlin,colorectal_cancer,outer_0,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.515464331403372,0.6458724202626642
+merlin,colorectal_cancer,outer_1,MEDA-Full,pca8_logreg,PCA-logistic,0.5542591836590548,0.6448405253283302
+merlin,colorectal_cancer,outer_1,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.4781770968981476,0.6438086303939963
+merlin,colorectal_cancer,outer_2,MEDA-Full,pca16_logreg,PCA-logistic,0.409187144682946,0.6583148558758315
+merlin,colorectal_cancer,outer_2,MEDA-Lite,logreg_l1_C0.1,Sparse logistic,0.5129116760112346,0.6402439024390244
+merlin,colorectal_cancer,outer_3,MEDA-Full,pca128_logreg,PCA-logistic,0.0730926167418807,0.7011825572801182
+merlin,colorectal_cancer,outer_3,MEDA-Lite,logreg_C0.05,Balanced logistic,0.4,0.6851810790835181
+merlin,colorectal_cancer,outer_4,MEDA-Full,logreg_l1_C0.5,Sparse logistic,0.12,0.6599039172209904
+merlin,colorectal_cancer,outer_4,MEDA-Lite,logreg_l1_C0.5,Sparse logistic,0.12,0.6599039172209904
+merlin,colorectal_cancer,historical_validation,MEDA-Full,pca16_logreg,PCA-logistic,0.4869570019288006,0.6621951219512195
+merlin,colorectal_cancer,historical_validation,MEDA-Lite,logreg_l1_C0.1,Sparse logistic,0.53,0.6539024390243902
+merlin,covid,outer_0,MEDA-Full,extratrees_balanced,ExtraTrees,0.41,0.7323232323232323
+merlin,covid,outer_0,MEDA-Lite,logreg_C0.05,Balanced logistic,0.8547728365047782,0.6966540404040404
+merlin,covid,outer_1,MEDA-Full,logreg_l1_C0.1,Sparse logistic,0.5385081096487365,0.7664141414141414
+merlin,covid,outer_1,MEDA-Lite,logreg_l1_C0.1,Sparse logistic,0.5385081096487365,0.7664141414141414
+merlin,covid,outer_2,MEDA-Full,rf_balanced,Random forest,0.2587072760933819,0.7133838383838385
+merlin,covid,outer_2,MEDA-Lite,logreg_l1_C0.1,Sparse logistic,0.5872880312089465,0.696969696969697
+merlin,covid,outer_3,MEDA-Full,logreg_l1_C0.05,Sparse logistic,0.5609140256659477,0.758322864321608
+merlin,covid,outer_3,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.5609140256659477,0.758322864321608
+merlin,covid,outer_4,MEDA-Full,pca128_logreg,PCA-logistic,0.8400000000000001,0.7669074539363484
+merlin,covid,outer_4,MEDA-Lite,logreg_C0.1,Balanced logistic,0.7291847386453438,0.762248743718593
+merlin,covid,historical_validation,MEDA-Full,logreg_C2.0,Balanced logistic,0.55,0.7518817204301076
+merlin,covid,historical_validation,MEDA-Lite,logreg_C2.0,Balanced logistic,0.55,0.7518817204301076
+merlin,fatty_liver,outer_0,MEDA-Full,pca16_logreg,PCA-logistic,0.4429014562964245,0.7905283359674871
+merlin,fatty_liver,outer_0,MEDA-Lite,logreg_l1_C0.1,Sparse logistic,0.4238546963861528,0.7847237901708437
+merlin,fatty_liver,outer_1,MEDA-Full,rf_balanced,Random forest,0.21,0.7720139986452924
+merlin,fatty_liver,outer_1,MEDA-Lite,logreg_C0.05,Balanced logistic,0.63,0.7719763678783773
+merlin,fatty_liver,outer_2,MEDA-Full,rf_balanced,Random forest,0.1686703433613295,0.808948596372394
+merlin,fatty_liver,outer_2,MEDA-Lite,logreg_l1_C0.1,Sparse logistic,0.4045161105050547,0.7963705125310454
+merlin,fatty_liver,outer_3,MEDA-Full,rf_balanced,Random forest,0.1559071236618609,0.7963893279145029
+merlin,fatty_liver,outer_3,MEDA-Lite,logreg_l1_C0.1,Sparse logistic,0.4367324415653851,0.7847049747873862
+merlin,fatty_liver,outer_4,MEDA-Full,logreg_l1_C0.1,Sparse logistic,0.47,0.8001639833035181
+merlin,fatty_liver,outer_4,MEDA-Lite,logreg_l1_C0.1,Sparse logistic,0.47,0.8001639833035181
+merlin,fatty_liver,historical_validation,MEDA-Full,logreg_l1_C0.1,Sparse logistic,0.42,0.8069767441860465
+merlin,fatty_liver,historical_validation,MEDA-Lite,logreg_l1_C0.1,Sparse logistic,0.42,0.8069767441860465
+merlin,gallstone,outer_0,MEDA-Full,pca64_logreg,PCA-logistic,0.3325839241048319,0.58984375
+merlin,gallstone,outer_0,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.5220853038194387,0.56640625
+merlin,gallstone,outer_1,MEDA-Full,pca8_logreg,PCA-logistic,0.47,0.6184895833333333
+merlin,gallstone,outer_1,MEDA-Lite,logreg_l1_C0.1,Sparse logistic,0.47,0.59765625
+merlin,gallstone,outer_2,MEDA-Full,pca8_logreg,PCA-logistic,0.4491493596808235,0.6328125
+merlin,gallstone,outer_2,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.4948456583161871,0.6184895833333333
+merlin,gallstone,outer_3,MEDA-Full,xgb_d4_lr0.02_n500,XGBoost,0.16,0.6341145833333333
+merlin,gallstone,outer_3,MEDA-Lite,logreg_l1_C0.1,Sparse logistic,0.46,0.6223958333333333
+merlin,gallstone,outer_4,MEDA-Full,pca64_logreg,PCA-logistic,0.43,0.640625
+merlin,gallstone,outer_4,MEDA-Lite,logreg_C0.05,Balanced logistic,0.42,0.63671875
+merlin,gallstone,historical_validation,MEDA-Full,logreg_l1_C0.05,Sparse logistic,0.5038098605175529,0.6177083333333333
+merlin,gallstone,historical_validation,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.5038098605175529,0.6177083333333333
+merlin,hydronephrosis,outer_0,MEDA-Full,xgb_d4_lr0.02_n500,XGBoost,0.18,0.755072463768116
+merlin,hydronephrosis,outer_0,MEDA-Lite,logreg_C0.05,Balanced logistic,0.5,0.7304347826086957
+merlin,hydronephrosis,outer_1,MEDA-Full,pca128_logreg,PCA-logistic,0.2988401531413597,0.741704147926037
+merlin,hydronephrosis,outer_1,MEDA-Lite,logreg_l1_C0.1,Sparse logistic,0.5440428896989805,0.7186656671664168
+merlin,hydronephrosis,outer_2,MEDA-Full,rf_balanced,Random forest,0.2953279326969926,0.7727444081427495
+merlin,hydronephrosis,outer_2,MEDA-Lite,logreg_C0.25,Balanced logistic,0.46,0.759726061824579
+merlin,hydronephrosis,outer_3,MEDA-Full,xgb_d4_lr0.02_n500,XGBoost,0.2299999999999999,0.7567479266147273
+merlin,hydronephrosis,outer_3,MEDA-Lite,logreg_C0.05,Balanced logistic,0.5569913399615601,0.7467202814777583
+merlin,hydronephrosis,outer_4,MEDA-Full,logreg_l1_C0.05,Sparse logistic,0.6,0.7277707966825835
+merlin,hydronephrosis,outer_4,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.6,0.7277707966825835
+merlin,hydronephrosis,historical_validation,MEDA-Full,xgb_d4_lr0.02_n500,XGBoost,0.19,0.7418981481481481
+merlin,hydronephrosis,historical_validation,MEDA-Lite,logreg_C0.05,Balanced logistic,0.4064321398821339,0.7314814814814814
+merlin,kidney_stone,outer_0,MEDA-Full,logreg_l1_C0.5,Sparse logistic,0.46,0.6684100418410042
+merlin,kidney_stone,outer_0,MEDA-Lite,logreg_l1_C0.5,Sparse logistic,0.46,0.6684100418410042
+merlin,kidney_stone,outer_1,MEDA-Full,logreg_C0.05,Balanced logistic,0.49,0.6621338912133892
+merlin,kidney_stone,outer_1,MEDA-Lite,logreg_C0.05,Balanced logistic,0.49,0.6621338912133892
+merlin,kidney_stone,outer_2,MEDA-Full,logreg_C0.1,Balanced logistic,0.3299761717292258,0.6689853556485356
+merlin,kidney_stone,outer_2,MEDA-Lite,logreg_C0.1,Balanced logistic,0.3299761717292258,0.6689853556485356
+merlin,kidney_stone,outer_3,MEDA-Full,logreg_l1_C0.25,Sparse logistic,0.6,0.6602536665472873
+merlin,kidney_stone,outer_3,MEDA-Lite,logreg_l1_C0.25,Sparse logistic,0.6,0.6602536665472873
+merlin,kidney_stone,outer_4,MEDA-Full,logreg_l1_C0.1,Sparse logistic,0.5733530532048272,0.6686699102907906
+merlin,kidney_stone,outer_4,MEDA-Lite,logreg_l1_C0.1,Sparse logistic,0.5733530532048272,0.6686699102907906
+merlin,kidney_stone,historical_validation,MEDA-Full,logreg_l1_C0.1,Sparse logistic,0.5077946001510538,0.6538461538461539
+merlin,kidney_stone,historical_validation,MEDA-Lite,logreg_l1_C0.1,Sparse logistic,0.5077946001510538,0.6538461538461539
+merlin,liver_calcifications,outer_0,MEDA-Full,logreg_l1_C0.05,Sparse logistic,0.5314673538086092,0.589148195272216
+merlin,liver_calcifications,outer_0,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.5314673538086092,0.589148195272216
+merlin,liver_calcifications,outer_1,MEDA-Full,xgb_d2_lr0.03_n350,XGBoost,0.09,0.620496551262305
+merlin,liver_calcifications,outer_1,MEDA-Lite,logreg_l1_C0.1,Sparse logistic,0.45,0.6032110091743119
+merlin,liver_calcifications,outer_2,MEDA-Full,extratrees_balanced,ExtraTrees,0.1294468294769976,0.5767916390179164
+merlin,liver_calcifications,outer_2,MEDA-Lite,logreg_C0.1,Balanced logistic,0.39,0.5485401459854015
+merlin,liver_calcifications,outer_3,MEDA-Full,pca16_logreg,PCA-logistic,0.6768059305794589,0.5717153284671533
+merlin,liver_calcifications,outer_3,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.4891771531649879,0.5598374253483742
+merlin,liver_calcifications,outer_4,MEDA-Full,logreg_C0.05,Balanced logistic,0.39,0.5929993364299934
+merlin,liver_calcifications,outer_4,MEDA-Lite,logreg_C0.05,Balanced logistic,0.39,0.5929993364299934
+merlin,liver_calcifications,historical_validation,MEDA-Full,xgb_d4_lr0.02_n500,XGBoost,0.059048406034708,0.5875912408759124
+merlin,liver_calcifications,historical_validation,MEDA-Lite,logreg_C0.25,Balanced logistic,0.1573897331226805,0.572992700729927
+merlin,liver_cyst,outer_0,MEDA-Full,logreg_l1_C0.1,Sparse logistic,0.4441899366038891,0.6532483217265825
+merlin,liver_cyst,outer_0,MEDA-Lite,logreg_l1_C0.1,Sparse logistic,0.4441899366038891,0.6532483217265825
+merlin,liver_cyst,outer_1,MEDA-Full,logreg_l1_C0.25,Sparse logistic,0.4775526300899685,0.6179418407679278
+merlin,liver_cyst,outer_1,MEDA-Lite,logreg_l1_C0.25,Sparse logistic,0.4775526300899685,0.6179418407679278
+merlin,liver_cyst,outer_2,MEDA-Full,logreg_l1_C0.5,Sparse logistic,0.38711701504366,0.6126482213438735
+merlin,liver_cyst,outer_2,MEDA-Lite,logreg_l1_C0.5,Sparse logistic,0.38711701504366,0.6126482213438735
+merlin,liver_cyst,outer_3,MEDA-Full,logreg_l1_C0.25,Sparse logistic,0.46,0.6324110671936759
+merlin,liver_cyst,outer_3,MEDA-Lite,logreg_l1_C0.25,Sparse logistic,0.46,0.6324110671936759
+merlin,liver_cyst,outer_4,MEDA-Full,pca32_logreg,PCA-logistic,0.38,0.6205533596837944
+merlin,liver_cyst,outer_4,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.4791079538125405,0.5909090909090909
+merlin,liver_cyst,historical_validation,MEDA-Full,xgb_d3_lr0.025_n450,XGBoost,0.46,0.6218354430379747
+merlin,liver_cyst,historical_validation,MEDA-Lite,logreg_l1_C0.1,Sparse logistic,0.53,0.5996835443037974
+merlin,liver_lesion,outer_0,MEDA-Full,logreg_C0.05,Balanced logistic,0.54,0.6811377245508983
+merlin,liver_lesion,outer_0,MEDA-Lite,logreg_C0.05,Balanced logistic,0.54,0.6811377245508983
+merlin,liver_lesion,outer_1,MEDA-Full,logreg_C1.0,Balanced logistic,0.26,0.6676646706586826
+merlin,liver_lesion,outer_1,MEDA-Lite,logreg_C1.0,Balanced logistic,0.26,0.6676646706586826
+merlin,liver_lesion,outer_2,MEDA-Full,logreg_l1_C0.1,Sparse logistic,0.5089821673248868,0.6741978729108946
+merlin,liver_lesion,outer_2,MEDA-Lite,logreg_l1_C0.1,Sparse logistic,0.5089821673248868,0.6741978729108946
+merlin,liver_lesion,outer_3,MEDA-Full,pca64_logreg,PCA-logistic,0.41,0.690624720707838
+merlin,liver_lesion,outer_3,MEDA-Lite,logreg_l1_C0.25,Sparse logistic,0.5237789070031396,0.6829922245062114
+merlin,liver_lesion,outer_4,MEDA-Full,logreg_l1_C0.5,Sparse logistic,0.51,0.6495758483033932
+merlin,liver_lesion,outer_4,MEDA-Lite,logreg_l1_C0.5,Sparse logistic,0.51,0.6495758483033932
+merlin,liver_lesion,historical_validation,MEDA-Full,pca8_logreg,PCA-logistic,0.5247637616625428,0.6495215311004785
+merlin,liver_lesion,historical_validation,MEDA-Lite,logreg_C1.0,Balanced logistic,0.38,0.644736842105263
+merlin,lung_nodule_malignancy,outer_0,MEDA-Full,xgb_d2_lr0.05_n250,XGBoost,0.0278984493762254,0.6263888888888889
+merlin,lung_nodule_malignancy,outer_0,MEDA-Lite,logreg_l1_C0.25,Sparse logistic,0.26,0.6097222222222223
+merlin,lung_nodule_malignancy,outer_1,MEDA-Full,xgb_d3_lr0.025_n450,XGBoost,0.0348592595756053,0.5708333333333333
+merlin,lung_nodule_malignancy,outer_1,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.4872922638660272,0.5611111111111111
+merlin,lung_nodule_malignancy,outer_2,MEDA-Full,pca64_logreg,PCA-logistic,0.4655233168880472,0.6208333333333333
+merlin,lung_nodule_malignancy,outer_2,MEDA-Lite,logreg_l1_C0.5,Sparse logistic,0.1175868187304201,0.6055555555555556
+merlin,lung_nodule_malignancy,outer_3,MEDA-Full,logreg_C0.5,Balanced logistic,0.1401721084156914,0.6527777777777778
+merlin,lung_nodule_malignancy,outer_3,MEDA-Lite,logreg_C0.5,Balanced logistic,0.1401721084156914,0.6527777777777778
+merlin,lung_nodule_malignancy,outer_4,MEDA-Full,rf_balanced,Random forest,0.0766721725157675,0.6263888888888889
+merlin,lung_nodule_malignancy,outer_4,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.4721725957232903,0.5902777777777778
+merlin,lung_nodule_malignancy,historical_validation,MEDA-Full,xgb_d4_lr0.02_n500,XGBoost,0.0287032217904925,0.5944444444444444
+merlin,lung_nodule_malignancy,historical_validation,MEDA-Lite,logreg_C1.0,Balanced logistic,0.0075303161646161,0.5888888888888889
+merlin,lymphadenopathy,outer_0,MEDA-Full,pca8_logreg,PCA-logistic,0.4936788468077407,0.6895361639658969
+merlin,lymphadenopathy,outer_0,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.53,0.6539791654903733
+merlin,lymphadenopathy,outer_1,MEDA-Full,pca8_logreg,PCA-logistic,0.45,0.675986654499829
+merlin,lymphadenopathy,outer_1,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.51,0.6284361811337972
+merlin,lymphadenopathy,outer_2,MEDA-Full,xgb_d3_lr0.025_n450,XGBoost,0.0307145098224282,0.6671506914976104
+merlin,lymphadenopathy,outer_2,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.469759808323369,0.6663259695769247
+merlin,lymphadenopathy,outer_3,MEDA-Full,pca8_logreg,PCA-logistic,0.3971427788303149,0.6649020907053135
+merlin,lymphadenopathy,outer_3,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.62,0.6375734848378047
+merlin,lymphadenopathy,outer_4,MEDA-Full,xgb_d2_lr0.03_n350,XGBoost,0.0424098663032054,0.7070192999027252
+merlin,lymphadenopathy,outer_4,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.4842012513565353,0.6808396655999323
+merlin,lymphadenopathy,historical_validation,MEDA-Full,pca8_logreg,PCA-logistic,0.5245240450298392,0.6698008249213069
+merlin,lymphadenopathy,historical_validation,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.52,0.6157196352979486
+merlin,renal_cyst,outer_0,MEDA-Full,pca8_logreg,PCA-logistic,0.47,0.6572327044025157
+merlin,renal_cyst,outer_0,MEDA-Lite,logreg_l1_C0.1,Sparse logistic,0.54,0.6289308176100629
+merlin,renal_cyst,outer_1,MEDA-Full,extratrees_balanced,ExtraTrees,0.4997496695582156,0.6310354685436013
+merlin,renal_cyst,outer_1,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.4969360999217463,0.6184469943415942
+merlin,renal_cyst,outer_2,MEDA-Full,pca8_logreg,PCA-logistic,0.5349232464935485,0.6295765067723428
+merlin,renal_cyst,outer_2,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.506689832713742,0.621616293054159
+merlin,renal_cyst,outer_3,MEDA-Full,pca8_logreg,PCA-logistic,0.474805313745149,0.6406123696299363
+merlin,renal_cyst,outer_3,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.5,0.6264417105340983
+merlin,renal_cyst,outer_4,MEDA-Full,extratrees_balanced,ExtraTrees,0.48794908390904,0.6782742848129966
+merlin,renal_cyst,outer_4,MEDA-Lite,logreg_l1_C0.1,Sparse logistic,0.5009011200236391,0.6735474458311153
+merlin,renal_cyst,historical_validation,MEDA-Full,extratrees_balanced,ExtraTrees,0.51,0.6557788944723618
+merlin,renal_cyst,historical_validation,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.5,0.6457286432160805
+merlin,splenomegaly,outer_0,MEDA-Full,xgb_d4_lr0.02_n500,XGBoost,0.0212883178144693,0.7745359776252225
+merlin,splenomegaly,outer_0,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.46,0.7709127892194254
+merlin,splenomegaly,outer_1,MEDA-Full,pca32_logreg,PCA-logistic,0.3730951010301971,0.777291917973462
+merlin,splenomegaly,outer_1,MEDA-Lite,logreg_l1_C0.1,Sparse logistic,0.2299999999999999,0.7577653799758746
+merlin,splenomegaly,outer_2,MEDA-Full,logreg_l1_C0.05,Sparse logistic,0.36,0.7374240788944617
+merlin,splenomegaly,outer_2,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.36,0.7374240788944617
+merlin,splenomegaly,outer_3,MEDA-Full,logreg_l1_C0.1,Sparse logistic,0.3975804020598162,0.8417666603178634
+merlin,splenomegaly,outer_3,MEDA-Lite,logreg_l1_C0.1,Sparse logistic,0.3975804020598162,0.8417666603178634
+merlin,splenomegaly,outer_4,MEDA-Full,logreg_l1_C0.1,Sparse logistic,0.2299999999999999,0.7703743677650097
+merlin,splenomegaly,outer_4,MEDA-Lite,logreg_l1_C0.1,Sparse logistic,0.2299999999999999,0.7703743677650097
+merlin,splenomegaly,historical_validation,MEDA-Full,logreg_l1_C0.1,Sparse logistic,0.38,0.7804665832834847
+merlin,splenomegaly,historical_validation,MEDA-Lite,logreg_l1_C0.1,Sparse logistic,0.38,0.7804665832834847
+ctnexus,adrenal_hyperplasia,outer_0,MEDA-Full,logreg_l1_C0.05,Sparse logistic,0.4553276932736465,0.6411764705882352
+ctnexus,adrenal_hyperplasia,outer_0,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.4553276932736465,0.6411764705882352
+ctnexus,adrenal_hyperplasia,outer_1,MEDA-Full,rf_balanced,Random forest,0.1007490205549285,0.6352941176470588
+ctnexus,adrenal_hyperplasia,outer_1,MEDA-Lite,pca16_logreg,PCA-logistic,0.3679917746875946,0.6227941176470588
+ctnexus,adrenal_hyperplasia,outer_2,MEDA-Full,pca16_logreg,PCA-logistic,0.3956939738071414,0.6588235294117647
+ctnexus,adrenal_hyperplasia,outer_2,MEDA-Lite,pca16_logreg,PCA-logistic,0.3956939738071414,0.6588235294117647
+ctnexus,adrenal_hyperplasia,outer_3,MEDA-Full,logreg_C0.1,Balanced logistic,0.2226938307730213,0.6389705882352941
+ctnexus,adrenal_hyperplasia,outer_3,MEDA-Lite,logreg_C0.1,Balanced logistic,0.2226938307730213,0.6389705882352941
+ctnexus,adrenal_hyperplasia,outer_4,MEDA-Full,extratrees_balanced,ExtraTrees,0.09120733088133,0.6529411764705882
+ctnexus,adrenal_hyperplasia,outer_4,MEDA-Lite,pca16_logreg,PCA-logistic,0.4311960772015633,0.650735294117647
+ctnexus,adrenal_hyperplasia,historical_validation,MEDA-Full,pca8_logreg,PCA-logistic,0.5254994462827618,0.6505882352941177
+ctnexus,adrenal_hyperplasia,historical_validation,MEDA-Lite,pca8_logreg,PCA-logistic,0.5254994462827618,0.6505882352941177
+ctnexus,ascites,outer_0,MEDA-Full,pca128_logreg,PCA-logistic,0.152447934687082,0.7782384374424175
+ctnexus,ascites,outer_0,MEDA-Lite,pca128_logreg,PCA-logistic,0.152447934687082,0.7782384374424175
+ctnexus,ascites,outer_1,MEDA-Full,logreg_l1_C0.05,Sparse logistic,0.4875582752587876,0.7730978260869565
+ctnexus,ascites,outer_1,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.4875582752587876,0.7730978260869565
+ctnexus,ascites,outer_2,MEDA-Full,extratrees_balanced,ExtraTrees,0.12,0.7453339467832222
+ctnexus,ascites,outer_2,MEDA-Lite,logreg_C0.1,Balanced logistic,0.2287739468833579,0.7368299976995629
+ctnexus,ascites,outer_3,MEDA-Full,rf_balanced,Random forest,0.1510569917299297,0.7730848861283643
+ctnexus,ascites,outer_3,MEDA-Lite,logreg_C0.05,Balanced logistic,0.4362901395921829,0.7699026148301511
+ctnexus,ascites,outer_4,MEDA-Full,rf_balanced,Random forest,0.1182405449907468,0.7412161644045703
+ctnexus,ascites,outer_4,MEDA-Lite,logreg_C0.05,Balanced logistic,0.2299999999999999,0.7385016486465762
+ctnexus,ascites,historical_validation,MEDA-Full,xgb_d2_lr0.03_n350,XGBoost,0.06,0.7718835501840442
+ctnexus,ascites,historical_validation,MEDA-Lite,logreg_C0.05,Balanced logistic,0.22,0.7647481447945987
+ctnexus,atherosclerosis,outer_0,MEDA-Full,xgb_d2_lr0.03_n350,XGBoost,0.0175538573414087,0.6430581613508443
+ctnexus,atherosclerosis,outer_0,MEDA-Lite,pca8_logreg,PCA-logistic,0.4019867948192042,0.624390243902439
+ctnexus,atherosclerosis,outer_1,MEDA-Full,logreg_l1_C0.05,Sparse logistic,0.4076264769028968,0.6355720919610232
+ctnexus,atherosclerosis,outer_1,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.4076264769028968,0.6355720919610232
+ctnexus,atherosclerosis,outer_2,MEDA-Full,logreg_l1_C0.05,Sparse logistic,0.44,0.6462381710859177
+ctnexus,atherosclerosis,outer_2,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.44,0.6462381710859177
+ctnexus,atherosclerosis,outer_3,MEDA-Full,xgb_d2_lr0.05_n250,XGBoost,0.0138931369874626,0.6388644242481027
+ctnexus,atherosclerosis,outer_3,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.3555672585388051,0.6203691558137356
+ctnexus,atherosclerosis,outer_4,MEDA-Full,xgb_d3_lr0.025_n450,XGBoost,0.0108672373462468,0.6682844561041882
+ctnexus,atherosclerosis,outer_4,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.3699505937562983,0.6480933195914925
+ctnexus,atherosclerosis,historical_validation,MEDA-Full,logreg_l1_C0.1,Sparse logistic,0.3,0.666829109811566
+ctnexus,atherosclerosis,historical_validation,MEDA-Lite,logreg_l1_C0.1,Sparse logistic,0.3,0.666829109811566
+ctnexus,cholecystitis,outer_0,MEDA-Full,pca64_logreg,PCA-logistic,0.42,0.6135010822510822
+ctnexus,cholecystitis,outer_0,MEDA-Lite,pca64_logreg,PCA-logistic,0.42,0.6135010822510822
+ctnexus,cholecystitis,outer_1,MEDA-Full,pca8_logreg,PCA-logistic,0.5532251726883795,0.6046536796536797
+ctnexus,cholecystitis,outer_1,MEDA-Lite,pca8_logreg,PCA-logistic,0.5532251726883795,0.6046536796536797
+ctnexus,cholecystitis,outer_2,MEDA-Full,rf_balanced,Random forest,0.2242847942318984,0.6269296740994854
+ctnexus,cholecystitis,outer_2,MEDA-Lite,pca8_logreg,PCA-logistic,0.4791428738280857,0.6189251000571755
+ctnexus,cholecystitis,outer_3,MEDA-Full,pca8_logreg,PCA-logistic,0.4570134882913487,0.616923956546598
+ctnexus,cholecystitis,outer_3,MEDA-Lite,pca8_logreg,PCA-logistic,0.4570134882913487,0.616923956546598
+ctnexus,cholecystitis,outer_4,MEDA-Full,pca16_logreg,PCA-logistic,0.5664264340104237,0.624964265294454
+ctnexus,cholecystitis,outer_4,MEDA-Lite,pca16_logreg,PCA-logistic,0.5664264340104237,0.624964265294454
+ctnexus,cholecystitis,historical_validation,MEDA-Full,xgb_d3_lr0.025_n450,XGBoost,0.0518922683596611,0.6234848484848485
+ctnexus,cholecystitis,historical_validation,MEDA-Lite,pca8_logreg,PCA-logistic,0.4430901335748686,0.6113636363636363
+ctnexus,colorectal_cancer,outer_0,MEDA-Full,pca16_logreg,PCA-logistic,0.51,0.6417448405253283
+ctnexus,colorectal_cancer,outer_0,MEDA-Lite,pca16_logreg,PCA-logistic,0.51,0.6417448405253283
+ctnexus,colorectal_cancer,outer_1,MEDA-Full,pca32_logreg,PCA-logistic,0.3625045376612691,0.6199343339587242
+ctnexus,colorectal_cancer,outer_1,MEDA-Lite,pca32_logreg,PCA-logistic,0.3625045376612691,0.6199343339587242
+ctnexus,colorectal_cancer,outer_2,MEDA-Full,pca8_logreg,PCA-logistic,0.4168618620386603,0.5968033998521803
+ctnexus,colorectal_cancer,outer_2,MEDA-Lite,pca8_logreg,PCA-logistic,0.4168618620386603,0.5968033998521803
+ctnexus,colorectal_cancer,outer_3,MEDA-Full,xgb_d3_lr0.025_n450,XGBoost,0.0111912041902542,0.6258130081300813
+ctnexus,colorectal_cancer,outer_3,MEDA-Lite,pca64_logreg,PCA-logistic,0.12,0.6245934959349594
+ctnexus,colorectal_cancer,outer_4,MEDA-Full,rf_balanced,Random forest,0.0934423344578353,0.6378787878787879
+ctnexus,colorectal_cancer,outer_4,MEDA-Lite,logreg_l1_C0.5,Sparse logistic,0.15,0.6358832224685883
+ctnexus,colorectal_cancer,historical_validation,MEDA-Full,pca8_logreg,PCA-logistic,0.4453897509498035,0.6365853658536585
+ctnexus,colorectal_cancer,historical_validation,MEDA-Lite,pca8_logreg,PCA-logistic,0.4453897509498035,0.6365853658536585
+ctnexus,covid,outer_0,MEDA-Full,pca32_logreg,PCA-logistic,0.3908019197414138,0.6328914141414141
+ctnexus,covid,outer_0,MEDA-Lite,pca32_logreg,PCA-logistic,0.3908019197414138,0.6328914141414141
+ctnexus,covid,outer_1,MEDA-Full,pca16_logreg,PCA-logistic,0.5,0.6808712121212122
+ctnexus,covid,outer_1,MEDA-Lite,pca16_logreg,PCA-logistic,0.5,0.6808712121212122
+ctnexus,covid,outer_2,MEDA-Full,xgb_d2_lr0.05_n250,XGBoost,0.08,0.663510101010101
+ctnexus,covid,outer_2,MEDA-Lite,pca32_logreg,PCA-logistic,0.3636281290478204,0.6597222222222223
+ctnexus,covid,outer_3,MEDA-Full,extratrees_balanced,ExtraTrees,0.21,0.6765075376884422
+ctnexus,covid,outer_3,MEDA-Lite,extratrees_balanced,ExtraTrees,0.21,0.6765075376884422
+ctnexus,covid,outer_4,MEDA-Full,logreg_C0.1,Balanced logistic,0.56,0.682893634840871
+ctnexus,covid,outer_4,MEDA-Lite,logreg_C0.1,Balanced logistic,0.56,0.682893634840871
+ctnexus,covid,historical_validation,MEDA-Full,histgb,HistGradientBoosting,0.0330530525666397,0.6958333333333333
+ctnexus,covid,historical_validation,MEDA-Lite,extratrees_balanced,ExtraTrees,0.2454394229675307,0.694489247311828
+ctnexus,fatty_liver,outer_0,MEDA-Full,logreg_C0.1,Balanced logistic,0.35,0.7788533905320991
+ctnexus,fatty_liver,outer_0,MEDA-Lite,logreg_C0.1,Balanced logistic,0.35,0.7788533905320991
+ctnexus,fatty_liver,outer_1,MEDA-Full,logreg_l1_C0.25,Sparse logistic,0.3197846788412196,0.7681662527282306
+ctnexus,fatty_liver,outer_1,MEDA-Lite,logreg_l1_C0.25,Sparse logistic,0.3197846788412196,0.7681662527282306
+ctnexus,fatty_liver,outer_2,MEDA-Full,logreg_l1_C0.1,Sparse logistic,0.5800000000000001,0.7894652668021374
+ctnexus,fatty_liver,outer_2,MEDA-Lite,logreg_l1_C0.1,Sparse logistic,0.5800000000000001,0.7894652668021374
+ctnexus,fatty_liver,outer_3,MEDA-Full,logreg_l1_C0.25,Sparse logistic,0.26,0.7944231203431926
+ctnexus,fatty_liver,outer_3,MEDA-Lite,logreg_l1_C0.25,Sparse logistic,0.26,0.7944231203431926
+ctnexus,fatty_liver,outer_4,MEDA-Full,logreg_C0.05,Balanced logistic,0.47,0.7906604054859869
+ctnexus,fatty_liver,outer_4,MEDA-Lite,logreg_C0.05,Balanced logistic,0.47,0.7906604054859869
+ctnexus,fatty_liver,historical_validation,MEDA-Full,logreg_C0.05,Balanced logistic,0.4589518333600062,0.7782945736434108
+ctnexus,fatty_liver,historical_validation,MEDA-Lite,logreg_C0.05,Balanced logistic,0.4589518333600062,0.7782945736434108
+ctnexus,gallstone,outer_0,MEDA-Full,logreg_C0.05,Balanced logistic,0.5225687565082104,0.6158854166666667
+ctnexus,gallstone,outer_0,MEDA-Lite,logreg_C0.05,Balanced logistic,0.5225687565082104,0.6158854166666667
+ctnexus,gallstone,outer_1,MEDA-Full,xgb_d2_lr0.05_n250,XGBoost,0.1195604720711708,0.6263020833333333
+ctnexus,gallstone,outer_1,MEDA-Lite,logreg_C1.0,Balanced logistic,0.1699999999999999,0.6002604166666667
+ctnexus,gallstone,outer_2,MEDA-Full,pca8_logreg,PCA-logistic,0.5168503688095216,0.60546875
+ctnexus,gallstone,outer_2,MEDA-Lite,pca8_logreg,PCA-logistic,0.5168503688095216,0.60546875
+ctnexus,gallstone,outer_3,MEDA-Full,pca32_logreg,PCA-logistic,0.5,0.6184895833333333
+ctnexus,gallstone,outer_3,MEDA-Lite,pca32_logreg,PCA-logistic,0.5,0.6184895833333333
+ctnexus,gallstone,outer_4,MEDA-Full,logreg_l1_C0.05,Sparse logistic,0.5395593238024978,0.625
+ctnexus,gallstone,outer_4,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.5395593238024978,0.625
+ctnexus,gallstone,historical_validation,MEDA-Full,extratrees_balanced,ExtraTrees,0.2599219534719617,0.59375
+ctnexus,gallstone,historical_validation,MEDA-Lite,pca32_logreg,PCA-logistic,0.2909647639847951,0.5895833333333333
+ctnexus,hydronephrosis,outer_0,MEDA-Full,logreg_C0.1,Balanced logistic,0.5688646304698798,0.7565217391304349
+ctnexus,hydronephrosis,outer_0,MEDA-Lite,logreg_C0.1,Balanced logistic,0.5688646304698798,0.7565217391304349
+ctnexus,hydronephrosis,outer_1,MEDA-Full,rf_balanced,Random forest,0.3005525219976093,0.7101949025487256
+ctnexus,hydronephrosis,outer_1,MEDA-Lite,logreg_C0.05,Balanced logistic,0.4179587306506154,0.709895052473763
+ctnexus,hydronephrosis,outer_2,MEDA-Full,xgb_d2_lr0.05_n250,XGBoost,0.1383509159088135,0.7308620256345815
+ctnexus,hydronephrosis,outer_2,MEDA-Lite,logreg_C0.05,Balanced logistic,0.47,0.7192259361648656
+ctnexus,hydronephrosis,outer_3,MEDA-Full,pca256_logreg,PCA-logistic,0.13,0.7063081176174919
+ctnexus,hydronephrosis,outer_3,MEDA-Lite,pca256_logreg,PCA-logistic,0.13,0.7063081176174919
+ctnexus,hydronephrosis,outer_4,MEDA-Full,logreg_C0.05,Balanced logistic,0.3608275095175151,0.7309499874340286
+ctnexus,hydronephrosis,outer_4,MEDA-Lite,logreg_C0.05,Balanced logistic,0.3608275095175151,0.7309499874340286
+ctnexus,hydronephrosis,historical_validation,MEDA-Full,logreg_l1_C0.25,Sparse logistic,0.39,0.7488425925925926
+ctnexus,hydronephrosis,historical_validation,MEDA-Lite,logreg_l1_C0.25,Sparse logistic,0.39,0.7488425925925926
+ctnexus,kidney_stone,outer_0,MEDA-Full,pca64_logreg,PCA-logistic,0.54,0.653765690376569
+ctnexus,kidney_stone,outer_0,MEDA-Lite,pca64_logreg,PCA-logistic,0.54,0.653765690376569
+ctnexus,kidney_stone,outer_1,MEDA-Full,pca64_logreg,PCA-logistic,0.41,0.6422594142259415
+ctnexus,kidney_stone,outer_1,MEDA-Lite,pca64_logreg,PCA-logistic,0.41,0.6422594142259415
+ctnexus,kidney_stone,outer_2,MEDA-Full,logreg_l1_C0.25,Sparse logistic,0.33,0.6459728033472802
+ctnexus,kidney_stone,outer_2,MEDA-Lite,logreg_l1_C0.25,Sparse logistic,0.33,0.6459728033472802
+ctnexus,kidney_stone,outer_3,MEDA-Full,extratrees_balanced,ExtraTrees,0.41,0.6320219075654476
+ctnexus,kidney_stone,outer_3,MEDA-Lite,pca64_logreg,PCA-logistic,0.5700000000000001,0.6289471615377225
+ctnexus,kidney_stone,outer_4,MEDA-Full,pca64_logreg,PCA-logistic,0.49,0.6384378193761411
+ctnexus,kidney_stone,outer_4,MEDA-Lite,pca64_logreg,PCA-logistic,0.49,0.6384378193761411
+ctnexus,kidney_stone,historical_validation,MEDA-Full,logreg_l1_C0.1,Sparse logistic,0.53,0.6396321070234113
+ctnexus,kidney_stone,historical_validation,MEDA-Lite,logreg_l1_C0.1,Sparse logistic,0.53,0.6396321070234113
+ctnexus,liver_calcifications,outer_0,MEDA-Full,logreg_l1_C0.5,Sparse logistic,0.2238117894320126,0.5908725641197348
+ctnexus,liver_calcifications,outer_0,MEDA-Lite,logreg_l1_C0.5,Sparse logistic,0.2238117894320126,0.5908725641197348
+ctnexus,liver_calcifications,outer_1,MEDA-Full,extratrees_balanced,ExtraTrees,0.1876617192331476,0.5995864863054979
+ctnexus,liver_calcifications,outer_1,MEDA-Lite,pca256_logreg,PCA-logistic,0.0510635858781582,0.5949491060068305
+ctnexus,liver_calcifications,outer_2,MEDA-Full,pca128_logreg,PCA-logistic,0.16,0.5856005308560053
+ctnexus,liver_calcifications,outer_2,MEDA-Lite,pca128_logreg,PCA-logistic,0.16,0.5856005308560053
+ctnexus,liver_calcifications,outer_3,MEDA-Full,pca64_logreg,PCA-logistic,0.2590491948154658,0.5916390179163902
+ctnexus,liver_calcifications,outer_3,MEDA-Lite,pca64_logreg,PCA-logistic,0.2590491948154658,0.5916390179163902
+ctnexus,liver_calcifications,outer_4,MEDA-Full,pca64_logreg,PCA-logistic,0.46,0.5838918380889184
+ctnexus,liver_calcifications,outer_4,MEDA-Lite,pca64_logreg,PCA-logistic,0.46,0.5838918380889184
+ctnexus,liver_calcifications,historical_validation,MEDA-Full,histgb,HistGradientBoosting,0.0133909196902585,0.5802919708029197
+ctnexus,liver_calcifications,historical_validation,MEDA-Lite,pca8_logreg,PCA-logistic,0.4552670017382531,0.5715328467153284
+ctnexus,liver_cyst,outer_0,MEDA-Full,rf_balanced,Random forest,0.5067918044248507,0.655404981491938
+ctnexus,liver_cyst,outer_0,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.5251524779245116,0.63770468661773
+ctnexus,liver_cyst,outer_1,MEDA-Full,rf_balanced,Random forest,0.5148308238018912,0.6850492502666415
+ctnexus,liver_cyst,outer_1,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.5109272247593514,0.6633885438233265
+ctnexus,liver_cyst,outer_2,MEDA-Full,pca8_logreg,PCA-logistic,0.47,0.6304347826086957
+ctnexus,liver_cyst,outer_2,MEDA-Lite,pca8_logreg,PCA-logistic,0.47,0.6304347826086957
+ctnexus,liver_cyst,outer_3,MEDA-Full,xgb_d2_lr0.05_n250,XGBoost,0.5090085208415985,0.6383399209486167
+ctnexus,liver_cyst,outer_3,MEDA-Lite,logreg_l1_C0.1,Sparse logistic,0.43,0.6343873517786561
+ctnexus,liver_cyst,outer_4,MEDA-Full,extratrees_balanced,ExtraTrees,0.4782866884141278,0.6422924901185771
+ctnexus,liver_cyst,outer_4,MEDA-Lite,pca16_logreg,PCA-logistic,0.43,0.6245059288537549
+ctnexus,liver_cyst,historical_validation,MEDA-Full,logreg_l1_C0.05,Sparse logistic,0.5154848195605888,0.6550632911392406
+ctnexus,liver_cyst,historical_validation,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.5154848195605888,0.6550632911392406
+ctnexus,liver_lesion,outer_0,MEDA-Full,xgb_d2_lr0.05_n250,XGBoost,0.1671887338161468,0.6676646706586826
+ctnexus,liver_lesion,outer_0,MEDA-Lite,pca64_logreg,PCA-logistic,0.3679113540057015,0.6646706586826348
+ctnexus,liver_lesion,outer_1,MEDA-Full,xgb_d4_lr0.02_n500,XGBoost,0.28,0.6751497005988023
+ctnexus,liver_lesion,outer_1,MEDA-Lite,pca16_logreg,PCA-logistic,0.47,0.6586826347305389
+ctnexus,liver_lesion,outer_2,MEDA-Full,pca64_logreg,PCA-logistic,0.31,0.6758334078112431
+ctnexus,liver_lesion,outer_2,MEDA-Lite,pca64_logreg,PCA-logistic,0.31,0.6758334078112431
+ctnexus,liver_lesion,outer_3,MEDA-Full,pca32_logreg,PCA-logistic,0.55,0.6665832514076325
+ctnexus,liver_lesion,outer_3,MEDA-Lite,pca32_logreg,PCA-logistic,0.55,0.6665832514076325
+ctnexus,liver_lesion,outer_4,MEDA-Full,histgb,HistGradientBoosting,0.1524533346570562,0.6490768463073853
+ctnexus,liver_lesion,outer_4,MEDA-Lite,pca32_logreg,PCA-logistic,0.4906504912787287,0.6403086683775306
+ctnexus,liver_lesion,historical_validation,MEDA-Full,xgb_d2_lr0.03_n350,XGBoost,0.3550343900918961,0.6650717703349283
+ctnexus,liver_lesion,historical_validation,MEDA-Lite,logreg_l1_C0.1,Sparse logistic,0.5006868560774956,0.6507177033492824
+ctnexus,lung_nodule_malignancy,outer_0,MEDA-Full,histgb,HistGradientBoosting,0.006223421396801,0.5819444444444444
+ctnexus,lung_nodule_malignancy,outer_0,MEDA-Lite,logreg_l1_C0.25,Sparse logistic,0.1234562390551194,0.5819444444444444
+ctnexus,lung_nodule_malignancy,outer_1,MEDA-Full,logreg_l1_C0.25,Sparse logistic,0.171949279167706,0.5680555555555555
+ctnexus,lung_nodule_malignancy,outer_1,MEDA-Lite,logreg_l1_C0.25,Sparse logistic,0.171949279167706,0.5680555555555555
+ctnexus,lung_nodule_malignancy,outer_2,MEDA-Full,pca128_logreg,PCA-logistic,0.29,0.5805555555555555
+ctnexus,lung_nodule_malignancy,outer_2,MEDA-Lite,pca128_logreg,PCA-logistic,0.29,0.5805555555555555
+ctnexus,lung_nodule_malignancy,outer_3,MEDA-Full,logreg_C0.05,Balanced logistic,0.3296782682087884,0.6097222222222223
+ctnexus,lung_nodule_malignancy,outer_3,MEDA-Lite,logreg_C0.05,Balanced logistic,0.3296782682087884,0.6097222222222223
+ctnexus,lung_nodule_malignancy,outer_4,MEDA-Full,histgb,HistGradientBoosting,0.0117655849419413,0.5805555555555556
+ctnexus,lung_nodule_malignancy,outer_4,MEDA-Lite,logreg_l1_C0.5,Sparse logistic,0.0096041592630627,0.5666666666666667
+ctnexus,lung_nodule_malignancy,historical_validation,MEDA-Full,logreg_C0.05,Balanced logistic,0.27,0.5577777777777777
+ctnexus,lung_nodule_malignancy,historical_validation,MEDA-Lite,logreg_C0.05,Balanced logistic,0.27,0.5577777777777777
+ctnexus,lymphadenopathy,outer_0,MEDA-Full,logreg_C2.0,Balanced logistic,0.15,0.6316484105922873
+ctnexus,lymphadenopathy,outer_0,MEDA-Lite,logreg_C2.0,Balanced logistic,0.15,0.6316484105922873
+ctnexus,lymphadenopathy,outer_1,MEDA-Full,pca64_logreg,PCA-logistic,0.2653627186687839,0.6188975704345843
+ctnexus,lymphadenopathy,outer_1,MEDA-Lite,pca64_logreg,PCA-logistic,0.2653627186687839,0.6188975704345843
+ctnexus,lymphadenopathy,outer_2,MEDA-Full,xgb_d3_lr0.025_n450,XGBoost,0.0140408982988446,0.6088703424358197
+ctnexus,lymphadenopathy,outer_2,MEDA-Lite,pca32_logreg,PCA-logistic,0.3235308919119749,0.6058463620599721
+ctnexus,lymphadenopathy,outer_3,MEDA-Full,logreg_l1_C0.05,Sparse logistic,0.4780762479107021,0.619584678499429
+ctnexus,lymphadenopathy,outer_3,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.4780762479107021,0.619584678499429
+ctnexus,lymphadenopathy,outer_4,MEDA-Full,logreg_l1_C0.25,Sparse logistic,0.278953786315305,0.6141640703198794
+ctnexus,lymphadenopathy,outer_4,MEDA-Lite,logreg_l1_C0.25,Sparse logistic,0.278953786315305,0.6141640703198794
+ctnexus,lymphadenopathy,historical_validation,MEDA-Full,logreg_l1_C0.05,Sparse logistic,0.3888264256459864,0.5908227504613047
+ctnexus,lymphadenopathy,historical_validation,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.3888264256459864,0.5908227504613047
+ctnexus,renal_cyst,outer_0,MEDA-Full,logreg_l1_C0.1,Sparse logistic,0.5135130039634106,0.6525157232704402
+ctnexus,renal_cyst,outer_0,MEDA-Lite,logreg_l1_C0.1,Sparse logistic,0.5135130039634106,0.6525157232704402
+ctnexus,renal_cyst,outer_1,MEDA-Full,pca8_logreg,PCA-logistic,0.4772872873954141,0.6341456201573312
+ctnexus,renal_cyst,outer_1,MEDA-Lite,pca8_logreg,PCA-logistic,0.4772872873954141,0.6341456201573312
+ctnexus,renal_cyst,outer_2,MEDA-Full,extratrees_balanced,ExtraTrees,0.4986566712183927,0.6247412314425977
+ctnexus,renal_cyst,outer_2,MEDA-Lite,pca8_logreg,PCA-logistic,0.46391499504307,0.6214930699315866
+ctnexus,renal_cyst,outer_3,MEDA-Full,pca8_logreg,PCA-logistic,0.47,0.6170964689181995
+ctnexus,renal_cyst,outer_3,MEDA-Lite,pca8_logreg,PCA-logistic,0.47,0.6170964689181995
+ctnexus,renal_cyst,outer_4,MEDA-Full,pca32_logreg,PCA-logistic,0.4122818463729779,0.628132331775793
+ctnexus,renal_cyst,outer_4,MEDA-Lite,pca32_logreg,PCA-logistic,0.4122818463729779,0.628132331775793
+ctnexus,renal_cyst,historical_validation,MEDA-Full,pca8_logreg,PCA-logistic,0.4951600215554673,0.6306532663316583
+ctnexus,renal_cyst,historical_validation,MEDA-Lite,pca8_logreg,PCA-logistic,0.4951600215554673,0.6306532663316583
+ctnexus,splenomegaly,outer_0,MEDA-Full,rf_balanced,Random forest,0.0919227989862998,0.7814645308924485
+ctnexus,splenomegaly,outer_0,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.31,0.7704360539028732
+ctnexus,splenomegaly,outer_1,MEDA-Full,extratrees_balanced,ExtraTrees,0.1146040431743534,0.7561713768740307
+ctnexus,splenomegaly,outer_1,MEDA-Lite,pca64_logreg,PCA-logistic,0.19,0.735427795967603
+ctnexus,splenomegaly,outer_2,MEDA-Full,rf_balanced,Random forest,0.0735160149202581,0.7481218123717013
+ctnexus,splenomegaly,outer_2,MEDA-Lite,logreg_C0.05,Balanced logistic,0.52,0.7436353247412864
+ctnexus,splenomegaly,outer_3,MEDA-Full,logreg_C0.05,Balanced logistic,0.4,0.7884790383679343
+ctnexus,splenomegaly,outer_3,MEDA-Lite,logreg_C0.05,Balanced logistic,0.4,0.7884790383679343
+ctnexus,splenomegaly,outer_4,MEDA-Full,xgb_d4_lr0.02_n500,XGBoost,0.0180987667292356,0.7910503036844221
+ctnexus,splenomegaly,outer_4,MEDA-Lite,logreg_l1_C0.5,Sparse logistic,0.2739456538156429,0.7533384123759338
+ctnexus,splenomegaly,historical_validation,MEDA-Full,logreg_l1_C0.05,Sparse logistic,0.4062083790878266,0.7598224482027298
+ctnexus,splenomegaly,historical_validation,MEDA-Lite,logreg_l1_C0.05,Sparse logistic,0.4062083790878266,0.7598224482027298

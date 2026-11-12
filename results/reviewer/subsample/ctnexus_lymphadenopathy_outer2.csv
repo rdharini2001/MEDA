@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+ctnexus,lymphadenopathy,2,0,pca32_logreg,PCA-logistic,0.3235308919119749,logreg_C0.1,Balanced logistic,0.1888655214630496
+ctnexus,lymphadenopathy,2,1,pca32_logreg,PCA-logistic,0.3235308919119749,logreg_C2.0,Balanced logistic,0.004572359833039619
+ctnexus,lymphadenopathy,2,2,pca32_logreg,PCA-logistic,0.3235308919119749,logreg_C0.25,Balanced logistic,0.15
+ctnexus,lymphadenopathy,2,3,pca32_logreg,PCA-logistic,0.3235308919119749,pca32_logreg,PCA-logistic,0.41058213174067687
+ctnexus,lymphadenopathy,2,4,pca32_logreg,PCA-logistic,0.3235308919119749,pca128_logreg,PCA-logistic,0.021241291614211663
+ctnexus,lymphadenopathy,2,5,pca32_logreg,PCA-logistic,0.3235308919119749,logreg_C0.25,Balanced logistic,0.207919715145322
+ctnexus,lymphadenopathy,2,6,pca32_logreg,PCA-logistic,0.3235308919119749,logreg_l1_C0.05,Sparse logistic,0.5070169943844629
+ctnexus,lymphadenopathy,2,7,pca32_logreg,PCA-logistic,0.3235308919119749,pca8_logreg,PCA-logistic,0.4851709773761358
+ctnexus,lymphadenopathy,2,8,pca32_logreg,PCA-logistic,0.3235308919119749,logreg_C0.1,Balanced logistic,0.13144898349382117
+ctnexus,lymphadenopathy,2,9,pca32_logreg,PCA-logistic,0.3235308919119749,logreg_C0.05,Balanced logistic,0.375543298304149
+ctnexus,lymphadenopathy,2,10,pca32_logreg,PCA-logistic,0.3235308919119749,pca64_logreg,PCA-logistic,0.0473985319603196
+ctnexus,lymphadenopathy,2,11,pca32_logreg,PCA-logistic,0.3235308919119749,pca256_logreg,PCA-logistic,0.26407881991059157
+ctnexus,lymphadenopathy,2,12,pca32_logreg,PCA-logistic,0.3235308919119749,pca32_logreg,PCA-logistic,0.35295341774924865
+ctnexus,lymphadenopathy,2,13,pca32_logreg,PCA-logistic,0.3235308919119749,logreg_l1_C0.05,Sparse logistic,0.4972684981260294
+ctnexus,lymphadenopathy,2,14,pca32_logreg,PCA-logistic,0.3235308919119749,logreg_l1_C0.05,Sparse logistic,0.6119411721432455
+ctnexus,lymphadenopathy,2,15,pca32_logreg,PCA-logistic,0.3235308919119749,logreg_C2.0,Balanced logistic,0.03416702131781122
+ctnexus,lymphadenopathy,2,16,pca32_logreg,PCA-logistic,0.3235308919119749,pca128_logreg,PCA-logistic,0.04985928215740268
+ctnexus,lymphadenopathy,2,17,pca32_logreg,PCA-logistic,0.3235308919119749,logreg_l1_C0.05,Sparse logistic,0.43000000000000005
+ctnexus,lymphadenopathy,2,18,pca32_logreg,PCA-logistic,0.3235308919119749,logreg_l1_C0.05,Sparse logistic,0.4727711110330951
+ctnexus,lymphadenopathy,2,19,pca32_logreg,PCA-logistic,0.3235308919119749,logreg_l1_C0.05,Sparse logistic,0.45

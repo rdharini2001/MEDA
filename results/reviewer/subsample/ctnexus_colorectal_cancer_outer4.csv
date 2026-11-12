@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+ctnexus,colorectal_cancer,4,0,logreg_l1_C0.5,Sparse logistic,0.15,logreg_l1_C0.05,Sparse logistic,0.584756121093828
+ctnexus,colorectal_cancer,4,1,logreg_l1_C0.5,Sparse logistic,0.15,pca64_logreg,PCA-logistic,0.26
+ctnexus,colorectal_cancer,4,2,logreg_l1_C0.5,Sparse logistic,0.15,pca16_logreg,PCA-logistic,0.4730346473040403
+ctnexus,colorectal_cancer,4,3,logreg_l1_C0.5,Sparse logistic,0.15,logreg_l1_C0.1,Sparse logistic,0.36000000000000004
+ctnexus,colorectal_cancer,4,4,logreg_l1_C0.5,Sparse logistic,0.15,pca64_logreg,PCA-logistic,0.03457326048229087
+ctnexus,colorectal_cancer,4,5,logreg_l1_C0.5,Sparse logistic,0.15,pca16_logreg,PCA-logistic,0.45
+ctnexus,colorectal_cancer,4,6,logreg_l1_C0.5,Sparse logistic,0.15,logreg_l1_C0.1,Sparse logistic,0.34
+ctnexus,colorectal_cancer,4,7,logreg_l1_C0.5,Sparse logistic,0.15,pca16_logreg,PCA-logistic,0.55
+ctnexus,colorectal_cancer,4,8,logreg_l1_C0.5,Sparse logistic,0.15,pca16_logreg,PCA-logistic,0.37617794295120904
+ctnexus,colorectal_cancer,4,9,logreg_l1_C0.5,Sparse logistic,0.15,pca16_logreg,PCA-logistic,0.4374815344129596
+ctnexus,colorectal_cancer,4,10,logreg_l1_C0.5,Sparse logistic,0.15,logreg_l1_C0.05,Sparse logistic,0.618537699654917
+ctnexus,colorectal_cancer,4,11,logreg_l1_C0.5,Sparse logistic,0.15,pca16_logreg,PCA-logistic,0.4938929995672077
+ctnexus,colorectal_cancer,4,12,logreg_l1_C0.5,Sparse logistic,0.15,pca16_logreg,PCA-logistic,0.42000000000000004
+ctnexus,colorectal_cancer,4,13,logreg_l1_C0.5,Sparse logistic,0.15,logreg_l1_C0.25,Sparse logistic,0.2040470081734376
+ctnexus,colorectal_cancer,4,14,logreg_l1_C0.5,Sparse logistic,0.15,logreg_l1_C0.5,Sparse logistic,0.15
+ctnexus,colorectal_cancer,4,15,logreg_l1_C0.5,Sparse logistic,0.15,pca32_logreg,PCA-logistic,0.5508794906184452
+ctnexus,colorectal_cancer,4,16,logreg_l1_C0.5,Sparse logistic,0.15,pca32_logreg,PCA-logistic,0.55
+ctnexus,colorectal_cancer,4,17,logreg_l1_C0.5,Sparse logistic,0.15,pca16_logreg,PCA-logistic,0.379090900275928
+ctnexus,colorectal_cancer,4,18,logreg_l1_C0.5,Sparse logistic,0.15,pca128_logreg,PCA-logistic,0.11041207198572114
+ctnexus,colorectal_cancer,4,19,logreg_l1_C0.5,Sparse logistic,0.15,logreg_l1_C0.25,Sparse logistic,0.22542594037366365

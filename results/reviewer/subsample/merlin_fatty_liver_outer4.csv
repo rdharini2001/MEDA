@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+merlin,fatty_liver,4,0,logreg_l1_C0.1,Sparse logistic,0.47000000000000003,logreg_l1_C0.05,Sparse logistic,0.54
+merlin,fatty_liver,4,1,logreg_l1_C0.1,Sparse logistic,0.47000000000000003,logreg_l1_C0.25,Sparse logistic,0.43000000000000005
+merlin,fatty_liver,4,2,logreg_l1_C0.1,Sparse logistic,0.47000000000000003,logreg_l1_C0.25,Sparse logistic,0.4344468092807277
+merlin,fatty_liver,4,3,logreg_l1_C0.1,Sparse logistic,0.47000000000000003,logreg_l1_C0.1,Sparse logistic,0.5700000000000001
+merlin,fatty_liver,4,4,logreg_l1_C0.1,Sparse logistic,0.47000000000000003,logreg_l1_C0.05,Sparse logistic,0.4557020840320202
+merlin,fatty_liver,4,5,logreg_l1_C0.1,Sparse logistic,0.47000000000000003,logreg_l1_C0.1,Sparse logistic,0.38
+merlin,fatty_liver,4,6,logreg_l1_C0.1,Sparse logistic,0.47000000000000003,logreg_l1_C0.25,Sparse logistic,0.43000000000000005
+merlin,fatty_liver,4,7,logreg_l1_C0.1,Sparse logistic,0.47000000000000003,logreg_l1_C0.1,Sparse logistic,0.42000000000000004
+merlin,fatty_liver,4,8,logreg_l1_C0.1,Sparse logistic,0.47000000000000003,logreg_l1_C0.1,Sparse logistic,0.4965759756783451
+merlin,fatty_liver,4,9,logreg_l1_C0.1,Sparse logistic,0.47000000000000003,logreg_l1_C0.25,Sparse logistic,0.43315258376475957
+merlin,fatty_liver,4,10,logreg_l1_C0.1,Sparse logistic,0.47000000000000003,logreg_l1_C0.25,Sparse logistic,0.52
+merlin,fatty_liver,4,11,logreg_l1_C0.1,Sparse logistic,0.47000000000000003,logreg_l1_C0.25,Sparse logistic,0.34336841753470804
+merlin,fatty_liver,4,12,logreg_l1_C0.1,Sparse logistic,0.47000000000000003,logreg_l1_C0.1,Sparse logistic,0.36000000000000004
+merlin,fatty_liver,4,13,logreg_l1_C0.1,Sparse logistic,0.47000000000000003,logreg_l1_C0.1,Sparse logistic,0.5
+merlin,fatty_liver,4,14,logreg_l1_C0.1,Sparse logistic,0.47000000000000003,logreg_l1_C0.1,Sparse logistic,0.46867250425431967
+merlin,fatty_liver,4,15,logreg_l1_C0.1,Sparse logistic,0.47000000000000003,logreg_l1_C0.25,Sparse logistic,0.24
+merlin,fatty_liver,4,16,logreg_l1_C0.1,Sparse logistic,0.47000000000000003,logreg_l1_C0.25,Sparse logistic,0.38
+merlin,fatty_liver,4,17,logreg_l1_C0.1,Sparse logistic,0.47000000000000003,logreg_l1_C0.1,Sparse logistic,0.51
+merlin,fatty_liver,4,18,logreg_l1_C0.1,Sparse logistic,0.47000000000000003,logreg_C0.05,Balanced logistic,0.44801507946895314
+merlin,fatty_liver,4,19,logreg_l1_C0.1,Sparse logistic,0.47000000000000003,logreg_C0.05,Balanced logistic,0.28

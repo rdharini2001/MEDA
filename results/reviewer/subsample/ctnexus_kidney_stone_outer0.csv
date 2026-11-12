@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+ctnexus,kidney_stone,0,0,pca64_logreg,PCA-logistic,0.54,logreg_l1_C0.05,Sparse logistic,0.4993507118587611
+ctnexus,kidney_stone,0,1,pca64_logreg,PCA-logistic,0.54,pca32_logreg,PCA-logistic,0.5227530924844875
+ctnexus,kidney_stone,0,2,pca64_logreg,PCA-logistic,0.54,logreg_l1_C0.05,Sparse logistic,0.5231676618213779
+ctnexus,kidney_stone,0,3,pca64_logreg,PCA-logistic,0.54,logreg_C0.05,Balanced logistic,0.43000000000000005
+ctnexus,kidney_stone,0,4,pca64_logreg,PCA-logistic,0.54,pca32_logreg,PCA-logistic,0.4958147800555783
+ctnexus,kidney_stone,0,5,pca64_logreg,PCA-logistic,0.54,logreg_l1_C0.05,Sparse logistic,0.5
+ctnexus,kidney_stone,0,6,pca64_logreg,PCA-logistic,0.54,logreg_l1_C0.1,Sparse logistic,0.45
+ctnexus,kidney_stone,0,7,pca64_logreg,PCA-logistic,0.54,pca64_logreg,PCA-logistic,0.5953496238490104
+ctnexus,kidney_stone,0,8,pca64_logreg,PCA-logistic,0.54,logreg_l1_C0.05,Sparse logistic,0.4926045332692609
+ctnexus,kidney_stone,0,9,pca64_logreg,PCA-logistic,0.54,logreg_l1_C0.05,Sparse logistic,0.5387335627670619
+ctnexus,kidney_stone,0,10,pca64_logreg,PCA-logistic,0.54,logreg_C0.05,Balanced logistic,0.45
+ctnexus,kidney_stone,0,11,pca64_logreg,PCA-logistic,0.54,logreg_l1_C0.1,Sparse logistic,0.4640347153095516
+ctnexus,kidney_stone,0,12,pca64_logreg,PCA-logistic,0.54,logreg_l1_C0.1,Sparse logistic,0.48000000000000004
+ctnexus,kidney_stone,0,13,pca64_logreg,PCA-logistic,0.54,pca64_logreg,PCA-logistic,0.52
+ctnexus,kidney_stone,0,14,pca64_logreg,PCA-logistic,0.54,pca64_logreg,PCA-logistic,0.46987808778569096
+ctnexus,kidney_stone,0,15,pca64_logreg,PCA-logistic,0.54,logreg_l1_C0.05,Sparse logistic,0.5173386892763723
+ctnexus,kidney_stone,0,16,pca64_logreg,PCA-logistic,0.54,pca32_logreg,PCA-logistic,0.53
+ctnexus,kidney_stone,0,17,pca64_logreg,PCA-logistic,0.54,logreg_C0.05,Balanced logistic,0.2837951374942687
+ctnexus,kidney_stone,0,18,pca64_logreg,PCA-logistic,0.54,logreg_l1_C0.5,Sparse logistic,0.30000000000000004
+ctnexus,kidney_stone,0,19,pca64_logreg,PCA-logistic,0.54,logreg_C0.1,Balanced logistic,0.35077216539474465

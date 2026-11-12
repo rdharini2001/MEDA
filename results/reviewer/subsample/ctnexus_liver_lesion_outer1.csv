@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+ctnexus,liver_lesion,1,0,pca16_logreg,PCA-logistic,0.47000000000000003,logreg_l1_C0.05,Sparse logistic,0.4979121224979141
+ctnexus,liver_lesion,1,1,pca16_logreg,PCA-logistic,0.47000000000000003,logreg_C0.1,Balanced logistic,0.46801895171599006
+ctnexus,liver_lesion,1,2,pca16_logreg,PCA-logistic,0.47000000000000003,pca64_logreg,PCA-logistic,0.21466588088357277
+ctnexus,liver_lesion,1,3,pca16_logreg,PCA-logistic,0.47000000000000003,pca32_logreg,PCA-logistic,0.56
+ctnexus,liver_lesion,1,4,pca16_logreg,PCA-logistic,0.47000000000000003,pca64_logreg,PCA-logistic,0.36895082935975676
+ctnexus,liver_lesion,1,5,pca16_logreg,PCA-logistic,0.47000000000000003,pca128_logreg,PCA-logistic,0.48000000000000004
+ctnexus,liver_lesion,1,6,pca16_logreg,PCA-logistic,0.47000000000000003,pca32_logreg,PCA-logistic,0.3584805848135043
+ctnexus,liver_lesion,1,7,pca16_logreg,PCA-logistic,0.47000000000000003,pca32_logreg,PCA-logistic,0.43000000000000005
+ctnexus,liver_lesion,1,8,pca16_logreg,PCA-logistic,0.47000000000000003,logreg_C0.05,Balanced logistic,0.41000000000000003
+ctnexus,liver_lesion,1,9,pca16_logreg,PCA-logistic,0.47000000000000003,logreg_l1_C0.1,Sparse logistic,0.49281207046011355
+ctnexus,liver_lesion,1,10,pca16_logreg,PCA-logistic,0.47000000000000003,logreg_l1_C0.05,Sparse logistic,0.48000000000000004
+ctnexus,liver_lesion,1,11,pca16_logreg,PCA-logistic,0.47000000000000003,pca64_logreg,PCA-logistic,0.33
+ctnexus,liver_lesion,1,12,pca16_logreg,PCA-logistic,0.47000000000000003,logreg_C0.1,Balanced logistic,0.30256836156529787
+ctnexus,liver_lesion,1,13,pca16_logreg,PCA-logistic,0.47000000000000003,pca32_logreg,PCA-logistic,0.5137911989691383
+ctnexus,liver_lesion,1,14,pca16_logreg,PCA-logistic,0.47000000000000003,pca128_logreg,PCA-logistic,0.06162757913872712
+ctnexus,liver_lesion,1,15,pca16_logreg,PCA-logistic,0.47000000000000003,pca32_logreg,PCA-logistic,0.5277322376180917
+ctnexus,liver_lesion,1,16,pca16_logreg,PCA-logistic,0.47000000000000003,pca64_logreg,PCA-logistic,0.31
+ctnexus,liver_lesion,1,17,pca16_logreg,PCA-logistic,0.47000000000000003,pca64_logreg,PCA-logistic,0.37585367580693224
+ctnexus,liver_lesion,1,18,pca16_logreg,PCA-logistic,0.47000000000000003,logreg_C0.05,Balanced logistic,0.3887671133514779
+ctnexus,liver_lesion,1,19,pca16_logreg,PCA-logistic,0.47000000000000003,pca256_logreg,PCA-logistic,0.42000000000000004

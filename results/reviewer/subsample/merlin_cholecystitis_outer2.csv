@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+merlin,cholecystitis,2,0,logreg_l1_C0.05,Sparse logistic,0.5092767745847236,logreg_l1_C0.05,Sparse logistic,0.5119339393280292
+merlin,cholecystitis,2,1,logreg_l1_C0.05,Sparse logistic,0.5092767745847236,logreg_l1_C0.05,Sparse logistic,0.4749028482253112
+merlin,cholecystitis,2,2,logreg_l1_C0.05,Sparse logistic,0.5092767745847236,logreg_l1_C0.1,Sparse logistic,0.5722874773299484
+merlin,cholecystitis,2,3,logreg_l1_C0.05,Sparse logistic,0.5092767745847236,logreg_l1_C0.05,Sparse logistic,0.48587386547066774
+merlin,cholecystitis,2,4,logreg_l1_C0.05,Sparse logistic,0.5092767745847236,logreg_l1_C0.1,Sparse logistic,0.5328582265169693
+merlin,cholecystitis,2,5,logreg_l1_C0.05,Sparse logistic,0.5092767745847236,logreg_l1_C0.05,Sparse logistic,0.5833476132186237
+merlin,cholecystitis,2,6,logreg_l1_C0.05,Sparse logistic,0.5092767745847236,logreg_l1_C0.05,Sparse logistic,0.5599875625574047
+merlin,cholecystitis,2,7,logreg_l1_C0.05,Sparse logistic,0.5092767745847236,logreg_C0.1,Balanced logistic,0.5677175655088577
+merlin,cholecystitis,2,8,logreg_l1_C0.05,Sparse logistic,0.5092767745847236,logreg_l1_C0.1,Sparse logistic,0.5800000000000001
+merlin,cholecystitis,2,9,logreg_l1_C0.05,Sparse logistic,0.5092767745847236,logreg_l1_C0.1,Sparse logistic,0.5529129618940936
+merlin,cholecystitis,2,10,logreg_l1_C0.05,Sparse logistic,0.5092767745847236,logreg_l1_C0.05,Sparse logistic,0.53
+merlin,cholecystitis,2,11,logreg_l1_C0.05,Sparse logistic,0.5092767745847236,logreg_l1_C0.1,Sparse logistic,0.4840263326663485
+merlin,cholecystitis,2,12,logreg_l1_C0.05,Sparse logistic,0.5092767745847236,logreg_l1_C0.05,Sparse logistic,0.47000000000000003
+merlin,cholecystitis,2,13,logreg_l1_C0.05,Sparse logistic,0.5092767745847236,logreg_l1_C0.05,Sparse logistic,0.52
+merlin,cholecystitis,2,14,logreg_l1_C0.05,Sparse logistic,0.5092767745847236,logreg_l1_C0.05,Sparse logistic,0.5123952064941804
+merlin,cholecystitis,2,15,logreg_l1_C0.05,Sparse logistic,0.5092767745847236,logreg_l1_C0.05,Sparse logistic,0.5799468181808659
+merlin,cholecystitis,2,16,logreg_l1_C0.05,Sparse logistic,0.5092767745847236,logreg_l1_C0.05,Sparse logistic,0.51
+merlin,cholecystitis,2,17,logreg_l1_C0.05,Sparse logistic,0.5092767745847236,logreg_l1_C0.05,Sparse logistic,0.5636654830412909
+merlin,cholecystitis,2,18,logreg_l1_C0.05,Sparse logistic,0.5092767745847236,logreg_l1_C0.05,Sparse logistic,0.5623341589761748
+merlin,cholecystitis,2,19,logreg_l1_C0.05,Sparse logistic,0.5092767745847236,logreg_C2.0,Balanced logistic,0.06

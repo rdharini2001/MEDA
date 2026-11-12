@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+merlin,liver_cyst,0,0,logreg_l1_C0.1,Sparse logistic,0.4441899366038891,logreg_l1_C0.25,Sparse logistic,0.4364206473893522
+merlin,liver_cyst,0,1,logreg_l1_C0.1,Sparse logistic,0.4441899366038891,logreg_l1_C0.25,Sparse logistic,0.49303570936422797
+merlin,liver_cyst,0,2,logreg_l1_C0.1,Sparse logistic,0.4441899366038891,logreg_C0.25,Balanced logistic,0.7198842867992582
+merlin,liver_cyst,0,3,logreg_l1_C0.1,Sparse logistic,0.4441899366038891,logreg_C0.05,Balanced logistic,0.29906789478913026
+merlin,liver_cyst,0,4,logreg_l1_C0.1,Sparse logistic,0.4441899366038891,logreg_C0.1,Balanced logistic,0.41000000000000003
+merlin,liver_cyst,0,5,logreg_l1_C0.1,Sparse logistic,0.4441899366038891,logreg_l1_C0.25,Sparse logistic,0.5800000000000001
+merlin,liver_cyst,0,6,logreg_l1_C0.1,Sparse logistic,0.4441899366038891,logreg_l1_C0.25,Sparse logistic,0.5894993180319781
+merlin,liver_cyst,0,7,logreg_l1_C0.1,Sparse logistic,0.4441899366038891,logreg_C0.1,Balanced logistic,0.35000000000000003
+merlin,liver_cyst,0,8,logreg_l1_C0.1,Sparse logistic,0.4441899366038891,logreg_l1_C0.25,Sparse logistic,0.38985260817328193
+merlin,liver_cyst,0,9,logreg_l1_C0.1,Sparse logistic,0.4441899366038891,logreg_C0.5,Balanced logistic,0.39
+merlin,liver_cyst,0,10,logreg_l1_C0.1,Sparse logistic,0.4441899366038891,logreg_l1_C0.5,Sparse logistic,0.55
+merlin,liver_cyst,0,11,logreg_l1_C0.1,Sparse logistic,0.4441899366038891,logreg_l1_C0.1,Sparse logistic,0.5171222136595944
+merlin,liver_cyst,0,12,logreg_l1_C0.1,Sparse logistic,0.4441899366038891,logreg_l1_C0.1,Sparse logistic,0.5050333504074959
+merlin,liver_cyst,0,13,logreg_l1_C0.1,Sparse logistic,0.4441899366038891,logreg_l1_C0.25,Sparse logistic,0.5187155982373423
+merlin,liver_cyst,0,14,logreg_l1_C0.1,Sparse logistic,0.4441899366038891,logreg_l1_C0.25,Sparse logistic,0.43679153396551906
+merlin,liver_cyst,0,15,logreg_l1_C0.1,Sparse logistic,0.4441899366038891,logreg_l1_C0.1,Sparse logistic,0.4905401609203702
+merlin,liver_cyst,0,16,logreg_l1_C0.1,Sparse logistic,0.4441899366038891,logreg_C0.05,Balanced logistic,0.32
+merlin,liver_cyst,0,17,logreg_l1_C0.1,Sparse logistic,0.4441899366038891,logreg_l1_C0.25,Sparse logistic,0.4010383436093818
+merlin,liver_cyst,0,18,logreg_l1_C0.1,Sparse logistic,0.4441899366038891,logreg_l1_C0.25,Sparse logistic,0.5164170664552861
+merlin,liver_cyst,0,19,logreg_l1_C0.1,Sparse logistic,0.4441899366038891,logreg_l1_C0.25,Sparse logistic,0.5118455290203326

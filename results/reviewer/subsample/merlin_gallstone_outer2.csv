@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+merlin,gallstone,2,0,logreg_l1_C0.05,Sparse logistic,0.49484565831618715,logreg_C0.25,Balanced logistic,0.16730433664336006
+merlin,gallstone,2,1,logreg_l1_C0.05,Sparse logistic,0.49484565831618715,logreg_l1_C0.05,Sparse logistic,0.5350999234533685
+merlin,gallstone,2,2,logreg_l1_C0.05,Sparse logistic,0.49484565831618715,logreg_l1_C0.1,Sparse logistic,0.49000000000000005
+merlin,gallstone,2,3,logreg_l1_C0.05,Sparse logistic,0.49484565831618715,logreg_l1_C0.25,Sparse logistic,0.41000000000000003
+merlin,gallstone,2,4,logreg_l1_C0.05,Sparse logistic,0.49484565831618715,logreg_l1_C0.05,Sparse logistic,0.5061639895551489
+merlin,gallstone,2,5,logreg_l1_C0.05,Sparse logistic,0.49484565831618715,logreg_l1_C0.05,Sparse logistic,0.5047942018139076
+merlin,gallstone,2,6,logreg_l1_C0.05,Sparse logistic,0.49484565831618715,logreg_l1_C0.25,Sparse logistic,0.29953452102956335
+merlin,gallstone,2,7,logreg_l1_C0.05,Sparse logistic,0.49484565831618715,logreg_C1.0,Balanced logistic,0.19
+merlin,gallstone,2,8,logreg_l1_C0.05,Sparse logistic,0.49484565831618715,logreg_l1_C0.25,Sparse logistic,0.43000000000000005
+merlin,gallstone,2,9,logreg_l1_C0.05,Sparse logistic,0.49484565831618715,logreg_l1_C0.1,Sparse logistic,0.5
+merlin,gallstone,2,10,logreg_l1_C0.05,Sparse logistic,0.49484565831618715,logreg_l1_C0.5,Sparse logistic,0.34
+merlin,gallstone,2,11,logreg_l1_C0.05,Sparse logistic,0.49484565831618715,logreg_l1_C0.1,Sparse logistic,0.5800000000000001
+merlin,gallstone,2,12,logreg_l1_C0.05,Sparse logistic,0.49484565831618715,logreg_l1_C0.05,Sparse logistic,0.4884153636499677
+merlin,gallstone,2,13,logreg_l1_C0.05,Sparse logistic,0.49484565831618715,logreg_C0.05,Balanced logistic,0.28
+merlin,gallstone,2,14,logreg_l1_C0.05,Sparse logistic,0.49484565831618715,logreg_l1_C0.25,Sparse logistic,0.45
+merlin,gallstone,2,15,logreg_l1_C0.05,Sparse logistic,0.49484565831618715,logreg_l1_C0.1,Sparse logistic,0.4825923882833258
+merlin,gallstone,2,16,logreg_l1_C0.05,Sparse logistic,0.49484565831618715,logreg_l1_C0.1,Sparse logistic,0.4937632172477897
+merlin,gallstone,2,17,logreg_l1_C0.05,Sparse logistic,0.49484565831618715,logreg_l1_C0.5,Sparse logistic,0.15926211374528235
+merlin,gallstone,2,18,logreg_l1_C0.05,Sparse logistic,0.49484565831618715,logreg_l1_C0.1,Sparse logistic,0.5359325826697752
+merlin,gallstone,2,19,logreg_l1_C0.05,Sparse logistic,0.49484565831618715,logreg_l1_C0.05,Sparse logistic,0.5072880976612134

@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+ctnexus,covid,2,0,pca32_logreg,PCA-logistic,0.3636281290478204,logreg_C0.1,Balanced logistic,0.48000000000000004
+ctnexus,covid,2,1,pca32_logreg,PCA-logistic,0.3636281290478204,logreg_C0.05,Balanced logistic,0.4058284968344519
+ctnexus,covid,2,2,pca32_logreg,PCA-logistic,0.3636281290478204,rf_balanced,Random forest,0.19852139309156525
+ctnexus,covid,2,3,pca32_logreg,PCA-logistic,0.3636281290478204,logreg_C0.05,Balanced logistic,0.56
+ctnexus,covid,2,4,pca32_logreg,PCA-logistic,0.3636281290478204,extratrees_balanced,ExtraTrees,0.23651489704307374
+ctnexus,covid,2,5,pca32_logreg,PCA-logistic,0.3636281290478204,extratrees_balanced,ExtraTrees,0.19805661188502646
+ctnexus,covid,2,6,pca32_logreg,PCA-logistic,0.3636281290478204,logreg_C2.0,Balanced logistic,0.4792970960939293
+ctnexus,covid,2,7,pca32_logreg,PCA-logistic,0.3636281290478204,pca8_logreg,PCA-logistic,0.4798559786400884
+ctnexus,covid,2,8,pca32_logreg,PCA-logistic,0.3636281290478204,rf_balanced,Random forest,0.18
+ctnexus,covid,2,9,pca32_logreg,PCA-logistic,0.3636281290478204,pca16_logreg,PCA-logistic,0.5055685547254338
+ctnexus,covid,2,10,pca32_logreg,PCA-logistic,0.3636281290478204,rf_balanced,Random forest,0.27
+ctnexus,covid,2,11,pca32_logreg,PCA-logistic,0.3636281290478204,rf_balanced,Random forest,0.21
+ctnexus,covid,2,12,pca32_logreg,PCA-logistic,0.3636281290478204,logreg_l1_C0.25,Sparse logistic,0.35000000000000003
+ctnexus,covid,2,13,pca32_logreg,PCA-logistic,0.3636281290478204,pca16_logreg,PCA-logistic,0.49000000000000005
+ctnexus,covid,2,14,pca32_logreg,PCA-logistic,0.3636281290478204,rf_balanced,Random forest,0.19353779776114596
+ctnexus,covid,2,15,pca32_logreg,PCA-logistic,0.3636281290478204,pca32_logreg,PCA-logistic,0.4494742943969907
+ctnexus,covid,2,16,pca32_logreg,PCA-logistic,0.3636281290478204,logreg_C0.05,Balanced logistic,0.40314375882282477
+ctnexus,covid,2,17,pca32_logreg,PCA-logistic,0.3636281290478204,rf_balanced,Random forest,0.22
+ctnexus,covid,2,18,pca32_logreg,PCA-logistic,0.3636281290478204,rf_balanced,Random forest,0.19999999999999998
+ctnexus,covid,2,19,pca32_logreg,PCA-logistic,0.3636281290478204,extratrees_balanced,ExtraTrees,0.2192455765438932

@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+merlin,covid,2,0,logreg_l1_C0.1,Sparse logistic,0.5872880312089465,logreg_C1.0,Balanced logistic,0.54
+merlin,covid,2,1,logreg_l1_C0.1,Sparse logistic,0.5872880312089465,logreg_C0.05,Balanced logistic,0.6902497106969763
+merlin,covid,2,2,logreg_l1_C0.1,Sparse logistic,0.5872880312089465,logreg_C0.1,Balanced logistic,0.5185214362907707
+merlin,covid,2,3,logreg_l1_C0.1,Sparse logistic,0.5872880312089465,logreg_C0.05,Balanced logistic,0.7100000000000001
+merlin,covid,2,4,logreg_l1_C0.1,Sparse logistic,0.5872880312089465,logreg_C0.1,Balanced logistic,0.3977771004844826
+merlin,covid,2,5,logreg_l1_C0.1,Sparse logistic,0.5872880312089465,logreg_l1_C0.05,Sparse logistic,0.5508693073364233
+merlin,covid,2,6,logreg_l1_C0.1,Sparse logistic,0.5872880312089465,logreg_l1_C0.1,Sparse logistic,0.6727367959579177
+merlin,covid,2,7,logreg_l1_C0.1,Sparse logistic,0.5872880312089465,logreg_C0.05,Balanced logistic,0.7100000000000001
+merlin,covid,2,8,logreg_l1_C0.1,Sparse logistic,0.5872880312089465,logreg_C0.1,Balanced logistic,0.55
+merlin,covid,2,9,logreg_l1_C0.1,Sparse logistic,0.5872880312089465,logreg_l1_C0.05,Sparse logistic,0.5122333041717413
+merlin,covid,2,10,logreg_l1_C0.1,Sparse logistic,0.5872880312089465,logreg_C2.0,Balanced logistic,0.3148119493160295
+merlin,covid,2,11,logreg_l1_C0.1,Sparse logistic,0.5872880312089465,logreg_l1_C0.05,Sparse logistic,0.5040551521177519
+merlin,covid,2,12,logreg_l1_C0.1,Sparse logistic,0.5872880312089465,logreg_C0.25,Balanced logistic,0.29549032218600907
+merlin,covid,2,13,logreg_l1_C0.1,Sparse logistic,0.5872880312089465,logreg_l1_C0.1,Sparse logistic,0.52
+merlin,covid,2,14,logreg_l1_C0.1,Sparse logistic,0.5872880312089465,logreg_l1_C0.25,Sparse logistic,0.53
+merlin,covid,2,15,logreg_l1_C0.1,Sparse logistic,0.5872880312089465,logreg_C0.1,Balanced logistic,0.485848184671793
+merlin,covid,2,16,logreg_l1_C0.1,Sparse logistic,0.5872880312089465,logreg_l1_C0.1,Sparse logistic,0.66
+merlin,covid,2,17,logreg_l1_C0.1,Sparse logistic,0.5872880312089465,logreg_l1_C0.25,Sparse logistic,0.5
+merlin,covid,2,18,logreg_l1_C0.1,Sparse logistic,0.5872880312089465,logreg_C0.1,Balanced logistic,0.56
+merlin,covid,2,19,logreg_l1_C0.1,Sparse logistic,0.5872880312089465,logreg_C1.0,Balanced logistic,0.8858511174185125

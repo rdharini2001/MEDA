@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+ctnexus,gallstone,4,0,logreg_l1_C0.05,Sparse logistic,0.5395593238024978,logreg_l1_C0.5,Sparse logistic,0.569916809896014
+ctnexus,gallstone,4,1,logreg_l1_C0.05,Sparse logistic,0.5395593238024978,pca32_logreg,PCA-logistic,0.41101532469342794
+ctnexus,gallstone,4,2,logreg_l1_C0.05,Sparse logistic,0.5395593238024978,pca16_logreg,PCA-logistic,0.436824779785296
+ctnexus,gallstone,4,3,logreg_l1_C0.05,Sparse logistic,0.5395593238024978,pca32_logreg,PCA-logistic,0.2939039761152571
+ctnexus,gallstone,4,4,logreg_l1_C0.05,Sparse logistic,0.5395593238024978,pca16_logreg,PCA-logistic,0.48000000000000004
+ctnexus,gallstone,4,5,logreg_l1_C0.05,Sparse logistic,0.5395593238024978,logreg_C0.1,Balanced logistic,0.27358066182820995
+ctnexus,gallstone,4,6,logreg_l1_C0.05,Sparse logistic,0.5395593238024978,pca8_logreg,PCA-logistic,0.475426997306006
+ctnexus,gallstone,4,7,logreg_l1_C0.05,Sparse logistic,0.5395593238024978,logreg_l1_C0.05,Sparse logistic,0.5035853224984214
+ctnexus,gallstone,4,8,logreg_l1_C0.05,Sparse logistic,0.5395593238024978,logreg_l1_C0.1,Sparse logistic,0.5900000000000001
+ctnexus,gallstone,4,9,logreg_l1_C0.05,Sparse logistic,0.5395593238024978,logreg_l1_C0.05,Sparse logistic,0.5698086227932847
+ctnexus,gallstone,4,10,logreg_l1_C0.05,Sparse logistic,0.5395593238024978,logreg_l1_C0.05,Sparse logistic,0.5330640500544506
+ctnexus,gallstone,4,11,logreg_l1_C0.05,Sparse logistic,0.5395593238024978,pca8_logreg,PCA-logistic,0.4512321405748212
+ctnexus,gallstone,4,12,logreg_l1_C0.05,Sparse logistic,0.5395593238024978,pca32_logreg,PCA-logistic,0.31
+ctnexus,gallstone,4,13,logreg_l1_C0.05,Sparse logistic,0.5395593238024978,pca8_logreg,PCA-logistic,0.3957044460194492
+ctnexus,gallstone,4,14,logreg_l1_C0.05,Sparse logistic,0.5395593238024978,logreg_C0.05,Balanced logistic,0.3537480326979316
+ctnexus,gallstone,4,15,logreg_l1_C0.05,Sparse logistic,0.5395593238024978,pca32_logreg,PCA-logistic,0.28
+ctnexus,gallstone,4,16,logreg_l1_C0.05,Sparse logistic,0.5395593238024978,pca32_logreg,PCA-logistic,0.24427201435489704
+ctnexus,gallstone,4,17,logreg_l1_C0.05,Sparse logistic,0.5395593238024978,pca32_logreg,PCA-logistic,0.38
+ctnexus,gallstone,4,18,logreg_l1_C0.05,Sparse logistic,0.5395593238024978,pca32_logreg,PCA-logistic,0.510909956701066
+ctnexus,gallstone,4,19,logreg_l1_C0.05,Sparse logistic,0.5395593238024978,pca16_logreg,PCA-logistic,0.5387883695169088

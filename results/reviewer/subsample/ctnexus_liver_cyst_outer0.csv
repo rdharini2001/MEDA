@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+ctnexus,liver_cyst,0,0,logreg_l1_C0.05,Sparse logistic,0.5251524779245116,logreg_l1_C0.25,Sparse logistic,0.55
+ctnexus,liver_cyst,0,1,logreg_l1_C0.05,Sparse logistic,0.5251524779245116,pca8_logreg,PCA-logistic,0.5
+ctnexus,liver_cyst,0,2,logreg_l1_C0.05,Sparse logistic,0.5251524779245116,pca8_logreg,PCA-logistic,0.54
+ctnexus,liver_cyst,0,3,logreg_l1_C0.05,Sparse logistic,0.5251524779245116,logreg_C0.05,Balanced logistic,0.3672783998874643
+ctnexus,liver_cyst,0,4,logreg_l1_C0.05,Sparse logistic,0.5251524779245116,pca8_logreg,PCA-logistic,0.46
+ctnexus,liver_cyst,0,5,logreg_l1_C0.05,Sparse logistic,0.5251524779245116,logreg_l1_C0.05,Sparse logistic,0.5183243321478528
+ctnexus,liver_cyst,0,6,logreg_l1_C0.05,Sparse logistic,0.5251524779245116,logreg_l1_C0.05,Sparse logistic,0.5306701258483575
+ctnexus,liver_cyst,0,7,logreg_l1_C0.05,Sparse logistic,0.5251524779245116,pca16_logreg,PCA-logistic,0.42000000000000004
+ctnexus,liver_cyst,0,8,logreg_l1_C0.05,Sparse logistic,0.5251524779245116,pca8_logreg,PCA-logistic,0.5218387974924387
+ctnexus,liver_cyst,0,9,logreg_l1_C0.05,Sparse logistic,0.5251524779245116,pca128_logreg,PCA-logistic,0.27
+ctnexus,liver_cyst,0,10,logreg_l1_C0.05,Sparse logistic,0.5251524779245116,logreg_l1_C0.05,Sparse logistic,0.4794410877035754
+ctnexus,liver_cyst,0,11,logreg_l1_C0.05,Sparse logistic,0.5251524779245116,logreg_l1_C0.1,Sparse logistic,0.5433417183442751
+ctnexus,liver_cyst,0,12,logreg_l1_C0.05,Sparse logistic,0.5251524779245116,pca64_logreg,PCA-logistic,0.34612327816886057
+ctnexus,liver_cyst,0,13,logreg_l1_C0.05,Sparse logistic,0.5251524779245116,pca128_logreg,PCA-logistic,0.27
+ctnexus,liver_cyst,0,14,logreg_l1_C0.05,Sparse logistic,0.5251524779245116,pca16_logreg,PCA-logistic,0.4408203989485745
+ctnexus,liver_cyst,0,15,logreg_l1_C0.05,Sparse logistic,0.5251524779245116,logreg_l1_C0.1,Sparse logistic,0.47000000000000003
+ctnexus,liver_cyst,0,16,logreg_l1_C0.05,Sparse logistic,0.5251524779245116,logreg_l1_C0.1,Sparse logistic,0.47377345467645543
+ctnexus,liver_cyst,0,17,logreg_l1_C0.05,Sparse logistic,0.5251524779245116,logreg_C0.05,Balanced logistic,0.48000000000000004
+ctnexus,liver_cyst,0,18,logreg_l1_C0.05,Sparse logistic,0.5251524779245116,logreg_l1_C0.05,Sparse logistic,0.4938597030111553
+ctnexus,liver_cyst,0,19,logreg_l1_C0.05,Sparse logistic,0.5251524779245116,logreg_l1_C0.05,Sparse logistic,0.4818742724140286

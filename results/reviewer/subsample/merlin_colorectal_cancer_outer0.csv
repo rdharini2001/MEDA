@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+merlin,colorectal_cancer,0,0,logreg_l1_C0.05,Sparse logistic,0.515464331403372,logreg_l1_C0.1,Sparse logistic,0.5317815299689357
+merlin,colorectal_cancer,0,1,logreg_l1_C0.05,Sparse logistic,0.515464331403372,logreg_l1_C0.05,Sparse logistic,0.46683133322830833
+merlin,colorectal_cancer,0,2,logreg_l1_C0.05,Sparse logistic,0.515464331403372,logreg_C0.05,Balanced logistic,0.41000000000000003
+merlin,colorectal_cancer,0,3,logreg_l1_C0.05,Sparse logistic,0.515464331403372,logreg_l1_C0.25,Sparse logistic,0.16270986839385143
+merlin,colorectal_cancer,0,4,logreg_l1_C0.05,Sparse logistic,0.515464331403372,logreg_l1_C0.1,Sparse logistic,0.42000000000000004
+merlin,colorectal_cancer,0,5,logreg_l1_C0.05,Sparse logistic,0.515464331403372,logreg_l1_C0.05,Sparse logistic,0.43637248144397317
+merlin,colorectal_cancer,0,6,logreg_l1_C0.05,Sparse logistic,0.515464331403372,logreg_C0.25,Balanced logistic,0.13999999999999999
+merlin,colorectal_cancer,0,7,logreg_l1_C0.05,Sparse logistic,0.515464331403372,logreg_l1_C0.1,Sparse logistic,0.35026372778601095
+merlin,colorectal_cancer,0,8,logreg_l1_C0.05,Sparse logistic,0.515464331403372,logreg_l1_C0.05,Sparse logistic,0.4514222896857734
+merlin,colorectal_cancer,0,9,logreg_l1_C0.05,Sparse logistic,0.515464331403372,logreg_C2.0,Balanced logistic,0.017344010934502305
+merlin,colorectal_cancer,0,10,logreg_l1_C0.05,Sparse logistic,0.515464331403372,logreg_l1_C0.1,Sparse logistic,0.41000000000000003
+merlin,colorectal_cancer,0,11,logreg_l1_C0.05,Sparse logistic,0.515464331403372,logreg_C0.1,Balanced logistic,0.11
+merlin,colorectal_cancer,0,12,logreg_l1_C0.05,Sparse logistic,0.515464331403372,logreg_l1_C0.05,Sparse logistic,0.5714732599523948
+merlin,colorectal_cancer,0,13,logreg_l1_C0.05,Sparse logistic,0.515464331403372,logreg_l1_C0.05,Sparse logistic,0.5458243743478398
+merlin,colorectal_cancer,0,14,logreg_l1_C0.05,Sparse logistic,0.515464331403372,logreg_l1_C0.05,Sparse logistic,0.62
+merlin,colorectal_cancer,0,15,logreg_l1_C0.05,Sparse logistic,0.515464331403372,logreg_l1_C0.05,Sparse logistic,0.46
+merlin,colorectal_cancer,0,16,logreg_l1_C0.05,Sparse logistic,0.515464331403372,logreg_l1_C0.25,Sparse logistic,0.24106855060084936
+merlin,colorectal_cancer,0,17,logreg_l1_C0.05,Sparse logistic,0.515464331403372,logreg_C0.05,Balanced logistic,0.34
+merlin,colorectal_cancer,0,18,logreg_l1_C0.05,Sparse logistic,0.515464331403372,logreg_l1_C0.5,Sparse logistic,0.13178139699567462
+merlin,colorectal_cancer,0,19,logreg_l1_C0.05,Sparse logistic,0.515464331403372,logreg_l1_C0.5,Sparse logistic,0.04

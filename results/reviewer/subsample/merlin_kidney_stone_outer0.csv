@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+merlin,kidney_stone,0,0,logreg_l1_C0.5,Sparse logistic,0.46,logreg_l1_C0.25,Sparse logistic,0.5132856134443735
+merlin,kidney_stone,0,1,logreg_l1_C0.5,Sparse logistic,0.46,logreg_C0.5,Balanced logistic,0.48000000000000004
+merlin,kidney_stone,0,2,logreg_l1_C0.5,Sparse logistic,0.46,logreg_l1_C0.1,Sparse logistic,0.5274037052832046
+merlin,kidney_stone,0,3,logreg_l1_C0.5,Sparse logistic,0.46,logreg_C0.05,Balanced logistic,0.4180875102620363
+merlin,kidney_stone,0,4,logreg_l1_C0.5,Sparse logistic,0.46,logreg_l1_C0.5,Sparse logistic,0.48000000000000004
+merlin,kidney_stone,0,5,logreg_l1_C0.5,Sparse logistic,0.46,logreg_C0.1,Balanced logistic,0.47000000000000003
+merlin,kidney_stone,0,6,logreg_l1_C0.5,Sparse logistic,0.46,logreg_l1_C0.25,Sparse logistic,0.524784311755704
+merlin,kidney_stone,0,7,logreg_l1_C0.5,Sparse logistic,0.46,logreg_C0.05,Balanced logistic,0.48000000000000004
+merlin,kidney_stone,0,8,logreg_l1_C0.5,Sparse logistic,0.46,logreg_C0.05,Balanced logistic,0.56
+merlin,kidney_stone,0,9,logreg_l1_C0.5,Sparse logistic,0.46,logreg_C0.05,Balanced logistic,0.53
+merlin,kidney_stone,0,10,logreg_l1_C0.5,Sparse logistic,0.46,logreg_l1_C0.1,Sparse logistic,0.544548141056176
+merlin,kidney_stone,0,11,logreg_l1_C0.5,Sparse logistic,0.46,logreg_C0.1,Balanced logistic,0.48000000000000004
+merlin,kidney_stone,0,12,logreg_l1_C0.5,Sparse logistic,0.46,logreg_C0.1,Balanced logistic,0.6
+merlin,kidney_stone,0,13,logreg_l1_C0.5,Sparse logistic,0.46,logreg_C1.0,Balanced logistic,0.31
+merlin,kidney_stone,0,14,logreg_l1_C0.5,Sparse logistic,0.46,logreg_C0.05,Balanced logistic,0.7253978690190248
+merlin,kidney_stone,0,15,logreg_l1_C0.5,Sparse logistic,0.46,logreg_C0.05,Balanced logistic,0.4938194985416064
+merlin,kidney_stone,0,16,logreg_l1_C0.5,Sparse logistic,0.46,logreg_C0.1,Balanced logistic,0.42000000000000004
+merlin,kidney_stone,0,17,logreg_l1_C0.5,Sparse logistic,0.46,logreg_l1_C0.1,Sparse logistic,0.5654010574637313
+merlin,kidney_stone,0,18,logreg_l1_C0.5,Sparse logistic,0.46,logreg_C0.05,Balanced logistic,0.41000000000000003
+merlin,kidney_stone,0,19,logreg_l1_C0.5,Sparse logistic,0.46,logreg_C0.05,Balanced logistic,0.47500508251078627

@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+ctnexus,gallstone,3,0,pca32_logreg,PCA-logistic,0.5,pca32_logreg,PCA-logistic,0.39
+ctnexus,gallstone,3,1,pca32_logreg,PCA-logistic,0.5,pca32_logreg,PCA-logistic,0.5056261260055758
+ctnexus,gallstone,3,2,pca32_logreg,PCA-logistic,0.5,pca32_logreg,PCA-logistic,0.4
+ctnexus,gallstone,3,3,pca32_logreg,PCA-logistic,0.5,pca32_logreg,PCA-logistic,0.39
+ctnexus,gallstone,3,4,pca32_logreg,PCA-logistic,0.5,pca64_logreg,PCA-logistic,0.28
+ctnexus,gallstone,3,5,pca32_logreg,PCA-logistic,0.5,pca32_logreg,PCA-logistic,0.3592742560269315
+ctnexus,gallstone,3,6,pca32_logreg,PCA-logistic,0.5,pca64_logreg,PCA-logistic,0.19671624171587337
+ctnexus,gallstone,3,7,pca32_logreg,PCA-logistic,0.5,pca32_logreg,PCA-logistic,0.3122335520052031
+ctnexus,gallstone,3,8,pca32_logreg,PCA-logistic,0.5,logreg_l1_C0.1,Sparse logistic,0.4985868219861596
+ctnexus,gallstone,3,9,pca32_logreg,PCA-logistic,0.5,pca32_logreg,PCA-logistic,0.4690809046879818
+ctnexus,gallstone,3,10,pca32_logreg,PCA-logistic,0.5,logreg_l1_C0.05,Sparse logistic,0.541622011723531
+ctnexus,gallstone,3,11,pca32_logreg,PCA-logistic,0.5,pca32_logreg,PCA-logistic,0.32
+ctnexus,gallstone,3,12,pca32_logreg,PCA-logistic,0.5,logreg_l1_C0.1,Sparse logistic,0.5522877962661019
+ctnexus,gallstone,3,13,pca32_logreg,PCA-logistic,0.5,pca64_logreg,PCA-logistic,0.19
+ctnexus,gallstone,3,14,pca32_logreg,PCA-logistic,0.5,pca32_logreg,PCA-logistic,0.24
+ctnexus,gallstone,3,15,pca32_logreg,PCA-logistic,0.5,logreg_l1_C0.1,Sparse logistic,0.5342502094066487
+ctnexus,gallstone,3,16,pca32_logreg,PCA-logistic,0.5,pca32_logreg,PCA-logistic,0.31972086566969976
+ctnexus,gallstone,3,17,pca32_logreg,PCA-logistic,0.5,pca64_logreg,PCA-logistic,0.31508052944702586
+ctnexus,gallstone,3,18,pca32_logreg,PCA-logistic,0.5,pca32_logreg,PCA-logistic,0.37000000000000005
+ctnexus,gallstone,3,19,pca32_logreg,PCA-logistic,0.5,pca32_logreg,PCA-logistic,0.21

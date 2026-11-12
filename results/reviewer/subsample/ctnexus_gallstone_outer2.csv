@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+ctnexus,gallstone,2,0,pca8_logreg,PCA-logistic,0.5168503688095216,pca32_logreg,PCA-logistic,0.25
+ctnexus,gallstone,2,1,pca8_logreg,PCA-logistic,0.5168503688095216,logreg_C1.0,Balanced logistic,0.02957126975080198
+ctnexus,gallstone,2,2,pca8_logreg,PCA-logistic,0.5168503688095216,pca256_logreg,PCA-logistic,0.040770778609956856
+ctnexus,gallstone,2,3,pca8_logreg,PCA-logistic,0.5168503688095216,pca16_logreg,PCA-logistic,0.40234214365691556
+ctnexus,gallstone,2,4,pca8_logreg,PCA-logistic,0.5168503688095216,pca32_logreg,PCA-logistic,0.27
+ctnexus,gallstone,2,5,pca8_logreg,PCA-logistic,0.5168503688095216,pca128_logreg,PCA-logistic,0.02563130933430919
+ctnexus,gallstone,2,6,pca8_logreg,PCA-logistic,0.5168503688095216,logreg_C0.05,Balanced logistic,0.5422575084815289
+ctnexus,gallstone,2,7,pca8_logreg,PCA-logistic,0.5168503688095216,logreg_l1_C0.05,Sparse logistic,0.5
+ctnexus,gallstone,2,8,pca8_logreg,PCA-logistic,0.5168503688095216,pca16_logreg,PCA-logistic,0.337390014320281
+ctnexus,gallstone,2,9,pca8_logreg,PCA-logistic,0.5168503688095216,pca32_logreg,PCA-logistic,0.46371615415195777
+ctnexus,gallstone,2,10,pca8_logreg,PCA-logistic,0.5168503688095216,pca256_logreg,PCA-logistic,0.31
+ctnexus,gallstone,2,11,pca8_logreg,PCA-logistic,0.5168503688095216,pca8_logreg,PCA-logistic,0.5900000000000001
+ctnexus,gallstone,2,12,pca8_logreg,PCA-logistic,0.5168503688095216,logreg_l1_C0.1,Sparse logistic,0.4765065728212925
+ctnexus,gallstone,2,13,pca8_logreg,PCA-logistic,0.5168503688095216,logreg_C0.05,Balanced logistic,0.61
+ctnexus,gallstone,2,14,pca8_logreg,PCA-logistic,0.5168503688095216,logreg_C0.1,Balanced logistic,0.19
+ctnexus,gallstone,2,15,pca8_logreg,PCA-logistic,0.5168503688095216,pca32_logreg,PCA-logistic,0.27
+ctnexus,gallstone,2,16,pca8_logreg,PCA-logistic,0.5168503688095216,pca32_logreg,PCA-logistic,0.43156993930274545
+ctnexus,gallstone,2,17,pca8_logreg,PCA-logistic,0.5168503688095216,pca8_logreg,PCA-logistic,0.45234060902198037
+ctnexus,gallstone,2,18,pca8_logreg,PCA-logistic,0.5168503688095216,pca256_logreg,PCA-logistic,0.10990306538297594
+ctnexus,gallstone,2,19,pca8_logreg,PCA-logistic,0.5168503688095216,logreg_l1_C0.1,Sparse logistic,0.5372950390114787

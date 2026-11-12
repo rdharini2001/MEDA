@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+merlin,lymphadenopathy,4,0,logreg_l1_C0.05,Sparse logistic,0.4842012513565353,logreg_l1_C0.05,Sparse logistic,0.5960296139680179
+merlin,lymphadenopathy,4,1,logreg_l1_C0.05,Sparse logistic,0.4842012513565353,logreg_C0.25,Balanced logistic,0.16999999999999998
+merlin,lymphadenopathy,4,2,logreg_l1_C0.05,Sparse logistic,0.4842012513565353,logreg_l1_C0.05,Sparse logistic,0.6198135209913322
+merlin,lymphadenopathy,4,3,logreg_l1_C0.05,Sparse logistic,0.4842012513565353,logreg_l1_C0.05,Sparse logistic,0.4809870683632974
+merlin,lymphadenopathy,4,4,logreg_l1_C0.05,Sparse logistic,0.4842012513565353,logreg_l1_C0.05,Sparse logistic,0.38299177901475095
+merlin,lymphadenopathy,4,5,logreg_l1_C0.05,Sparse logistic,0.4842012513565353,logreg_l1_C0.05,Sparse logistic,0.6
+merlin,lymphadenopathy,4,6,logreg_l1_C0.05,Sparse logistic,0.4842012513565353,logreg_l1_C0.05,Sparse logistic,0.63
+merlin,lymphadenopathy,4,7,logreg_l1_C0.05,Sparse logistic,0.4842012513565353,logreg_l1_C0.1,Sparse logistic,0.51
+merlin,lymphadenopathy,4,8,logreg_l1_C0.05,Sparse logistic,0.4842012513565353,logreg_l1_C0.05,Sparse logistic,0.52
+merlin,lymphadenopathy,4,9,logreg_l1_C0.05,Sparse logistic,0.4842012513565353,logreg_l1_C0.05,Sparse logistic,0.5360941620965205
+merlin,lymphadenopathy,4,10,logreg_l1_C0.05,Sparse logistic,0.4842012513565353,logreg_l1_C0.05,Sparse logistic,0.494257757766408
+merlin,lymphadenopathy,4,11,logreg_l1_C0.05,Sparse logistic,0.4842012513565353,logreg_l1_C0.05,Sparse logistic,0.51
+merlin,lymphadenopathy,4,12,logreg_l1_C0.05,Sparse logistic,0.4842012513565353,logreg_l1_C0.05,Sparse logistic,0.5
+merlin,lymphadenopathy,4,13,logreg_l1_C0.05,Sparse logistic,0.4842012513565353,logreg_l1_C0.1,Sparse logistic,0.4633797801779899
+merlin,lymphadenopathy,4,14,logreg_l1_C0.05,Sparse logistic,0.4842012513565353,logreg_l1_C0.05,Sparse logistic,0.6147964035870621
+merlin,lymphadenopathy,4,15,logreg_l1_C0.05,Sparse logistic,0.4842012513565353,logreg_l1_C0.05,Sparse logistic,0.47000000000000003
+merlin,lymphadenopathy,4,16,logreg_l1_C0.05,Sparse logistic,0.4842012513565353,logreg_l1_C0.25,Sparse logistic,0.4242031916061971
+merlin,lymphadenopathy,4,17,logreg_l1_C0.05,Sparse logistic,0.4842012513565353,logreg_l1_C0.05,Sparse logistic,0.49000000000000005
+merlin,lymphadenopathy,4,18,logreg_l1_C0.05,Sparse logistic,0.4842012513565353,logreg_l1_C0.1,Sparse logistic,0.35000000000000003
+merlin,lymphadenopathy,4,19,logreg_l1_C0.05,Sparse logistic,0.4842012513565353,logreg_l1_C0.05,Sparse logistic,0.5082891245665071

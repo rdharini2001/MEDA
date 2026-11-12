@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+merlin,lung_nodule_malignancy,0,0,logreg_l1_C0.25,Sparse logistic,0.26,logreg_l1_C0.05,Sparse logistic,0.5538677951466423
+merlin,lung_nodule_malignancy,0,1,logreg_l1_C0.25,Sparse logistic,0.26,logreg_C0.5,Balanced logistic,0.22999999999999998
+merlin,lung_nodule_malignancy,0,2,logreg_l1_C0.25,Sparse logistic,0.26,logreg_l1_C0.05,Sparse logistic,0.47022054736173874
+merlin,lung_nodule_malignancy,0,3,logreg_l1_C0.25,Sparse logistic,0.26,logreg_l1_C0.05,Sparse logistic,0.4669060147037775
+merlin,lung_nodule_malignancy,0,4,logreg_l1_C0.25,Sparse logistic,0.26,logreg_l1_C0.1,Sparse logistic,0.334125323807037
+merlin,lung_nodule_malignancy,0,5,logreg_l1_C0.25,Sparse logistic,0.26,logreg_l1_C0.1,Sparse logistic,0.2811403970679412
+merlin,lung_nodule_malignancy,0,6,logreg_l1_C0.25,Sparse logistic,0.26,logreg_C0.25,Balanced logistic,0.16
+merlin,lung_nodule_malignancy,0,7,logreg_l1_C0.25,Sparse logistic,0.26,logreg_l1_C0.05,Sparse logistic,0.4112655631352227
+merlin,lung_nodule_malignancy,0,8,logreg_l1_C0.25,Sparse logistic,0.26,logreg_l1_C0.25,Sparse logistic,0.35000000000000003
+merlin,lung_nodule_malignancy,0,9,logreg_l1_C0.25,Sparse logistic,0.26,logreg_l1_C0.5,Sparse logistic,0.02763091051451471
+merlin,lung_nodule_malignancy,0,10,logreg_l1_C0.25,Sparse logistic,0.26,logreg_l1_C0.05,Sparse logistic,0.46597721030162853
+merlin,lung_nodule_malignancy,0,11,logreg_l1_C0.25,Sparse logistic,0.26,logreg_l1_C0.05,Sparse logistic,0.5127030124893607
+merlin,lung_nodule_malignancy,0,12,logreg_l1_C0.25,Sparse logistic,0.26,logreg_l1_C0.05,Sparse logistic,0.4612629069893277
+merlin,lung_nodule_malignancy,0,13,logreg_l1_C0.25,Sparse logistic,0.26,logreg_l1_C0.05,Sparse logistic,0.5043581227829198
+merlin,lung_nodule_malignancy,0,14,logreg_l1_C0.25,Sparse logistic,0.26,logreg_C2.0,Balanced logistic,0.16700828397306244
+merlin,lung_nodule_malignancy,0,15,logreg_l1_C0.25,Sparse logistic,0.26,logreg_C0.5,Balanced logistic,0.19149669179131085
+merlin,lung_nodule_malignancy,0,16,logreg_l1_C0.25,Sparse logistic,0.26,logreg_l1_C0.1,Sparse logistic,0.34
+merlin,lung_nodule_malignancy,0,17,logreg_l1_C0.25,Sparse logistic,0.26,logreg_l1_C0.1,Sparse logistic,0.23889330307300566
+merlin,lung_nodule_malignancy,0,18,logreg_l1_C0.25,Sparse logistic,0.26,logreg_l1_C0.05,Sparse logistic,0.5909444626853387
+merlin,lung_nodule_malignancy,0,19,logreg_l1_C0.25,Sparse logistic,0.26,logreg_l1_C0.25,Sparse logistic,0.14359987484496822

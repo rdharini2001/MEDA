@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+ctnexus,liver_lesion,3,0,pca32_logreg,PCA-logistic,0.55,logreg_C0.1,Balanced logistic,0.39
+ctnexus,liver_lesion,3,1,pca32_logreg,PCA-logistic,0.55,pca32_logreg,PCA-logistic,0.46677290574803265
+ctnexus,liver_lesion,3,2,pca32_logreg,PCA-logistic,0.55,pca16_logreg,PCA-logistic,0.55
+ctnexus,liver_lesion,3,3,pca32_logreg,PCA-logistic,0.55,pca16_logreg,PCA-logistic,0.4895181719852532
+ctnexus,liver_lesion,3,4,pca32_logreg,PCA-logistic,0.55,pca16_logreg,PCA-logistic,0.55
+ctnexus,liver_lesion,3,5,pca32_logreg,PCA-logistic,0.55,logreg_C0.05,Balanced logistic,0.4
+ctnexus,liver_lesion,3,6,pca32_logreg,PCA-logistic,0.55,logreg_l1_C0.1,Sparse logistic,0.5719269781464245
+ctnexus,liver_lesion,3,7,pca32_logreg,PCA-logistic,0.55,pca64_logreg,PCA-logistic,0.25
+ctnexus,liver_lesion,3,8,pca32_logreg,PCA-logistic,0.55,pca32_logreg,PCA-logistic,0.42304407973903424
+ctnexus,liver_lesion,3,9,pca32_logreg,PCA-logistic,0.55,pca16_logreg,PCA-logistic,0.5679954438083329
+ctnexus,liver_lesion,3,10,pca32_logreg,PCA-logistic,0.55,pca64_logreg,PCA-logistic,0.4386963430304047
+ctnexus,liver_lesion,3,11,pca32_logreg,PCA-logistic,0.55,pca16_logreg,PCA-logistic,0.5285229218872892
+ctnexus,liver_lesion,3,12,pca32_logreg,PCA-logistic,0.55,pca16_logreg,PCA-logistic,0.55
+ctnexus,liver_lesion,3,13,pca32_logreg,PCA-logistic,0.55,pca32_logreg,PCA-logistic,0.5174078823824199
+ctnexus,liver_lesion,3,14,pca32_logreg,PCA-logistic,0.55,logreg_l1_C0.25,Sparse logistic,0.56
+ctnexus,liver_lesion,3,15,pca32_logreg,PCA-logistic,0.55,pca16_logreg,PCA-logistic,0.5314984394287563
+ctnexus,liver_lesion,3,16,pca32_logreg,PCA-logistic,0.55,pca16_logreg,PCA-logistic,0.5849564938437761
+ctnexus,liver_lesion,3,17,pca32_logreg,PCA-logistic,0.55,logreg_l1_C0.1,Sparse logistic,0.51
+ctnexus,liver_lesion,3,18,pca32_logreg,PCA-logistic,0.55,logreg_l1_C0.25,Sparse logistic,0.3695942304229025
+ctnexus,liver_lesion,3,19,pca32_logreg,PCA-logistic,0.55,logreg_C0.05,Balanced logistic,0.38605084570621173

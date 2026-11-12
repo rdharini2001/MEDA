@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+merlin,splenomegaly,2,0,logreg_l1_C0.05,Sparse logistic,0.36000000000000004,logreg_l1_C0.05,Sparse logistic,0.4518150832675878
+merlin,splenomegaly,2,1,logreg_l1_C0.05,Sparse logistic,0.36000000000000004,logreg_l1_C0.05,Sparse logistic,0.5
+merlin,splenomegaly,2,2,logreg_l1_C0.05,Sparse logistic,0.36000000000000004,logreg_C0.05,Balanced logistic,0.22
+merlin,splenomegaly,2,3,logreg_l1_C0.05,Sparse logistic,0.36000000000000004,logreg_l1_C0.05,Sparse logistic,0.5317338329619337
+merlin,splenomegaly,2,4,logreg_l1_C0.05,Sparse logistic,0.36000000000000004,logreg_l1_C0.05,Sparse logistic,0.5069447970536225
+merlin,splenomegaly,2,5,logreg_l1_C0.05,Sparse logistic,0.36000000000000004,logreg_l1_C0.05,Sparse logistic,0.5800000000000001
+merlin,splenomegaly,2,6,logreg_l1_C0.05,Sparse logistic,0.36000000000000004,logreg_C0.05,Balanced logistic,0.2986159788879772
+merlin,splenomegaly,2,7,logreg_l1_C0.05,Sparse logistic,0.36000000000000004,logreg_l1_C0.05,Sparse logistic,0.4949411567471316
+merlin,splenomegaly,2,8,logreg_l1_C0.05,Sparse logistic,0.36000000000000004,logreg_l1_C0.05,Sparse logistic,0.4221961136218422
+merlin,splenomegaly,2,9,logreg_l1_C0.05,Sparse logistic,0.36000000000000004,logreg_l1_C0.1,Sparse logistic,0.43000000000000005
+merlin,splenomegaly,2,10,logreg_l1_C0.05,Sparse logistic,0.36000000000000004,logreg_C0.05,Balanced logistic,0.20135851167937
+merlin,splenomegaly,2,11,logreg_l1_C0.05,Sparse logistic,0.36000000000000004,logreg_l1_C0.05,Sparse logistic,0.42000000000000004
+merlin,splenomegaly,2,12,logreg_l1_C0.05,Sparse logistic,0.36000000000000004,logreg_l1_C0.05,Sparse logistic,0.49448304890740363
+merlin,splenomegaly,2,13,logreg_l1_C0.05,Sparse logistic,0.36000000000000004,logreg_l1_C0.05,Sparse logistic,0.4640674327779785
+merlin,splenomegaly,2,14,logreg_l1_C0.05,Sparse logistic,0.36000000000000004,logreg_l1_C0.1,Sparse logistic,0.29695529167815893
+merlin,splenomegaly,2,15,logreg_l1_C0.05,Sparse logistic,0.36000000000000004,logreg_l1_C0.1,Sparse logistic,0.3464970248590126
+merlin,splenomegaly,2,16,logreg_l1_C0.05,Sparse logistic,0.36000000000000004,logreg_l1_C0.05,Sparse logistic,0.3645177532920152
+merlin,splenomegaly,2,17,logreg_l1_C0.05,Sparse logistic,0.36000000000000004,logreg_C0.5,Balanced logistic,0.19999999999999998
+merlin,splenomegaly,2,18,logreg_l1_C0.05,Sparse logistic,0.36000000000000004,logreg_l1_C0.05,Sparse logistic,0.47198203692521107
+merlin,splenomegaly,2,19,logreg_l1_C0.05,Sparse logistic,0.36000000000000004,logreg_l1_C0.05,Sparse logistic,0.44

@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+merlin,adrenal_hyperplasia,2,0,logreg_l1_C0.1,Sparse logistic,0.34894622257110197,logreg_l1_C0.1,Sparse logistic,0.5144988504798815
+merlin,adrenal_hyperplasia,2,1,logreg_l1_C0.1,Sparse logistic,0.34894622257110197,logreg_C0.05,Balanced logistic,0.16999999999999998
+merlin,adrenal_hyperplasia,2,2,logreg_l1_C0.1,Sparse logistic,0.34894622257110197,logreg_l1_C0.1,Sparse logistic,0.43000000000000005
+merlin,adrenal_hyperplasia,2,3,logreg_l1_C0.1,Sparse logistic,0.34894622257110197,logreg_l1_C0.1,Sparse logistic,0.41000000000000003
+merlin,adrenal_hyperplasia,2,4,logreg_l1_C0.1,Sparse logistic,0.34894622257110197,logreg_l1_C0.1,Sparse logistic,0.5507836013482287
+merlin,adrenal_hyperplasia,2,5,logreg_l1_C0.1,Sparse logistic,0.34894622257110197,logreg_l1_C0.05,Sparse logistic,0.53
+merlin,adrenal_hyperplasia,2,6,logreg_l1_C0.1,Sparse logistic,0.34894622257110197,logreg_l1_C0.05,Sparse logistic,0.4507312104577899
+merlin,adrenal_hyperplasia,2,7,logreg_l1_C0.1,Sparse logistic,0.34894622257110197,logreg_l1_C0.05,Sparse logistic,0.49000000000000005
+merlin,adrenal_hyperplasia,2,8,logreg_l1_C0.1,Sparse logistic,0.34894622257110197,logreg_l1_C0.25,Sparse logistic,0.0558923854621583
+merlin,adrenal_hyperplasia,2,9,logreg_l1_C0.1,Sparse logistic,0.34894622257110197,logreg_C0.5,Balanced logistic,0.04383065625600826
+merlin,adrenal_hyperplasia,2,10,logreg_l1_C0.1,Sparse logistic,0.34894622257110197,logreg_l1_C0.05,Sparse logistic,0.5184842293945274
+merlin,adrenal_hyperplasia,2,11,logreg_l1_C0.1,Sparse logistic,0.34894622257110197,logreg_C0.05,Balanced logistic,0.22881455480043994
+merlin,adrenal_hyperplasia,2,12,logreg_l1_C0.1,Sparse logistic,0.34894622257110197,logreg_l1_C0.05,Sparse logistic,0.4560540416729525
+merlin,adrenal_hyperplasia,2,13,logreg_l1_C0.1,Sparse logistic,0.34894622257110197,logreg_l1_C0.1,Sparse logistic,0.4079125791457692
+merlin,adrenal_hyperplasia,2,14,logreg_l1_C0.1,Sparse logistic,0.34894622257110197,logreg_l1_C0.1,Sparse logistic,0.23698647116838917
+merlin,adrenal_hyperplasia,2,15,logreg_l1_C0.1,Sparse logistic,0.34894622257110197,logreg_l1_C0.1,Sparse logistic,0.33357661676210765
+merlin,adrenal_hyperplasia,2,16,logreg_l1_C0.1,Sparse logistic,0.34894622257110197,logreg_l1_C0.25,Sparse logistic,0.21
+merlin,adrenal_hyperplasia,2,17,logreg_l1_C0.1,Sparse logistic,0.34894622257110197,logreg_l1_C0.1,Sparse logistic,0.43575484695959177
+merlin,adrenal_hyperplasia,2,18,logreg_l1_C0.1,Sparse logistic,0.34894622257110197,logreg_C0.1,Balanced logistic,0.37000000000000005
+merlin,adrenal_hyperplasia,2,19,logreg_l1_C0.1,Sparse logistic,0.34894622257110197,logreg_C0.25,Balanced logistic,0.055863881978109854

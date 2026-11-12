@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+ctnexus,lymphadenopathy,4,0,logreg_l1_C0.25,Sparse logistic,0.278953786315305,pca256_logreg,PCA-logistic,0.005401934728275857
+ctnexus,lymphadenopathy,4,1,logreg_l1_C0.25,Sparse logistic,0.278953786315305,pca64_logreg,PCA-logistic,0.7338632443143732
+ctnexus,lymphadenopathy,4,2,logreg_l1_C0.25,Sparse logistic,0.278953786315305,logreg_C0.05,Balanced logistic,0.2377925664131345
+ctnexus,lymphadenopathy,4,3,logreg_l1_C0.25,Sparse logistic,0.278953786315305,logreg_C0.5,Balanced logistic,0.08580991452199871
+ctnexus,lymphadenopathy,4,4,logreg_l1_C0.25,Sparse logistic,0.278953786315305,pca16_logreg,PCA-logistic,0.53
+ctnexus,lymphadenopathy,4,5,logreg_l1_C0.25,Sparse logistic,0.278953786315305,logreg_l1_C0.1,Sparse logistic,0.2447866110420617
+ctnexus,lymphadenopathy,4,6,logreg_l1_C0.25,Sparse logistic,0.278953786315305,pca16_logreg,PCA-logistic,0.49000000000000005
+ctnexus,lymphadenopathy,4,7,logreg_l1_C0.25,Sparse logistic,0.278953786315305,logreg_C0.25,Balanced logistic,0.41000000000000003
+ctnexus,lymphadenopathy,4,8,logreg_l1_C0.25,Sparse logistic,0.278953786315305,logreg_C1.0,Balanced logistic,0.05
+ctnexus,lymphadenopathy,4,9,logreg_l1_C0.25,Sparse logistic,0.278953786315305,logreg_C0.05,Balanced logistic,0.2732045630955103
+ctnexus,lymphadenopathy,4,10,logreg_l1_C0.25,Sparse logistic,0.278953786315305,logreg_C0.1,Balanced logistic,0.31
+ctnexus,lymphadenopathy,4,11,logreg_l1_C0.25,Sparse logistic,0.278953786315305,logreg_C0.05,Balanced logistic,0.34
+ctnexus,lymphadenopathy,4,12,logreg_l1_C0.25,Sparse logistic,0.278953786315305,pca256_logreg,PCA-logistic,0.12446889866956218
+ctnexus,lymphadenopathy,4,13,logreg_l1_C0.25,Sparse logistic,0.278953786315305,logreg_C2.0,Balanced logistic,0.022115228855284275
+ctnexus,lymphadenopathy,4,14,logreg_l1_C0.25,Sparse logistic,0.278953786315305,logreg_C1.0,Balanced logistic,0.25208577685281497
+ctnexus,lymphadenopathy,4,15,logreg_l1_C0.25,Sparse logistic,0.278953786315305,logreg_C0.25,Balanced logistic,0.050424869571182154
+ctnexus,lymphadenopathy,4,16,logreg_l1_C0.25,Sparse logistic,0.278953786315305,pca16_logreg,PCA-logistic,0.5
+ctnexus,lymphadenopathy,4,17,logreg_l1_C0.25,Sparse logistic,0.278953786315305,logreg_C0.05,Balanced logistic,0.17618052967521458
+ctnexus,lymphadenopathy,4,18,logreg_l1_C0.25,Sparse logistic,0.278953786315305,logreg_l1_C0.05,Sparse logistic,0.5033111464182385
+ctnexus,lymphadenopathy,4,19,logreg_l1_C0.25,Sparse logistic,0.278953786315305,logreg_C0.5,Balanced logistic,0.12000000000000001

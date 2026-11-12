@@ -33,8 +33,8 @@ def select_candidate(X, y, ids=None, seed=42, inner=3, budget=None, verbose=Fals
 
     The candidates are fitted on ``inner`` stratified folds. Each candidate's
     out-of-fold scores give its threshold and balanced accuracy. With
-    ``budget=K`` only the first K candidates in search order can be chosen
-    (MEDA-Lite); every candidate is still scored, so the full table is kept.
+    ``budget=K`` only the first K candidates in search order are fitted and
+    can be chosen (MEDA-Lite).
     """
     folds = list(StratifiedKFold(inner, shuffle=True, random_state=seed).split(X, y))
     if ids is not None:
@@ -42,6 +42,9 @@ def select_candidate(X, y, ids=None, seed=42, inner=3, budget=None, verbose=Fals
             if set(ids[tr]) & set(ids[va]):
                 raise ValueError("a scan appears in both inner training and validation")
     bank = build_bank(min(len(tr) for tr, _ in folds), X.shape[1], seed)
+    if budget is not None:
+        keep = set(lite_names([n for n, _ in bank], budget))
+        bank = [(n, m) for n, m in bank if n in keep]
     bank.append((CONTROL, unweighted_logistic(seed)))
     rows, oof = [], []
     for name, model in bank:
@@ -69,8 +72,6 @@ def select_candidate(X, y, ids=None, seed=42, inner=3, budget=None, verbose=Fals
             print(f"{name:<28s} inner BA {ba:.4f}", flush=True)
     table = pd.DataFrame(rows)
     search = table[table.name != CONTROL]
-    if budget is not None:
-        search = search[search.name.isin(lite_names(search.name, budget))]
     chosen = rank_candidates(search).iloc[0]
     chosen_at_half = rank_candidates(search, "inner_balacc_05").iloc[0]
     return SelectionResult(bank, table, np.asarray(oof), chosen, chosen_at_half)

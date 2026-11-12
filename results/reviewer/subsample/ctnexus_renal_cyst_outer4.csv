@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+ctnexus,renal_cyst,4,0,pca32_logreg,PCA-logistic,0.41228184637297793,pca128_logreg,PCA-logistic,0.3267015180839257
+ctnexus,renal_cyst,4,1,pca32_logreg,PCA-logistic,0.41228184637297793,logreg_l1_C0.25,Sparse logistic,0.3271636071647544
+ctnexus,renal_cyst,4,2,pca32_logreg,PCA-logistic,0.41228184637297793,pca32_logreg,PCA-logistic,0.37000000000000005
+ctnexus,renal_cyst,4,3,pca32_logreg,PCA-logistic,0.41228184637297793,pca8_logreg,PCA-logistic,0.46
+ctnexus,renal_cyst,4,4,pca32_logreg,PCA-logistic,0.41228184637297793,pca8_logreg,PCA-logistic,0.47000000000000003
+ctnexus,renal_cyst,4,5,pca32_logreg,PCA-logistic,0.41228184637297793,pca16_logreg,PCA-logistic,0.45602458750347524
+ctnexus,renal_cyst,4,6,pca32_logreg,PCA-logistic,0.41228184637297793,pca32_logreg,PCA-logistic,0.3537379581248251
+ctnexus,renal_cyst,4,7,pca32_logreg,PCA-logistic,0.41228184637297793,pca16_logreg,PCA-logistic,0.45581450663348433
+ctnexus,renal_cyst,4,8,pca32_logreg,PCA-logistic,0.41228184637297793,pca128_logreg,PCA-logistic,0.43000000000000005
+ctnexus,renal_cyst,4,9,pca32_logreg,PCA-logistic,0.41228184637297793,pca16_logreg,PCA-logistic,0.5546436857077895
+ctnexus,renal_cyst,4,10,pca32_logreg,PCA-logistic,0.41228184637297793,pca16_logreg,PCA-logistic,0.45723339705954896
+ctnexus,renal_cyst,4,11,pca32_logreg,PCA-logistic,0.41228184637297793,pca8_logreg,PCA-logistic,0.48789590640339053
+ctnexus,renal_cyst,4,12,pca32_logreg,PCA-logistic,0.41228184637297793,pca8_logreg,PCA-logistic,0.5762671114018849
+ctnexus,renal_cyst,4,13,pca32_logreg,PCA-logistic,0.41228184637297793,pca16_logreg,PCA-logistic,0.45
+ctnexus,renal_cyst,4,14,pca32_logreg,PCA-logistic,0.41228184637297793,pca8_logreg,PCA-logistic,0.5
+ctnexus,renal_cyst,4,15,pca32_logreg,PCA-logistic,0.41228184637297793,pca64_logreg,PCA-logistic,0.48710036432382575
+ctnexus,renal_cyst,4,16,pca32_logreg,PCA-logistic,0.41228184637297793,pca8_logreg,PCA-logistic,0.51
+ctnexus,renal_cyst,4,17,pca32_logreg,PCA-logistic,0.41228184637297793,pca8_logreg,PCA-logistic,0.5449988463505456
+ctnexus,renal_cyst,4,18,pca32_logreg,PCA-logistic,0.41228184637297793,pca8_logreg,PCA-logistic,0.4681180528290097
+ctnexus,renal_cyst,4,19,pca32_logreg,PCA-logistic,0.41228184637297793,pca8_logreg,PCA-logistic,0.5240655300918124

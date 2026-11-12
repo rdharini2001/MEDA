@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+ctnexus,adrenal_hyperplasia,0,0,logreg_l1_C0.05,Sparse logistic,0.4553276932736465,logreg_l1_C0.05,Sparse logistic,0.5375197756652537
+ctnexus,adrenal_hyperplasia,0,1,logreg_l1_C0.05,Sparse logistic,0.4553276932736465,logreg_l1_C0.05,Sparse logistic,0.43000000000000005
+ctnexus,adrenal_hyperplasia,0,2,logreg_l1_C0.05,Sparse logistic,0.4553276932736465,logreg_l1_C0.05,Sparse logistic,0.4103790910351464
+ctnexus,adrenal_hyperplasia,0,3,logreg_l1_C0.05,Sparse logistic,0.4553276932736465,pca8_logreg,PCA-logistic,0.3872946775942821
+ctnexus,adrenal_hyperplasia,0,4,logreg_l1_C0.05,Sparse logistic,0.4553276932736465,pca8_logreg,PCA-logistic,0.5840245283406684
+ctnexus,adrenal_hyperplasia,0,5,logreg_l1_C0.05,Sparse logistic,0.4553276932736465,pca8_logreg,PCA-logistic,0.4015628172168408
+ctnexus,adrenal_hyperplasia,0,6,logreg_l1_C0.05,Sparse logistic,0.4553276932736465,pca32_logreg,PCA-logistic,0.42447965579276403
+ctnexus,adrenal_hyperplasia,0,7,logreg_l1_C0.05,Sparse logistic,0.4553276932736465,pca32_logreg,PCA-logistic,0.49000000000000005
+ctnexus,adrenal_hyperplasia,0,8,logreg_l1_C0.05,Sparse logistic,0.4553276932736465,logreg_l1_C0.05,Sparse logistic,0.4911628015674205
+ctnexus,adrenal_hyperplasia,0,9,logreg_l1_C0.05,Sparse logistic,0.4553276932736465,logreg_l1_C0.1,Sparse logistic,0.4
+ctnexus,adrenal_hyperplasia,0,10,logreg_l1_C0.05,Sparse logistic,0.4553276932736465,pca8_logreg,PCA-logistic,0.45673105252080254
+ctnexus,adrenal_hyperplasia,0,11,logreg_l1_C0.05,Sparse logistic,0.4553276932736465,pca16_logreg,PCA-logistic,0.4424206340716827
+ctnexus,adrenal_hyperplasia,0,12,logreg_l1_C0.05,Sparse logistic,0.4553276932736465,pca64_logreg,PCA-logistic,0.276241296736384
+ctnexus,adrenal_hyperplasia,0,13,logreg_l1_C0.05,Sparse logistic,0.4553276932736465,pca16_logreg,PCA-logistic,0.42000000000000004
+ctnexus,adrenal_hyperplasia,0,14,logreg_l1_C0.05,Sparse logistic,0.4553276932736465,logreg_l1_C0.05,Sparse logistic,0.45
+ctnexus,adrenal_hyperplasia,0,15,logreg_l1_C0.05,Sparse logistic,0.4553276932736465,pca8_logreg,PCA-logistic,0.42323831077943264
+ctnexus,adrenal_hyperplasia,0,16,logreg_l1_C0.05,Sparse logistic,0.4553276932736465,logreg_l1_C0.05,Sparse logistic,0.5
+ctnexus,adrenal_hyperplasia,0,17,logreg_l1_C0.05,Sparse logistic,0.4553276932736465,pca16_logreg,PCA-logistic,0.557210086944528
+ctnexus,adrenal_hyperplasia,0,18,logreg_l1_C0.05,Sparse logistic,0.4553276932736465,logreg_l1_C0.1,Sparse logistic,0.359167487913504
+ctnexus,adrenal_hyperplasia,0,19,logreg_l1_C0.05,Sparse logistic,0.4553276932736465,pca8_logreg,PCA-logistic,0.45

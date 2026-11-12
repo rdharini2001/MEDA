@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+ctnexus,covid,3,0,extratrees_balanced,ExtraTrees,0.21,logreg_l1_C0.05,Sparse logistic,0.5029878428350267
+ctnexus,covid,3,1,extratrees_balanced,ExtraTrees,0.21,pca16_logreg,PCA-logistic,0.349561983926844
+ctnexus,covid,3,2,extratrees_balanced,ExtraTrees,0.21,pca8_logreg,PCA-logistic,0.3896050248899539
+ctnexus,covid,3,3,extratrees_balanced,ExtraTrees,0.21,pca16_logreg,PCA-logistic,0.48000000000000004
+ctnexus,covid,3,4,extratrees_balanced,ExtraTrees,0.21,extratrees_balanced,ExtraTrees,0.20886744471427057
+ctnexus,covid,3,5,extratrees_balanced,ExtraTrees,0.21,logreg_l1_C0.25,Sparse logistic,0.48821326427326944
+ctnexus,covid,3,6,extratrees_balanced,ExtraTrees,0.21,logreg_C0.05,Balanced logistic,0.48000000000000004
+ctnexus,covid,3,7,extratrees_balanced,ExtraTrees,0.21,extratrees_balanced,ExtraTrees,0.13758336794360818
+ctnexus,covid,3,8,extratrees_balanced,ExtraTrees,0.21,logreg_l1_C0.05,Sparse logistic,0.52
+ctnexus,covid,3,9,extratrees_balanced,ExtraTrees,0.21,extratrees_balanced,ExtraTrees,0.1866804921428944
+ctnexus,covid,3,10,extratrees_balanced,ExtraTrees,0.21,rf_balanced,Random forest,0.21693882776532689
+ctnexus,covid,3,11,extratrees_balanced,ExtraTrees,0.21,rf_balanced,Random forest,0.28406520768647003
+ctnexus,covid,3,12,extratrees_balanced,ExtraTrees,0.21,extratrees_balanced,ExtraTrees,0.36000000000000004
+ctnexus,covid,3,13,extratrees_balanced,ExtraTrees,0.21,extratrees_balanced,ExtraTrees,0.2124091074404445
+ctnexus,covid,3,14,extratrees_balanced,ExtraTrees,0.21,pca16_logreg,PCA-logistic,0.6378984717700099
+ctnexus,covid,3,15,extratrees_balanced,ExtraTrees,0.21,logreg_l1_C0.5,Sparse logistic,0.55
+ctnexus,covid,3,16,extratrees_balanced,ExtraTrees,0.21,logreg_C0.05,Balanced logistic,0.6485337299035421
+ctnexus,covid,3,17,extratrees_balanced,ExtraTrees,0.21,rf_balanced,Random forest,0.2405559449960281
+ctnexus,covid,3,18,extratrees_balanced,ExtraTrees,0.21,logreg_C0.05,Balanced logistic,0.67
+ctnexus,covid,3,19,extratrees_balanced,ExtraTrees,0.21,pca32_logreg,PCA-logistic,0.26512430734795644

@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+ctnexus,lung_nodule_malignancy,4,0,logreg_l1_C0.5,Sparse logistic,0.009604159263062712,pca256_logreg,PCA-logistic,0.013419774427836411
+ctnexus,lung_nodule_malignancy,4,1,logreg_l1_C0.5,Sparse logistic,0.009604159263062712,pca32_logreg,PCA-logistic,0.17218564719990082
+ctnexus,lung_nodule_malignancy,4,2,logreg_l1_C0.5,Sparse logistic,0.009604159263062712,logreg_l1_C0.1,Sparse logistic,0.29000000000000004
+ctnexus,lung_nodule_malignancy,4,3,logreg_l1_C0.5,Sparse logistic,0.009604159263062712,pca32_logreg,PCA-logistic,0.2027725821731576
+ctnexus,lung_nodule_malignancy,4,4,logreg_l1_C0.5,Sparse logistic,0.009604159263062712,pca16_logreg,PCA-logistic,0.5058734083177718
+ctnexus,lung_nodule_malignancy,4,5,logreg_l1_C0.5,Sparse logistic,0.009604159263062712,logreg_l1_C0.5,Sparse logistic,0.07
+ctnexus,lung_nodule_malignancy,4,6,logreg_l1_C0.5,Sparse logistic,0.009604159263062712,pca64_logreg,PCA-logistic,0.10337440439194873
+ctnexus,lung_nodule_malignancy,4,7,logreg_l1_C0.5,Sparse logistic,0.009604159263062712,pca128_logreg,PCA-logistic,0.10166965945574047
+ctnexus,lung_nodule_malignancy,4,8,logreg_l1_C0.5,Sparse logistic,0.009604159263062712,pca256_logreg,PCA-logistic,0.005400286143474146
+ctnexus,lung_nodule_malignancy,4,9,logreg_l1_C0.5,Sparse logistic,0.009604159263062712,logreg_C0.1,Balanced logistic,0.06
+ctnexus,lung_nodule_malignancy,4,10,logreg_l1_C0.5,Sparse logistic,0.009604159263062712,pca16_logreg,PCA-logistic,0.5742066738519813
+ctnexus,lung_nodule_malignancy,4,11,logreg_l1_C0.5,Sparse logistic,0.009604159263062712,logreg_l1_C0.25,Sparse logistic,0.07
+ctnexus,lung_nodule_malignancy,4,12,logreg_l1_C0.5,Sparse logistic,0.009604159263062712,pca128_logreg,PCA-logistic,0.014652551614111383
+ctnexus,lung_nodule_malignancy,4,13,logreg_l1_C0.5,Sparse logistic,0.009604159263062712,pca64_logreg,PCA-logistic,0.35000000000000003
+ctnexus,lung_nodule_malignancy,4,14,logreg_l1_C0.5,Sparse logistic,0.009604159263062712,logreg_C0.25,Balanced logistic,0.02725914174375951
+ctnexus,lung_nodule_malignancy,4,15,logreg_l1_C0.5,Sparse logistic,0.009604159263062712,logreg_l1_C0.1,Sparse logistic,0.24
+ctnexus,lung_nodule_malignancy,4,16,logreg_l1_C0.5,Sparse logistic,0.009604159263062712,pca8_logreg,PCA-logistic,0.5855399581352908
+ctnexus,lung_nodule_malignancy,4,17,logreg_l1_C0.5,Sparse logistic,0.009604159263062712,logreg_l1_C0.25,Sparse logistic,0.02880932925186078
+ctnexus,lung_nodule_malignancy,4,18,logreg_l1_C0.5,Sparse logistic,0.009604159263062712,pca64_logreg,PCA-logistic,0.022717175132159702
+ctnexus,lung_nodule_malignancy,4,19,logreg_l1_C0.5,Sparse logistic,0.009604159263062712,pca64_logreg,PCA-logistic,0.51

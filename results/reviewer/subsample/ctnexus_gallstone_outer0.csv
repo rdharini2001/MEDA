@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+ctnexus,gallstone,0,0,logreg_C0.05,Balanced logistic,0.5225687565082104,logreg_l1_C0.1,Sparse logistic,0.5014467925148316
+ctnexus,gallstone,0,1,logreg_C0.05,Balanced logistic,0.5225687565082104,pca128_logreg,PCA-logistic,0.03347563018249216
+ctnexus,gallstone,0,2,logreg_C0.05,Balanced logistic,0.5225687565082104,pca64_logreg,PCA-logistic,0.2136901215222116
+ctnexus,gallstone,0,3,logreg_C0.05,Balanced logistic,0.5225687565082104,pca32_logreg,PCA-logistic,0.45580824501328215
+ctnexus,gallstone,0,4,logreg_C0.05,Balanced logistic,0.5225687565082104,pca64_logreg,PCA-logistic,0.22999999999999998
+ctnexus,gallstone,0,5,logreg_C0.05,Balanced logistic,0.5225687565082104,logreg_C0.05,Balanced logistic,0.24936199427970393
+ctnexus,gallstone,0,6,logreg_C0.05,Balanced logistic,0.5225687565082104,logreg_l1_C0.25,Sparse logistic,0.43000000000000005
+ctnexus,gallstone,0,7,logreg_C0.05,Balanced logistic,0.5225687565082104,logreg_l1_C0.25,Sparse logistic,0.3745471128272504
+ctnexus,gallstone,0,8,logreg_C0.05,Balanced logistic,0.5225687565082104,pca128_logreg,PCA-logistic,0.002708392139693221
+ctnexus,gallstone,0,9,logreg_C0.05,Balanced logistic,0.5225687565082104,logreg_l1_C0.5,Sparse logistic,0.36681045839604814
+ctnexus,gallstone,0,10,logreg_C0.05,Balanced logistic,0.5225687565082104,pca32_logreg,PCA-logistic,0.28952647888168775
+ctnexus,gallstone,0,11,logreg_C0.05,Balanced logistic,0.5225687565082104,logreg_l1_C0.25,Sparse logistic,0.514216144772047
+ctnexus,gallstone,0,12,logreg_C0.05,Balanced logistic,0.5225687565082104,logreg_l1_C0.05,Sparse logistic,0.529693570933898
+ctnexus,gallstone,0,13,logreg_C0.05,Balanced logistic,0.5225687565082104,pca64_logreg,PCA-logistic,0.18
+ctnexus,gallstone,0,14,logreg_C0.05,Balanced logistic,0.5225687565082104,logreg_l1_C0.25,Sparse logistic,0.3721128599921231
+ctnexus,gallstone,0,15,logreg_C0.05,Balanced logistic,0.5225687565082104,pca64_logreg,PCA-logistic,0.5124603012182022
+ctnexus,gallstone,0,16,logreg_C0.05,Balanced logistic,0.5225687565082104,pca64_logreg,PCA-logistic,0.16
+ctnexus,gallstone,0,17,logreg_C0.05,Balanced logistic,0.5225687565082104,pca32_logreg,PCA-logistic,0.44552935436987356
+ctnexus,gallstone,0,18,logreg_C0.05,Balanced logistic,0.5225687565082104,pca32_logreg,PCA-logistic,0.44745116514125616
+ctnexus,gallstone,0,19,logreg_C0.05,Balanced logistic,0.5225687565082104,pca64_logreg,PCA-logistic,0.29000000000000004

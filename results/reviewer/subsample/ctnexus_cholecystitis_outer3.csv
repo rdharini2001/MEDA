@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+ctnexus,cholecystitis,3,0,pca8_logreg,PCA-logistic,0.4570134882913487,pca8_logreg,PCA-logistic,0.431945990389081
+ctnexus,cholecystitis,3,1,pca8_logreg,PCA-logistic,0.4570134882913487,pca8_logreg,PCA-logistic,0.40674609060361155
+ctnexus,cholecystitis,3,2,pca8_logreg,PCA-logistic,0.4570134882913487,pca16_logreg,PCA-logistic,0.5505070056781224
+ctnexus,cholecystitis,3,3,pca8_logreg,PCA-logistic,0.4570134882913487,pca32_logreg,PCA-logistic,0.38973121544663697
+ctnexus,cholecystitis,3,4,pca8_logreg,PCA-logistic,0.4570134882913487,logreg_l1_C0.05,Sparse logistic,0.5446881308224444
+ctnexus,cholecystitis,3,5,pca8_logreg,PCA-logistic,0.4570134882913487,pca8_logreg,PCA-logistic,0.4846345611966266
+ctnexus,cholecystitis,3,6,pca8_logreg,PCA-logistic,0.4570134882913487,pca8_logreg,PCA-logistic,0.5121063915188676
+ctnexus,cholecystitis,3,7,pca8_logreg,PCA-logistic,0.4570134882913487,pca16_logreg,PCA-logistic,0.46
+ctnexus,cholecystitis,3,8,pca8_logreg,PCA-logistic,0.4570134882913487,pca8_logreg,PCA-logistic,0.6412649529257948
+ctnexus,cholecystitis,3,9,pca8_logreg,PCA-logistic,0.4570134882913487,pca8_logreg,PCA-logistic,0.4
+ctnexus,cholecystitis,3,10,pca8_logreg,PCA-logistic,0.4570134882913487,logreg_l1_C0.05,Sparse logistic,0.5455454117391282
+ctnexus,cholecystitis,3,11,pca8_logreg,PCA-logistic,0.4570134882913487,pca32_logreg,PCA-logistic,0.5
+ctnexus,cholecystitis,3,12,pca8_logreg,PCA-logistic,0.4570134882913487,pca8_logreg,PCA-logistic,0.52
+ctnexus,cholecystitis,3,13,pca8_logreg,PCA-logistic,0.4570134882913487,logreg_l1_C0.05,Sparse logistic,0.5445520063129563
+ctnexus,cholecystitis,3,14,pca8_logreg,PCA-logistic,0.4570134882913487,pca16_logreg,PCA-logistic,0.5800000000000001
+ctnexus,cholecystitis,3,15,pca8_logreg,PCA-logistic,0.4570134882913487,pca64_logreg,PCA-logistic,0.2514001399724541
+ctnexus,cholecystitis,3,16,pca8_logreg,PCA-logistic,0.4570134882913487,pca8_logreg,PCA-logistic,0.51
+ctnexus,cholecystitis,3,17,pca8_logreg,PCA-logistic,0.4570134882913487,pca8_logreg,PCA-logistic,0.43000000000000005
+ctnexus,cholecystitis,3,18,pca8_logreg,PCA-logistic,0.4570134882913487,pca8_logreg,PCA-logistic,0.42743889128427626
+ctnexus,cholecystitis,3,19,pca8_logreg,PCA-logistic,0.4570134882913487,logreg_l1_C0.05,Sparse logistic,0.52

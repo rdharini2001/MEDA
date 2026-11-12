@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+merlin,renal_cyst,2,0,logreg_l1_C0.05,Sparse logistic,0.506689832713742,logreg_l1_C0.05,Sparse logistic,0.46965367667190105
+merlin,renal_cyst,2,1,logreg_l1_C0.05,Sparse logistic,0.506689832713742,logreg_l1_C0.1,Sparse logistic,0.51
+merlin,renal_cyst,2,2,logreg_l1_C0.05,Sparse logistic,0.506689832713742,logreg_l1_C0.05,Sparse logistic,0.5152625228781577
+merlin,renal_cyst,2,3,logreg_l1_C0.05,Sparse logistic,0.506689832713742,logreg_l1_C0.1,Sparse logistic,0.51
+merlin,renal_cyst,2,4,logreg_l1_C0.05,Sparse logistic,0.506689832713742,logreg_l1_C0.1,Sparse logistic,0.43000000000000005
+merlin,renal_cyst,2,5,logreg_l1_C0.05,Sparse logistic,0.506689832713742,logreg_l1_C0.05,Sparse logistic,0.54
+merlin,renal_cyst,2,6,logreg_l1_C0.05,Sparse logistic,0.506689832713742,logreg_l1_C0.1,Sparse logistic,0.5448806003242231
+merlin,renal_cyst,2,7,logreg_l1_C0.05,Sparse logistic,0.506689832713742,logreg_C0.25,Balanced logistic,0.4
+merlin,renal_cyst,2,8,logreg_l1_C0.05,Sparse logistic,0.506689832713742,logreg_l1_C0.25,Sparse logistic,0.5
+merlin,renal_cyst,2,9,logreg_l1_C0.05,Sparse logistic,0.506689832713742,logreg_l1_C0.1,Sparse logistic,0.47854650576520885
+merlin,renal_cyst,2,10,logreg_l1_C0.05,Sparse logistic,0.506689832713742,logreg_l1_C0.05,Sparse logistic,0.5078163153564379
+merlin,renal_cyst,2,11,logreg_l1_C0.05,Sparse logistic,0.506689832713742,logreg_l1_C0.05,Sparse logistic,0.5105250409815768
+merlin,renal_cyst,2,12,logreg_l1_C0.05,Sparse logistic,0.506689832713742,logreg_l1_C0.05,Sparse logistic,0.4863405321018859
+merlin,renal_cyst,2,13,logreg_l1_C0.05,Sparse logistic,0.506689832713742,logreg_l1_C0.05,Sparse logistic,0.48038985287177915
+merlin,renal_cyst,2,14,logreg_l1_C0.05,Sparse logistic,0.506689832713742,logreg_l1_C0.25,Sparse logistic,0.5764949499028496
+merlin,renal_cyst,2,15,logreg_l1_C0.05,Sparse logistic,0.506689832713742,logreg_l1_C0.1,Sparse logistic,0.5174103074280584
+merlin,renal_cyst,2,16,logreg_l1_C0.05,Sparse logistic,0.506689832713742,logreg_l1_C0.1,Sparse logistic,0.49819026591998294
+merlin,renal_cyst,2,17,logreg_l1_C0.05,Sparse logistic,0.506689832713742,logreg_l1_C0.05,Sparse logistic,0.5025950278770625
+merlin,renal_cyst,2,18,logreg_l1_C0.05,Sparse logistic,0.506689832713742,logreg_l1_C0.25,Sparse logistic,0.51
+merlin,renal_cyst,2,19,logreg_l1_C0.05,Sparse logistic,0.506689832713742,logreg_l1_C0.1,Sparse logistic,0.45603405350143267

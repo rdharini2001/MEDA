@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+merlin,liver_lesion,4,0,logreg_l1_C0.5,Sparse logistic,0.51,logreg_l1_C0.25,Sparse logistic,0.5
+merlin,liver_lesion,4,1,logreg_l1_C0.5,Sparse logistic,0.51,logreg_l1_C0.1,Sparse logistic,0.64
+merlin,liver_lesion,4,2,logreg_l1_C0.5,Sparse logistic,0.51,logreg_C0.05,Balanced logistic,0.6900000000000001
+merlin,liver_lesion,4,3,logreg_l1_C0.5,Sparse logistic,0.51,logreg_l1_C0.25,Sparse logistic,0.4780736129911364
+merlin,liver_lesion,4,4,logreg_l1_C0.5,Sparse logistic,0.51,logreg_l1_C0.25,Sparse logistic,0.386588624354113
+merlin,liver_lesion,4,5,logreg_l1_C0.5,Sparse logistic,0.51,logreg_l1_C0.25,Sparse logistic,0.41440096596094755
+merlin,liver_lesion,4,6,logreg_l1_C0.5,Sparse logistic,0.51,logreg_C0.05,Balanced logistic,0.43000000000000005
+merlin,liver_lesion,4,7,logreg_l1_C0.5,Sparse logistic,0.51,logreg_C0.5,Balanced logistic,0.36000000000000004
+merlin,liver_lesion,4,8,logreg_l1_C0.5,Sparse logistic,0.51,logreg_l1_C0.5,Sparse logistic,0.35000000000000003
+merlin,liver_lesion,4,9,logreg_l1_C0.5,Sparse logistic,0.51,logreg_C2.0,Balanced logistic,0.32
+merlin,liver_lesion,4,10,logreg_l1_C0.5,Sparse logistic,0.51,logreg_C0.1,Balanced logistic,0.5084828206113529
+merlin,liver_lesion,4,11,logreg_l1_C0.5,Sparse logistic,0.51,logreg_l1_C0.1,Sparse logistic,0.49081668206494206
+merlin,liver_lesion,4,12,logreg_l1_C0.5,Sparse logistic,0.51,logreg_l1_C0.1,Sparse logistic,0.55
+merlin,liver_lesion,4,13,logreg_l1_C0.5,Sparse logistic,0.51,logreg_C0.05,Balanced logistic,0.5800000000000001
+merlin,liver_lesion,4,14,logreg_l1_C0.5,Sparse logistic,0.51,logreg_C0.25,Balanced logistic,0.6953461223137757
+merlin,liver_lesion,4,15,logreg_l1_C0.5,Sparse logistic,0.51,logreg_C0.25,Balanced logistic,0.18
+merlin,liver_lesion,4,16,logreg_l1_C0.5,Sparse logistic,0.51,logreg_C0.5,Balanced logistic,0.27
+merlin,liver_lesion,4,17,logreg_l1_C0.5,Sparse logistic,0.51,logreg_C1.0,Balanced logistic,0.30000000000000004
+merlin,liver_lesion,4,18,logreg_l1_C0.5,Sparse logistic,0.51,logreg_l1_C0.05,Sparse logistic,0.5171180069776565
+merlin,liver_lesion,4,19,logreg_l1_C0.5,Sparse logistic,0.51,logreg_C0.25,Balanced logistic,0.41749141222163016

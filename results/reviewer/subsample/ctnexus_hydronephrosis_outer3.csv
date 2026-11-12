@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+ctnexus,hydronephrosis,3,0,pca256_logreg,PCA-logistic,0.13,pca32_logreg,PCA-logistic,0.42000000000000004
+ctnexus,hydronephrosis,3,1,pca256_logreg,PCA-logistic,0.13,extratrees_balanced,ExtraTrees,0.2922577706886955
+ctnexus,hydronephrosis,3,2,pca256_logreg,PCA-logistic,0.13,logreg_C1.0,Balanced logistic,0.5800000000000001
+ctnexus,hydronephrosis,3,3,pca256_logreg,PCA-logistic,0.13,logreg_C0.05,Balanced logistic,0.6343638944526154
+ctnexus,hydronephrosis,3,4,pca256_logreg,PCA-logistic,0.13,pca32_logreg,PCA-logistic,0.4913119770694497
+ctnexus,hydronephrosis,3,5,pca256_logreg,PCA-logistic,0.13,logreg_C0.05,Balanced logistic,0.45
+ctnexus,hydronephrosis,3,6,pca256_logreg,PCA-logistic,0.13,logreg_l1_C0.25,Sparse logistic,0.44
+ctnexus,hydronephrosis,3,7,pca256_logreg,PCA-logistic,0.13,logreg_C0.05,Balanced logistic,0.6
+ctnexus,hydronephrosis,3,8,pca256_logreg,PCA-logistic,0.13,logreg_C0.05,Balanced logistic,0.41000000000000003
+ctnexus,hydronephrosis,3,9,pca256_logreg,PCA-logistic,0.13,logreg_C0.1,Balanced logistic,0.23399769399681872
+ctnexus,hydronephrosis,3,10,pca256_logreg,PCA-logistic,0.13,logreg_C0.25,Balanced logistic,0.38
+ctnexus,hydronephrosis,3,11,pca256_logreg,PCA-logistic,0.13,pca64_logreg,PCA-logistic,0.3213649793707531
+ctnexus,hydronephrosis,3,12,pca256_logreg,PCA-logistic,0.13,pca128_logreg,PCA-logistic,0.28
+ctnexus,hydronephrosis,3,13,pca256_logreg,PCA-logistic,0.13,logreg_C0.25,Balanced logistic,0.42000000000000004
+ctnexus,hydronephrosis,3,14,pca256_logreg,PCA-logistic,0.13,logreg_l1_C0.25,Sparse logistic,0.31
+ctnexus,hydronephrosis,3,15,pca256_logreg,PCA-logistic,0.13,pca128_logreg,PCA-logistic,0.29000000000000004
+ctnexus,hydronephrosis,3,16,pca256_logreg,PCA-logistic,0.13,logreg_l1_C0.25,Sparse logistic,0.38
+ctnexus,hydronephrosis,3,17,pca256_logreg,PCA-logistic,0.13,pca128_logreg,PCA-logistic,0.32
+ctnexus,hydronephrosis,3,18,pca256_logreg,PCA-logistic,0.13,logreg_C0.1,Balanced logistic,0.33479825034210414
+ctnexus,hydronephrosis,3,19,pca256_logreg,PCA-logistic,0.13,logreg_C0.1,Balanced logistic,0.4

@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+merlin,ascites,1,0,logreg_l1_C0.05,Sparse logistic,0.44,logreg_l1_C0.1,Sparse logistic,0.4946297076467674
+merlin,ascites,1,1,logreg_l1_C0.05,Sparse logistic,0.44,logreg_l1_C0.1,Sparse logistic,0.45814367841005027
+merlin,ascites,1,2,logreg_l1_C0.05,Sparse logistic,0.44,logreg_l1_C0.05,Sparse logistic,0.5700000000000001
+merlin,ascites,1,3,logreg_l1_C0.05,Sparse logistic,0.44,logreg_l1_C0.05,Sparse logistic,0.5900000000000001
+merlin,ascites,1,4,logreg_l1_C0.05,Sparse logistic,0.44,logreg_l1_C0.05,Sparse logistic,0.39
+merlin,ascites,1,5,logreg_l1_C0.05,Sparse logistic,0.44,logreg_l1_C0.1,Sparse logistic,0.39848169401870365
+merlin,ascites,1,6,logreg_l1_C0.05,Sparse logistic,0.44,logreg_l1_C0.05,Sparse logistic,0.4789068988061351
+merlin,ascites,1,7,logreg_l1_C0.05,Sparse logistic,0.44,logreg_l1_C0.05,Sparse logistic,0.51
+merlin,ascites,1,8,logreg_l1_C0.05,Sparse logistic,0.44,logreg_l1_C0.1,Sparse logistic,0.38
+merlin,ascites,1,9,logreg_l1_C0.05,Sparse logistic,0.44,logreg_l1_C0.1,Sparse logistic,0.4309258621485086
+merlin,ascites,1,10,logreg_l1_C0.05,Sparse logistic,0.44,logreg_l1_C0.05,Sparse logistic,0.46834870033229503
+merlin,ascites,1,11,logreg_l1_C0.05,Sparse logistic,0.44,logreg_l1_C0.05,Sparse logistic,0.43000000000000005
+merlin,ascites,1,12,logreg_l1_C0.05,Sparse logistic,0.44,logreg_l1_C0.1,Sparse logistic,0.29000000000000004
+merlin,ascites,1,13,logreg_l1_C0.05,Sparse logistic,0.44,logreg_l1_C0.05,Sparse logistic,0.56
+merlin,ascites,1,14,logreg_l1_C0.05,Sparse logistic,0.44,logreg_l1_C0.1,Sparse logistic,0.43000000000000005
+merlin,ascites,1,15,logreg_l1_C0.05,Sparse logistic,0.44,logreg_l1_C0.05,Sparse logistic,0.44408418227378743
+merlin,ascites,1,16,logreg_l1_C0.05,Sparse logistic,0.44,logreg_l1_C0.25,Sparse logistic,0.31
+merlin,ascites,1,17,logreg_l1_C0.05,Sparse logistic,0.44,logreg_l1_C0.05,Sparse logistic,0.43000000000000005
+merlin,ascites,1,18,logreg_l1_C0.05,Sparse logistic,0.44,logreg_l1_C0.05,Sparse logistic,0.48301260151145237
+merlin,ascites,1,19,logreg_l1_C0.05,Sparse logistic,0.44,logreg_l1_C0.05,Sparse logistic,0.53

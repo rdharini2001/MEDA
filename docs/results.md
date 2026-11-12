@@ -34,3 +34,17 @@ Training time per candidate, single-thread inference latency, serialized model s
 ## results/external_test
 
 `task2_per_target.csv` (per finding), `cohort_means_*.csv` (cohort means), `hidden_vs_validation_internal.csv` (validation versus challenge result on the internal cohort) and `hidden_test_meda_vs_all.csv` (paired differences between MEDA and each other system).
+
+## results/reviewer
+
+Analyses added in response to reviewer questions (`scripts/reviewer_analyses.py`, `scripts/subsample_stability.py`).
+
+| File | Content |
+|---|---|
+| `thresholds_all.csv`, `thresholds_wide_*.csv` | selected classifier and threshold for every finding in every outer fold and in the train-to-validation fit, for MEDA-Full and MEDA-Lite |
+| `prevalence_sensitivity.csv`, `prevalence_crossover.csv` | accuracy, precision, false alarms and misses per 100 studies under assumed prevalences, derived from each rule's sensitivity and specificity |
+| `threshold_vs_prevalence*.csv` | median selected threshold against training prevalence |
+| `selection_bootstrap_stability.csv` | agreement of the selected family across 200 score-resampling bootstrap draws per outer fold |
+| `inner_margin.csv` | inner balanced-accuracy margin of the selected candidate over the best candidate of another family |
+| `subsample/` | selection repeated on 80% subsamples of each outer training split (MEDA-Lite, 20 draws) |
+| `meda_vs_fixed_heads_by_finding.csv` | number of findings on which MEDA beats each fixed head |

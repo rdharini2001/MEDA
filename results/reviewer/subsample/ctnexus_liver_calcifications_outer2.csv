@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+ctnexus,liver_calcifications,2,0,pca128_logreg,PCA-logistic,0.16,logreg_l1_C0.25,Sparse logistic,0.31989469079021604
+ctnexus,liver_calcifications,2,1,pca128_logreg,PCA-logistic,0.16,pca128_logreg,PCA-logistic,0.09858969847411472
+ctnexus,liver_calcifications,2,2,pca128_logreg,PCA-logistic,0.16,logreg_l1_C0.1,Sparse logistic,0.32476798401089046
+ctnexus,liver_calcifications,2,3,pca128_logreg,PCA-logistic,0.16,pca256_logreg,PCA-logistic,0.05119724855501946
+ctnexus,liver_calcifications,2,4,pca128_logreg,PCA-logistic,0.16,logreg_C0.05,Balanced logistic,0.10464029377980857
+ctnexus,liver_calcifications,2,5,pca128_logreg,PCA-logistic,0.16,pca16_logreg,PCA-logistic,0.5255727082671395
+ctnexus,liver_calcifications,2,6,pca128_logreg,PCA-logistic,0.16,pca128_logreg,PCA-logistic,0.003656402113482565
+ctnexus,liver_calcifications,2,7,pca128_logreg,PCA-logistic,0.16,logreg_C0.25,Balanced logistic,0.07606145453028691
+ctnexus,liver_calcifications,2,8,pca128_logreg,PCA-logistic,0.16,pca128_logreg,PCA-logistic,0.05482517993214542
+ctnexus,liver_calcifications,2,9,pca128_logreg,PCA-logistic,0.16,logreg_l1_C0.25,Sparse logistic,0.22480061980607627
+ctnexus,liver_calcifications,2,10,pca128_logreg,PCA-logistic,0.16,logreg_l1_C0.1,Sparse logistic,0.438874578260347
+ctnexus,liver_calcifications,2,11,pca128_logreg,PCA-logistic,0.16,pca64_logreg,PCA-logistic,0.12000000000000001
+ctnexus,liver_calcifications,2,12,pca128_logreg,PCA-logistic,0.16,pca128_logreg,PCA-logistic,0.0456236596202176
+ctnexus,liver_calcifications,2,13,pca128_logreg,PCA-logistic,0.16,pca128_logreg,PCA-logistic,0.0007157522003706976
+ctnexus,liver_calcifications,2,14,pca128_logreg,PCA-logistic,0.16,pca128_logreg,PCA-logistic,0.01235029836307905
+ctnexus,liver_calcifications,2,15,pca128_logreg,PCA-logistic,0.16,pca128_logreg,PCA-logistic,0.002389655304174797
+ctnexus,liver_calcifications,2,16,pca128_logreg,PCA-logistic,0.16,logreg_l1_C0.5,Sparse logistic,0.24938741382560836
+ctnexus,liver_calcifications,2,17,pca128_logreg,PCA-logistic,0.16,pca16_logreg,PCA-logistic,0.4461742098872565
+ctnexus,liver_calcifications,2,18,pca128_logreg,PCA-logistic,0.16,logreg_l1_C0.1,Sparse logistic,0.3931483720677631
+ctnexus,liver_calcifications,2,19,pca128_logreg,PCA-logistic,0.16,pca8_logreg,PCA-logistic,0.5058320261340155

@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+ctnexus,atherosclerosis,4,0,logreg_l1_C0.05,Sparse logistic,0.3699505937562983,logreg_l1_C0.1,Sparse logistic,0.4220581847613697
+ctnexus,atherosclerosis,4,1,logreg_l1_C0.05,Sparse logistic,0.3699505937562983,pca64_logreg,PCA-logistic,0.22
+ctnexus,atherosclerosis,4,2,logreg_l1_C0.05,Sparse logistic,0.3699505937562983,logreg_C0.05,Balanced logistic,0.15902600374981474
+ctnexus,atherosclerosis,4,3,logreg_l1_C0.05,Sparse logistic,0.3699505937562983,pca16_logreg,PCA-logistic,0.5057440472513035
+ctnexus,atherosclerosis,4,4,logreg_l1_C0.05,Sparse logistic,0.3699505937562983,pca8_logreg,PCA-logistic,0.41450376795904004
+ctnexus,atherosclerosis,4,5,logreg_l1_C0.05,Sparse logistic,0.3699505937562983,logreg_l1_C0.25,Sparse logistic,0.05976027316346704
+ctnexus,atherosclerosis,4,6,logreg_l1_C0.05,Sparse logistic,0.3699505937562983,logreg_l1_C0.1,Sparse logistic,0.19
+ctnexus,atherosclerosis,4,7,logreg_l1_C0.05,Sparse logistic,0.3699505937562983,pca32_logreg,PCA-logistic,0.23121434480930136
+ctnexus,atherosclerosis,4,8,logreg_l1_C0.05,Sparse logistic,0.3699505937562983,logreg_l1_C0.05,Sparse logistic,0.45389143457980174
+ctnexus,atherosclerosis,4,9,logreg_l1_C0.05,Sparse logistic,0.3699505937562983,pca64_logreg,PCA-logistic,0.29000000000000004
+ctnexus,atherosclerosis,4,10,logreg_l1_C0.05,Sparse logistic,0.3699505937562983,logreg_C0.05,Balanced logistic,0.15916426313589188
+ctnexus,atherosclerosis,4,11,logreg_l1_C0.05,Sparse logistic,0.3699505937562983,pca64_logreg,PCA-logistic,0.07
+ctnexus,atherosclerosis,4,12,logreg_l1_C0.05,Sparse logistic,0.3699505937562983,logreg_l1_C0.05,Sparse logistic,0.41000000000000003
+ctnexus,atherosclerosis,4,13,logreg_l1_C0.05,Sparse logistic,0.3699505937562983,logreg_C0.1,Balanced logistic,0.22
+ctnexus,atherosclerosis,4,14,logreg_l1_C0.05,Sparse logistic,0.3699505937562983,pca32_logreg,PCA-logistic,0.22
+ctnexus,atherosclerosis,4,15,logreg_l1_C0.05,Sparse logistic,0.3699505937562983,logreg_l1_C0.1,Sparse logistic,0.31462793300811087
+ctnexus,atherosclerosis,4,16,logreg_l1_C0.05,Sparse logistic,0.3699505937562983,logreg_l1_C0.1,Sparse logistic,0.24571439555116908
+ctnexus,atherosclerosis,4,17,logreg_l1_C0.05,Sparse logistic,0.3699505937562983,logreg_l1_C0.1,Sparse logistic,0.38
+ctnexus,atherosclerosis,4,18,logreg_l1_C0.05,Sparse logistic,0.3699505937562983,logreg_l1_C0.05,Sparse logistic,0.45
+ctnexus,atherosclerosis,4,19,logreg_l1_C0.05,Sparse logistic,0.3699505937562983,logreg_C0.25,Balanced logistic,0.15207311466178702

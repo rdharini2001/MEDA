@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+ctnexus,liver_cyst,1,0,logreg_l1_C0.05,Sparse logistic,0.5109272247593514,logreg_l1_C0.05,Sparse logistic,0.49643389963427426
+ctnexus,liver_cyst,1,1,logreg_l1_C0.05,Sparse logistic,0.5109272247593514,logreg_l1_C0.05,Sparse logistic,0.5246550468429599
+ctnexus,liver_cyst,1,2,logreg_l1_C0.05,Sparse logistic,0.5109272247593514,logreg_l1_C0.5,Sparse logistic,0.43000000000000005
+ctnexus,liver_cyst,1,3,logreg_l1_C0.05,Sparse logistic,0.5109272247593514,logreg_l1_C0.05,Sparse logistic,0.5268586189885897
+ctnexus,liver_cyst,1,4,logreg_l1_C0.05,Sparse logistic,0.5109272247593514,logreg_l1_C0.05,Sparse logistic,0.5360039001215535
+ctnexus,liver_cyst,1,5,logreg_l1_C0.05,Sparse logistic,0.5109272247593514,logreg_l1_C0.1,Sparse logistic,0.5992796846781895
+ctnexus,liver_cyst,1,6,logreg_l1_C0.05,Sparse logistic,0.5109272247593514,logreg_l1_C0.1,Sparse logistic,0.48955376255911387
+ctnexus,liver_cyst,1,7,logreg_l1_C0.05,Sparse logistic,0.5109272247593514,logreg_l1_C0.05,Sparse logistic,0.4699950271453657
+ctnexus,liver_cyst,1,8,logreg_l1_C0.05,Sparse logistic,0.5109272247593514,logreg_l1_C0.05,Sparse logistic,0.4837630676902885
+ctnexus,liver_cyst,1,9,logreg_l1_C0.05,Sparse logistic,0.5109272247593514,logreg_l1_C0.25,Sparse logistic,0.61
+ctnexus,liver_cyst,1,10,logreg_l1_C0.05,Sparse logistic,0.5109272247593514,logreg_l1_C0.05,Sparse logistic,0.5010674570768527
+ctnexus,liver_cyst,1,11,logreg_l1_C0.05,Sparse logistic,0.5109272247593514,logreg_l1_C0.05,Sparse logistic,0.48000000000000004
+ctnexus,liver_cyst,1,12,logreg_l1_C0.05,Sparse logistic,0.5109272247593514,logreg_l1_C0.1,Sparse logistic,0.5088270039076354
+ctnexus,liver_cyst,1,13,logreg_l1_C0.05,Sparse logistic,0.5109272247593514,logreg_l1_C0.1,Sparse logistic,0.494216490295712
+ctnexus,liver_cyst,1,14,logreg_l1_C0.05,Sparse logistic,0.5109272247593514,logreg_l1_C0.05,Sparse logistic,0.49909180891751415
+ctnexus,liver_cyst,1,15,logreg_l1_C0.05,Sparse logistic,0.5109272247593514,logreg_l1_C0.25,Sparse logistic,0.3575941005488863
+ctnexus,liver_cyst,1,16,logreg_l1_C0.05,Sparse logistic,0.5109272247593514,logreg_l1_C0.1,Sparse logistic,0.45
+ctnexus,liver_cyst,1,17,logreg_l1_C0.05,Sparse logistic,0.5109272247593514,logreg_l1_C0.05,Sparse logistic,0.5210950146994462
+ctnexus,liver_cyst,1,18,logreg_l1_C0.05,Sparse logistic,0.5109272247593514,logreg_l1_C0.05,Sparse logistic,0.5310933735081187
+ctnexus,liver_cyst,1,19,logreg_l1_C0.05,Sparse logistic,0.5109272247593514,logreg_l1_C0.05,Sparse logistic,0.4986135576290734

@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+ctnexus,covid,1,0,pca16_logreg,PCA-logistic,0.5,logreg_C0.1,Balanced logistic,0.32
+ctnexus,covid,1,1,pca16_logreg,PCA-logistic,0.5,logreg_C0.1,Balanced logistic,0.6396305376188177
+ctnexus,covid,1,2,pca16_logreg,PCA-logistic,0.5,rf_balanced,Random forest,0.2635008366685483
+ctnexus,covid,1,3,pca16_logreg,PCA-logistic,0.5,logreg_C0.05,Balanced logistic,0.5271159231582027
+ctnexus,covid,1,4,pca16_logreg,PCA-logistic,0.5,logreg_C1.0,Balanced logistic,0.3677652973795493
+ctnexus,covid,1,5,pca16_logreg,PCA-logistic,0.5,logreg_l1_C0.05,Sparse logistic,0.5090594616435695
+ctnexus,covid,1,6,pca16_logreg,PCA-logistic,0.5,pca32_logreg,PCA-logistic,0.45957255319962836
+ctnexus,covid,1,7,pca16_logreg,PCA-logistic,0.5,logreg_l1_C0.1,Sparse logistic,0.5030609043725525
+ctnexus,covid,1,8,pca16_logreg,PCA-logistic,0.5,rf_balanced,Random forest,0.16999999999999998
+ctnexus,covid,1,9,pca16_logreg,PCA-logistic,0.5,rf_balanced,Random forest,0.3070069393479572
+ctnexus,covid,1,10,pca16_logreg,PCA-logistic,0.5,logreg_l1_C0.25,Sparse logistic,0.3595651589334772
+ctnexus,covid,1,11,pca16_logreg,PCA-logistic,0.5,pca16_logreg,PCA-logistic,0.4782755907198903
+ctnexus,covid,1,12,pca16_logreg,PCA-logistic,0.5,rf_balanced,Random forest,0.32367390106967475
+ctnexus,covid,1,13,pca16_logreg,PCA-logistic,0.5,logreg_C2.0,Balanced logistic,0.28
+ctnexus,covid,1,14,pca16_logreg,PCA-logistic,0.5,logreg_C2.0,Balanced logistic,0.09331936799185049
+ctnexus,covid,1,15,pca16_logreg,PCA-logistic,0.5,logreg_l1_C0.1,Sparse logistic,0.5324736898509427
+ctnexus,covid,1,16,pca16_logreg,PCA-logistic,0.5,rf_balanced,Random forest,0.34
+ctnexus,covid,1,17,pca16_logreg,PCA-logistic,0.5,rf_balanced,Random forest,0.21
+ctnexus,covid,1,18,pca16_logreg,PCA-logistic,0.5,pca32_logreg,PCA-logistic,0.5250168232603644
+ctnexus,covid,1,19,pca16_logreg,PCA-logistic,0.5,logreg_C0.5,Balanced logistic,0.47411169200681563

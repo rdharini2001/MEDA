@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+ctnexus,ascites,0,0,pca128_logreg,PCA-logistic,0.15244793468708204,pca128_logreg,PCA-logistic,0.060465802540784507
+ctnexus,ascites,0,1,pca128_logreg,PCA-logistic,0.15244793468708204,pca64_logreg,PCA-logistic,0.1
+ctnexus,ascites,0,2,pca128_logreg,PCA-logistic,0.15244793468708204,logreg_C0.1,Balanced logistic,0.2610073591017843
+ctnexus,ascites,0,3,pca128_logreg,PCA-logistic,0.15244793468708204,logreg_C0.05,Balanced logistic,0.27451088802824786
+ctnexus,ascites,0,4,pca128_logreg,PCA-logistic,0.15244793468708204,logreg_l1_C0.5,Sparse logistic,0.08186638876280981
+ctnexus,ascites,0,5,pca128_logreg,PCA-logistic,0.15244793468708204,logreg_l1_C0.25,Sparse logistic,0.17712991965086944
+ctnexus,ascites,0,6,pca128_logreg,PCA-logistic,0.15244793468708204,logreg_C0.1,Balanced logistic,0.38
+ctnexus,ascites,0,7,pca128_logreg,PCA-logistic,0.15244793468708204,logreg_C0.05,Balanced logistic,0.3923181693891109
+ctnexus,ascites,0,8,pca128_logreg,PCA-logistic,0.15244793468708204,logreg_l1_C0.1,Sparse logistic,0.46
+ctnexus,ascites,0,9,pca128_logreg,PCA-logistic,0.15244793468708204,pca64_logreg,PCA-logistic,0.08
+ctnexus,ascites,0,10,pca128_logreg,PCA-logistic,0.15244793468708204,pca128_logreg,PCA-logistic,0.16999999999999998
+ctnexus,ascites,0,11,pca128_logreg,PCA-logistic,0.15244793468708204,logreg_l1_C0.05,Sparse logistic,0.51
+ctnexus,ascites,0,12,pca128_logreg,PCA-logistic,0.15244793468708204,logreg_l1_C0.1,Sparse logistic,0.43000000000000005
+ctnexus,ascites,0,13,pca128_logreg,PCA-logistic,0.15244793468708204,logreg_C0.1,Balanced logistic,0.2594579828504898
+ctnexus,ascites,0,14,pca128_logreg,PCA-logistic,0.15244793468708204,logreg_C0.05,Balanced logistic,0.27
+ctnexus,ascites,0,15,pca128_logreg,PCA-logistic,0.15244793468708204,pca64_logreg,PCA-logistic,0.12000000000000001
+ctnexus,ascites,0,16,pca128_logreg,PCA-logistic,0.15244793468708204,pca256_logreg,PCA-logistic,0.2064320310185685
+ctnexus,ascites,0,17,pca128_logreg,PCA-logistic,0.15244793468708204,logreg_C0.05,Balanced logistic,0.2973671291082817
+ctnexus,ascites,0,18,pca128_logreg,PCA-logistic,0.15244793468708204,pca64_logreg,PCA-logistic,0.07981245920354077
+ctnexus,ascites,0,19,pca128_logreg,PCA-logistic,0.15244793468708204,logreg_l1_C0.5,Sparse logistic,0.19

@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+ctnexus,atherosclerosis,0,0,pca8_logreg,PCA-logistic,0.4019867948192042,logreg_C1.0,Balanced logistic,0.05
+ctnexus,atherosclerosis,0,1,pca8_logreg,PCA-logistic,0.4019867948192042,logreg_l1_C0.5,Sparse logistic,0.05385425637177209
+ctnexus,atherosclerosis,0,2,pca8_logreg,PCA-logistic,0.4019867948192042,pca32_logreg,PCA-logistic,0.26
+ctnexus,atherosclerosis,0,3,pca8_logreg,PCA-logistic,0.4019867948192042,logreg_l1_C0.05,Sparse logistic,0.39915913550579524
+ctnexus,atherosclerosis,0,4,pca8_logreg,PCA-logistic,0.4019867948192042,logreg_l1_C0.5,Sparse logistic,0.09351753836894347
+ctnexus,atherosclerosis,0,5,pca8_logreg,PCA-logistic,0.4019867948192042,logreg_l1_C0.1,Sparse logistic,0.24
+ctnexus,atherosclerosis,0,6,pca8_logreg,PCA-logistic,0.4019867948192042,logreg_C2.0,Balanced logistic,0.0028470668866108287
+ctnexus,atherosclerosis,0,7,pca8_logreg,PCA-logistic,0.4019867948192042,pca32_logreg,PCA-logistic,0.27
+ctnexus,atherosclerosis,0,8,pca8_logreg,PCA-logistic,0.4019867948192042,pca16_logreg,PCA-logistic,0.6273466300341931
+ctnexus,atherosclerosis,0,9,pca8_logreg,PCA-logistic,0.4019867948192042,pca16_logreg,PCA-logistic,0.5
+ctnexus,atherosclerosis,0,10,pca8_logreg,PCA-logistic,0.4019867948192042,logreg_C2.0,Balanced logistic,0.04
+ctnexus,atherosclerosis,0,11,pca8_logreg,PCA-logistic,0.4019867948192042,pca16_logreg,PCA-logistic,0.4130794993692654
+ctnexus,atherosclerosis,0,12,pca8_logreg,PCA-logistic,0.4019867948192042,logreg_l1_C0.05,Sparse logistic,0.61
+ctnexus,atherosclerosis,0,13,pca8_logreg,PCA-logistic,0.4019867948192042,logreg_l1_C0.05,Sparse logistic,0.44
+ctnexus,atherosclerosis,0,14,pca8_logreg,PCA-logistic,0.4019867948192042,logreg_l1_C0.5,Sparse logistic,0.05622139841785023
+ctnexus,atherosclerosis,0,15,pca8_logreg,PCA-logistic,0.4019867948192042,pca16_logreg,PCA-logistic,0.47000000000000003
+ctnexus,atherosclerosis,0,16,pca8_logreg,PCA-logistic,0.4019867948192042,logreg_l1_C0.05,Sparse logistic,0.4387868655795762
+ctnexus,atherosclerosis,0,17,pca8_logreg,PCA-logistic,0.4019867948192042,pca32_logreg,PCA-logistic,0.2532280776887886
+ctnexus,atherosclerosis,0,18,pca8_logreg,PCA-logistic,0.4019867948192042,pca8_logreg,PCA-logistic,0.42000000000000004
+ctnexus,atherosclerosis,0,19,pca8_logreg,PCA-logistic,0.4019867948192042,pca16_logreg,PCA-logistic,0.34746243379531855

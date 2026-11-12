@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+merlin,hydronephrosis,4,0,logreg_l1_C0.05,Sparse logistic,0.6,logreg_l1_C0.25,Sparse logistic,0.51
+merlin,hydronephrosis,4,1,logreg_l1_C0.05,Sparse logistic,0.6,logreg_C0.05,Balanced logistic,0.49000000000000005
+merlin,hydronephrosis,4,2,logreg_l1_C0.05,Sparse logistic,0.6,logreg_C0.05,Balanced logistic,0.56
+merlin,hydronephrosis,4,3,logreg_l1_C0.05,Sparse logistic,0.6,logreg_C0.05,Balanced logistic,0.36191096923983374
+merlin,hydronephrosis,4,4,logreg_l1_C0.05,Sparse logistic,0.6,logreg_C0.1,Balanced logistic,0.52
+merlin,hydronephrosis,4,5,logreg_l1_C0.05,Sparse logistic,0.6,logreg_C0.05,Balanced logistic,0.6072397008542184
+merlin,hydronephrosis,4,6,logreg_l1_C0.05,Sparse logistic,0.6,logreg_l1_C0.25,Sparse logistic,0.40405308927116945
+merlin,hydronephrosis,4,7,logreg_l1_C0.05,Sparse logistic,0.6,logreg_C0.05,Balanced logistic,0.4298565176090706
+merlin,hydronephrosis,4,8,logreg_l1_C0.05,Sparse logistic,0.6,logreg_l1_C0.25,Sparse logistic,0.48000000000000004
+merlin,hydronephrosis,4,9,logreg_l1_C0.05,Sparse logistic,0.6,logreg_C0.05,Balanced logistic,0.39
+merlin,hydronephrosis,4,10,logreg_l1_C0.05,Sparse logistic,0.6,logreg_C0.05,Balanced logistic,0.48000000000000004
+merlin,hydronephrosis,4,11,logreg_l1_C0.05,Sparse logistic,0.6,logreg_C0.05,Balanced logistic,0.5278814553957943
+merlin,hydronephrosis,4,12,logreg_l1_C0.05,Sparse logistic,0.6,logreg_l1_C0.1,Sparse logistic,0.5984109490934151
+merlin,hydronephrosis,4,13,logreg_l1_C0.05,Sparse logistic,0.6,logreg_C0.05,Balanced logistic,0.5450779816528172
+merlin,hydronephrosis,4,14,logreg_l1_C0.05,Sparse logistic,0.6,logreg_C0.05,Balanced logistic,0.30000000000000004
+merlin,hydronephrosis,4,15,logreg_l1_C0.05,Sparse logistic,0.6,logreg_C0.05,Balanced logistic,0.27
+merlin,hydronephrosis,4,16,logreg_l1_C0.05,Sparse logistic,0.6,logreg_l1_C0.25,Sparse logistic,0.45230573619347086
+merlin,hydronephrosis,4,17,logreg_l1_C0.05,Sparse logistic,0.6,logreg_C0.25,Balanced logistic,0.45
+merlin,hydronephrosis,4,18,logreg_l1_C0.05,Sparse logistic,0.6,logreg_C0.05,Balanced logistic,0.5077246423630121
+merlin,hydronephrosis,4,19,logreg_l1_C0.05,Sparse logistic,0.6,logreg_C0.05,Balanced logistic,0.48000000000000004

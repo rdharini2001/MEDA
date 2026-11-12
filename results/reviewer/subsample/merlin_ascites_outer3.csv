@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+merlin,ascites,3,0,logreg_l1_C0.1,Sparse logistic,0.5,logreg_C0.1,Balanced logistic,0.36000000000000004
+merlin,ascites,3,1,logreg_l1_C0.1,Sparse logistic,0.5,logreg_l1_C0.05,Sparse logistic,0.54
+merlin,ascites,3,2,logreg_l1_C0.1,Sparse logistic,0.5,logreg_C0.1,Balanced logistic,0.44
+merlin,ascites,3,3,logreg_l1_C0.1,Sparse logistic,0.5,logreg_C0.05,Balanced logistic,0.6
+merlin,ascites,3,4,logreg_l1_C0.1,Sparse logistic,0.5,logreg_l1_C0.1,Sparse logistic,0.45
+merlin,ascites,3,5,logreg_l1_C0.1,Sparse logistic,0.5,logreg_l1_C0.25,Sparse logistic,0.31
+merlin,ascites,3,6,logreg_l1_C0.1,Sparse logistic,0.5,logreg_l1_C0.1,Sparse logistic,0.49000000000000005
+merlin,ascites,3,7,logreg_l1_C0.1,Sparse logistic,0.5,logreg_l1_C0.05,Sparse logistic,0.51
+merlin,ascites,3,8,logreg_l1_C0.1,Sparse logistic,0.5,logreg_l1_C0.1,Sparse logistic,0.47736490630317124
+merlin,ascites,3,9,logreg_l1_C0.1,Sparse logistic,0.5,logreg_l1_C0.1,Sparse logistic,0.41000000000000003
+merlin,ascites,3,10,logreg_l1_C0.1,Sparse logistic,0.5,logreg_l1_C0.05,Sparse logistic,0.5900000000000001
+merlin,ascites,3,11,logreg_l1_C0.1,Sparse logistic,0.5,logreg_l1_C0.25,Sparse logistic,0.19
+merlin,ascites,3,12,logreg_l1_C0.1,Sparse logistic,0.5,logreg_l1_C0.05,Sparse logistic,0.54
+merlin,ascites,3,13,logreg_l1_C0.1,Sparse logistic,0.5,logreg_l1_C0.25,Sparse logistic,0.32
+merlin,ascites,3,14,logreg_l1_C0.1,Sparse logistic,0.5,logreg_l1_C0.05,Sparse logistic,0.47000000000000003
+merlin,ascites,3,15,logreg_l1_C0.1,Sparse logistic,0.5,logreg_l1_C0.1,Sparse logistic,0.56
+merlin,ascites,3,16,logreg_l1_C0.1,Sparse logistic,0.5,logreg_l1_C0.1,Sparse logistic,0.52
+merlin,ascites,3,17,logreg_l1_C0.1,Sparse logistic,0.5,logreg_l1_C0.1,Sparse logistic,0.61
+merlin,ascites,3,18,logreg_l1_C0.1,Sparse logistic,0.5,logreg_l1_C0.1,Sparse logistic,0.3574300549496701
+merlin,ascites,3,19,logreg_l1_C0.1,Sparse logistic,0.5,logreg_l1_C0.05,Sparse logistic,0.46565456887227247

@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+ctnexus,fatty_liver,3,0,logreg_l1_C0.25,Sparse logistic,0.26,logreg_C0.05,Balanced logistic,0.49000000000000005
+ctnexus,fatty_liver,3,1,logreg_l1_C0.25,Sparse logistic,0.26,logreg_l1_C0.05,Sparse logistic,0.55
+ctnexus,fatty_liver,3,2,logreg_l1_C0.25,Sparse logistic,0.26,logreg_C0.05,Balanced logistic,0.34
+ctnexus,fatty_liver,3,3,logreg_l1_C0.25,Sparse logistic,0.26,logreg_C0.05,Balanced logistic,0.55
+ctnexus,fatty_liver,3,4,logreg_l1_C0.25,Sparse logistic,0.26,logreg_l1_C0.05,Sparse logistic,0.5900000000000001
+ctnexus,fatty_liver,3,5,logreg_l1_C0.25,Sparse logistic,0.26,logreg_C0.05,Balanced logistic,0.4523299280087346
+ctnexus,fatty_liver,3,6,logreg_l1_C0.25,Sparse logistic,0.26,logreg_C0.05,Balanced logistic,0.44
+ctnexus,fatty_liver,3,7,logreg_l1_C0.25,Sparse logistic,0.26,logreg_C0.05,Balanced logistic,0.5
+ctnexus,fatty_liver,3,8,logreg_l1_C0.25,Sparse logistic,0.26,logreg_C0.05,Balanced logistic,0.41000000000000003
+ctnexus,fatty_liver,3,9,logreg_l1_C0.25,Sparse logistic,0.26,logreg_C0.05,Balanced logistic,0.52
+ctnexus,fatty_liver,3,10,logreg_l1_C0.25,Sparse logistic,0.26,logreg_C0.1,Balanced logistic,0.35000000000000003
+ctnexus,fatty_liver,3,11,logreg_l1_C0.25,Sparse logistic,0.26,logreg_C0.05,Balanced logistic,0.41606660085479025
+ctnexus,fatty_liver,3,12,logreg_l1_C0.25,Sparse logistic,0.26,pca256_logreg,PCA-logistic,0.3398475076899783
+ctnexus,fatty_liver,3,13,logreg_l1_C0.25,Sparse logistic,0.26,logreg_C0.05,Balanced logistic,0.46
+ctnexus,fatty_liver,3,14,logreg_l1_C0.25,Sparse logistic,0.26,logreg_C0.05,Balanced logistic,0.51
+ctnexus,fatty_liver,3,15,logreg_l1_C0.25,Sparse logistic,0.26,logreg_l1_C0.05,Sparse logistic,0.5700000000000001
+ctnexus,fatty_liver,3,16,logreg_l1_C0.25,Sparse logistic,0.26,logreg_l1_C0.1,Sparse logistic,0.5800000000000001
+ctnexus,fatty_liver,3,17,logreg_l1_C0.25,Sparse logistic,0.26,pca16_logreg,PCA-logistic,0.4920711061896955
+ctnexus,fatty_liver,3,18,logreg_l1_C0.25,Sparse logistic,0.26,pca16_logreg,PCA-logistic,0.38
+ctnexus,fatty_liver,3,19,logreg_l1_C0.25,Sparse logistic,0.26,logreg_C0.1,Balanced logistic,0.3789861148653299

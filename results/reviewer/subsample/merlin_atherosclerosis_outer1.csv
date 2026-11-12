@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+merlin,atherosclerosis,1,0,logreg_l1_C0.25,Sparse logistic,0.14216712239600413,logreg_l1_C0.05,Sparse logistic,0.3647255534144082
+merlin,atherosclerosis,1,1,logreg_l1_C0.25,Sparse logistic,0.14216712239600413,logreg_C0.1,Balanced logistic,0.16
+merlin,atherosclerosis,1,2,logreg_l1_C0.25,Sparse logistic,0.14216712239600413,logreg_l1_C0.25,Sparse logistic,0.07613442954844922
+merlin,atherosclerosis,1,3,logreg_l1_C0.25,Sparse logistic,0.14216712239600413,logreg_l1_C0.05,Sparse logistic,0.4615612693732757
+merlin,atherosclerosis,1,4,logreg_l1_C0.25,Sparse logistic,0.14216712239600413,logreg_l1_C0.1,Sparse logistic,0.48000000000000004
+merlin,atherosclerosis,1,5,logreg_l1_C0.25,Sparse logistic,0.14216712239600413,logreg_l1_C0.1,Sparse logistic,0.45181389489064333
+merlin,atherosclerosis,1,6,logreg_l1_C0.25,Sparse logistic,0.14216712239600413,logreg_l1_C0.25,Sparse logistic,0.15343273114079867
+merlin,atherosclerosis,1,7,logreg_l1_C0.25,Sparse logistic,0.14216712239600413,logreg_l1_C0.05,Sparse logistic,0.37691980384391255
+merlin,atherosclerosis,1,8,logreg_l1_C0.25,Sparse logistic,0.14216712239600413,logreg_l1_C0.1,Sparse logistic,0.3180325425529735
+merlin,atherosclerosis,1,9,logreg_l1_C0.25,Sparse logistic,0.14216712239600413,logreg_l1_C0.05,Sparse logistic,0.6321670418346046
+merlin,atherosclerosis,1,10,logreg_l1_C0.25,Sparse logistic,0.14216712239600413,logreg_l1_C0.1,Sparse logistic,0.43541424015789804
+merlin,atherosclerosis,1,11,logreg_l1_C0.25,Sparse logistic,0.14216712239600413,logreg_l1_C0.05,Sparse logistic,0.39
+merlin,atherosclerosis,1,12,logreg_l1_C0.25,Sparse logistic,0.14216712239600413,logreg_l1_C0.1,Sparse logistic,0.2999863345659907
+merlin,atherosclerosis,1,13,logreg_l1_C0.25,Sparse logistic,0.14216712239600413,logreg_l1_C0.05,Sparse logistic,0.4217592306908135
+merlin,atherosclerosis,1,14,logreg_l1_C0.25,Sparse logistic,0.14216712239600413,logreg_l1_C0.05,Sparse logistic,0.42000000000000004
+merlin,atherosclerosis,1,15,logreg_l1_C0.25,Sparse logistic,0.14216712239600413,logreg_l1_C0.1,Sparse logistic,0.5504492020190019
+merlin,atherosclerosis,1,16,logreg_l1_C0.25,Sparse logistic,0.14216712239600413,logreg_l1_C0.5,Sparse logistic,0.1353438079601893
+merlin,atherosclerosis,1,17,logreg_l1_C0.25,Sparse logistic,0.14216712239600413,logreg_l1_C0.25,Sparse logistic,0.28860674469698616
+merlin,atherosclerosis,1,18,logreg_l1_C0.25,Sparse logistic,0.14216712239600413,logreg_l1_C0.05,Sparse logistic,0.53
+merlin,atherosclerosis,1,19,logreg_l1_C0.25,Sparse logistic,0.14216712239600413,logreg_l1_C0.1,Sparse logistic,0.26

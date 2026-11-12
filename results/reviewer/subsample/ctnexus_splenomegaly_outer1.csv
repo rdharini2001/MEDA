@@ -1,0 +1,21 @@
+backbone,target,fold,resample,reference_name,reference_family,reference_threshold,name,family,threshold
+ctnexus,splenomegaly,1,0,pca64_logreg,PCA-logistic,0.19,logreg_l1_C0.25,Sparse logistic,0.16473726004037814
+ctnexus,splenomegaly,1,1,pca64_logreg,PCA-logistic,0.19,pca128_logreg,PCA-logistic,0.06467608881902494
+ctnexus,splenomegaly,1,2,pca64_logreg,PCA-logistic,0.19,logreg_l1_C0.05,Sparse logistic,0.4039506206091051
+ctnexus,splenomegaly,1,3,pca64_logreg,PCA-logistic,0.19,logreg_l1_C0.05,Sparse logistic,0.46
+ctnexus,splenomegaly,1,4,pca64_logreg,PCA-logistic,0.19,logreg_l1_C0.1,Sparse logistic,0.2421155063200547
+ctnexus,splenomegaly,1,5,pca64_logreg,PCA-logistic,0.19,pca128_logreg,PCA-logistic,0.05
+ctnexus,splenomegaly,1,6,pca64_logreg,PCA-logistic,0.19,logreg_C0.05,Balanced logistic,0.5097000104536057
+ctnexus,splenomegaly,1,7,pca64_logreg,PCA-logistic,0.19,pca8_logreg,PCA-logistic,0.4932491472749857
+ctnexus,splenomegaly,1,8,pca64_logreg,PCA-logistic,0.19,pca32_logreg,PCA-logistic,0.33083169322467115
+ctnexus,splenomegaly,1,9,pca64_logreg,PCA-logistic,0.19,logreg_C0.05,Balanced logistic,0.32
+ctnexus,splenomegaly,1,10,pca64_logreg,PCA-logistic,0.19,logreg_l1_C0.05,Sparse logistic,0.3922976542508394
+ctnexus,splenomegaly,1,11,pca64_logreg,PCA-logistic,0.19,pca256_logreg,PCA-logistic,0.16999999999999998
+ctnexus,splenomegaly,1,12,pca64_logreg,PCA-logistic,0.19,logreg_l1_C0.05,Sparse logistic,0.5
+ctnexus,splenomegaly,1,13,pca64_logreg,PCA-logistic,0.19,logreg_C0.05,Balanced logistic,0.34290061203872024
+ctnexus,splenomegaly,1,14,pca64_logreg,PCA-logistic,0.19,logreg_l1_C0.05,Sparse logistic,0.47000000000000003
+ctnexus,splenomegaly,1,15,pca64_logreg,PCA-logistic,0.19,logreg_C0.05,Balanced logistic,0.37000000000000005
+ctnexus,splenomegaly,1,16,pca64_logreg,PCA-logistic,0.19,logreg_l1_C0.5,Sparse logistic,0.27
+ctnexus,splenomegaly,1,17,pca64_logreg,PCA-logistic,0.19,pca8_logreg,PCA-logistic,0.55
+ctnexus,splenomegaly,1,18,pca64_logreg,PCA-logistic,0.19,logreg_l1_C0.05,Sparse logistic,0.42000000000000004
+ctnexus,splenomegaly,1,19,pca64_logreg,PCA-logistic,0.19,pca16_logreg,PCA-logistic,0.4170778450381491
