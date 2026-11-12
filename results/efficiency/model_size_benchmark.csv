@@ -1,0 +1,139 @@
+backbone,target,name,family,size_kb
+merlin,fatty_liver,logreg_C0.05,Balanced logistic,65.291015625
+merlin,fatty_liver,logreg_C0.1,Balanced logistic,65.291015625
+merlin,fatty_liver,logreg_C0.25,Balanced logistic,65.291015625
+merlin,fatty_liver,logreg_C0.5,Balanced logistic,65.291015625
+merlin,fatty_liver,logreg_C1.0,Balanced logistic,65.291015625
+merlin,fatty_liver,logreg_C2.0,Balanced logistic,65.291015625
+merlin,fatty_liver,logreg_l1_C0.05,Sparse logistic,65.291015625
+merlin,fatty_liver,logreg_l1_C0.1,Sparse logistic,65.291015625
+merlin,fatty_liver,logreg_l1_C0.25,Sparse logistic,65.291015625
+merlin,fatty_liver,logreg_l1_C0.5,Sparse logistic,65.291015625
+merlin,fatty_liver,pca8_logreg,PCA-logistic,194.181640625
+merlin,fatty_liver,pca16_logreg,PCA-logistic,322.431640625
+merlin,fatty_liver,pca32_logreg,PCA-logistic,578.931640625
+merlin,fatty_liver,pca64_logreg,PCA-logistic,1091.931640625
+merlin,fatty_liver,pca128_logreg,PCA-logistic,2117.931640625
+merlin,fatty_liver,pca256_logreg,PCA-logistic,4169.931640625
+merlin,fatty_liver,extratrees_balanced,ExtraTrees,9349.7744140625
+merlin,fatty_liver,rf_balanced,Random forest,2794.1025390625
+merlin,fatty_liver,histgb,HistGradientBoosting,4600.302734375
+merlin,fatty_liver,xgb_d2_lr0.03_n350,XGBoost,310.55078125
+merlin,fatty_liver,xgb_d3_lr0.025_n450,XGBoost,499.9140625
+merlin,fatty_liver,xgb_d2_lr0.05_n250,XGBoost,222.4912109375
+merlin,fatty_liver,xgb_d4_lr0.02_n500,XGBoost,664.923828125
+merlin,splenomegaly,logreg_C0.05,Balanced logistic,65.291015625
+merlin,splenomegaly,logreg_C0.1,Balanced logistic,65.291015625
+merlin,splenomegaly,logreg_C0.25,Balanced logistic,65.291015625
+merlin,splenomegaly,logreg_C0.5,Balanced logistic,65.291015625
+merlin,splenomegaly,logreg_C1.0,Balanced logistic,65.291015625
+merlin,splenomegaly,logreg_C2.0,Balanced logistic,65.291015625
+merlin,splenomegaly,logreg_l1_C0.05,Sparse logistic,65.291015625
+merlin,splenomegaly,logreg_l1_C0.1,Sparse logistic,65.291015625
+merlin,splenomegaly,logreg_l1_C0.25,Sparse logistic,65.291015625
+merlin,splenomegaly,logreg_l1_C0.5,Sparse logistic,65.291015625
+merlin,splenomegaly,pca8_logreg,PCA-logistic,194.181640625
+merlin,splenomegaly,pca16_logreg,PCA-logistic,322.431640625
+merlin,splenomegaly,pca32_logreg,PCA-logistic,578.931640625
+merlin,splenomegaly,pca64_logreg,PCA-logistic,1091.931640625
+merlin,splenomegaly,pca128_logreg,PCA-logistic,2117.931640625
+merlin,splenomegaly,pca256_logreg,PCA-logistic,4169.931640625
+merlin,splenomegaly,extratrees_balanced,ExtraTrees,8142.6494140625
+merlin,splenomegaly,rf_balanced,Random forest,2316.5400390625
+merlin,splenomegaly,histgb,HistGradientBoosting,4572.333984375
+merlin,splenomegaly,xgb_d2_lr0.03_n350,XGBoost,309.154296875
+merlin,splenomegaly,xgb_d3_lr0.025_n450,XGBoost,476.5439453125
+merlin,splenomegaly,xgb_d2_lr0.05_n250,XGBoost,220.6962890625
+merlin,splenomegaly,xgb_d4_lr0.02_n500,XGBoost,597.1845703125
+merlin,ascites,logreg_C0.05,Balanced logistic,65.291015625
+merlin,ascites,logreg_C0.1,Balanced logistic,65.291015625
+merlin,ascites,logreg_C0.25,Balanced logistic,65.291015625
+merlin,ascites,logreg_C0.5,Balanced logistic,65.291015625
+merlin,ascites,logreg_C1.0,Balanced logistic,65.291015625
+merlin,ascites,logreg_C2.0,Balanced logistic,65.291015625
+merlin,ascites,logreg_l1_C0.05,Sparse logistic,65.291015625
+merlin,ascites,logreg_l1_C0.1,Sparse logistic,65.291015625
+merlin,ascites,logreg_l1_C0.25,Sparse logistic,65.291015625
+merlin,ascites,logreg_l1_C0.5,Sparse logistic,65.291015625
+merlin,ascites,pca8_logreg,PCA-logistic,194.181640625
+merlin,ascites,pca16_logreg,PCA-logistic,322.431640625
+merlin,ascites,pca32_logreg,PCA-logistic,578.931640625
+merlin,ascites,pca64_logreg,PCA-logistic,1091.931640625
+merlin,ascites,pca128_logreg,PCA-logistic,2117.931640625
+merlin,ascites,pca256_logreg,PCA-logistic,4169.931640625
+merlin,ascites,extratrees_balanced,ExtraTrees,7515.3212890625
+merlin,ascites,rf_balanced,Random forest,2286.8681640625
+merlin,ascites,histgb,HistGradientBoosting,4552.349609375
+merlin,ascites,xgb_d2_lr0.03_n350,XGBoost,310.349609375
+merlin,ascites,xgb_d3_lr0.025_n450,XGBoost,480.88671875
+merlin,ascites,xgb_d2_lr0.05_n250,XGBoost,221.7587890625
+merlin,ascites,xgb_d4_lr0.02_n500,XGBoost,601.23828125
+ctnexus,fatty_liver,logreg_C0.05,Balanced logistic,36.291015625
+ctnexus,fatty_liver,logreg_C0.1,Balanced logistic,36.291015625
+ctnexus,fatty_liver,logreg_C0.25,Balanced logistic,36.291015625
+ctnexus,fatty_liver,logreg_C0.5,Balanced logistic,36.291015625
+ctnexus,fatty_liver,logreg_C1.0,Balanced logistic,36.291015625
+ctnexus,fatty_liver,logreg_C2.0,Balanced logistic,36.291015625
+ctnexus,fatty_liver,logreg_l1_C0.05,Sparse logistic,36.291015625
+ctnexus,fatty_liver,logreg_l1_C0.1,Sparse logistic,36.291015625
+ctnexus,fatty_liver,logreg_l1_C0.25,Sparse logistic,36.291015625
+ctnexus,fatty_liver,logreg_l1_C0.5,Sparse logistic,36.291015625
+ctnexus,fatty_liver,pca8_logreg,PCA-logistic,107.181640625
+ctnexus,fatty_liver,pca16_logreg,PCA-logistic,177.431640625
+ctnexus,fatty_liver,pca32_logreg,PCA-logistic,317.931640625
+ctnexus,fatty_liver,pca64_logreg,PCA-logistic,598.931640625
+ctnexus,fatty_liver,pca128_logreg,PCA-logistic,1160.931640625
+ctnexus,fatty_liver,pca256_logreg,PCA-logistic,2284.931640625
+ctnexus,fatty_liver,extratrees_balanced,ExtraTrees,10175.1025390625
+ctnexus,fatty_liver,rf_balanced,Random forest,3028.9462890625
+ctnexus,fatty_liver,histgb,HistGradientBoosting,2732.927734375
+ctnexus,fatty_liver,xgb_d2_lr0.03_n350,XGBoost,310.68359375
+ctnexus,fatty_liver,xgb_d3_lr0.025_n450,XGBoost,499.7783203125
+ctnexus,fatty_liver,xgb_d2_lr0.05_n250,XGBoost,222.3583984375
+ctnexus,fatty_liver,xgb_d4_lr0.02_n500,XGBoost,682.455078125
+ctnexus,splenomegaly,logreg_C0.05,Balanced logistic,36.291015625
+ctnexus,splenomegaly,logreg_C0.1,Balanced logistic,36.291015625
+ctnexus,splenomegaly,logreg_C0.25,Balanced logistic,36.291015625
+ctnexus,splenomegaly,logreg_C0.5,Balanced logistic,36.291015625
+ctnexus,splenomegaly,logreg_C1.0,Balanced logistic,36.291015625
+ctnexus,splenomegaly,logreg_C2.0,Balanced logistic,36.291015625
+ctnexus,splenomegaly,logreg_l1_C0.05,Sparse logistic,36.291015625
+ctnexus,splenomegaly,logreg_l1_C0.1,Sparse logistic,36.291015625
+ctnexus,splenomegaly,logreg_l1_C0.25,Sparse logistic,36.291015625
+ctnexus,splenomegaly,logreg_l1_C0.5,Sparse logistic,36.291015625
+ctnexus,splenomegaly,pca8_logreg,PCA-logistic,107.181640625
+ctnexus,splenomegaly,pca16_logreg,PCA-logistic,177.431640625
+ctnexus,splenomegaly,pca32_logreg,PCA-logistic,317.931640625
+ctnexus,splenomegaly,pca64_logreg,PCA-logistic,598.931640625
+ctnexus,splenomegaly,pca128_logreg,PCA-logistic,1160.931640625
+ctnexus,splenomegaly,pca256_logreg,PCA-logistic,2284.931640625
+ctnexus,splenomegaly,extratrees_balanced,ExtraTrees,8601.9306640625
+ctnexus,splenomegaly,rf_balanced,Random forest,2291.9306640625
+ctnexus,splenomegaly,histgb,HistGradientBoosting,2697.240234375
+ctnexus,splenomegaly,xgb_d2_lr0.03_n350,XGBoost,309.685546875
+ctnexus,splenomegaly,xgb_d3_lr0.025_n450,XGBoost,478.4794921875
+ctnexus,splenomegaly,xgb_d2_lr0.05_n250,XGBoost,221.4931640625
+ctnexus,splenomegaly,xgb_d4_lr0.02_n500,XGBoost,596.4560546875
+ctnexus,ascites,logreg_C0.05,Balanced logistic,36.291015625
+ctnexus,ascites,logreg_C0.1,Balanced logistic,36.291015625
+ctnexus,ascites,logreg_C0.25,Balanced logistic,36.291015625
+ctnexus,ascites,logreg_C0.5,Balanced logistic,36.291015625
+ctnexus,ascites,logreg_C1.0,Balanced logistic,36.291015625
+ctnexus,ascites,logreg_C2.0,Balanced logistic,36.291015625
+ctnexus,ascites,logreg_l1_C0.05,Sparse logistic,36.291015625
+ctnexus,ascites,logreg_l1_C0.1,Sparse logistic,36.291015625
+ctnexus,ascites,logreg_l1_C0.25,Sparse logistic,36.291015625
+ctnexus,ascites,logreg_l1_C0.5,Sparse logistic,36.291015625
+ctnexus,ascites,pca8_logreg,PCA-logistic,107.181640625
+ctnexus,ascites,pca16_logreg,PCA-logistic,177.431640625
+ctnexus,ascites,pca32_logreg,PCA-logistic,317.931640625
+ctnexus,ascites,pca64_logreg,PCA-logistic,598.931640625
+ctnexus,ascites,pca128_logreg,PCA-logistic,1160.931640625
+ctnexus,ascites,pca256_logreg,PCA-logistic,2284.931640625
+ctnexus,ascites,extratrees_balanced,ExtraTrees,11016.7431640625
+ctnexus,ascites,rf_balanced,Random forest,3146.0869140625
+ctnexus,ascites,histgb,HistGradientBoosting,2773.833984375
+ctnexus,ascites,xgb_d2_lr0.03_n350,XGBoost,310.416015625
+ctnexus,ascites,xgb_d3_lr0.025_n450,XGBoost,498.3779296875
+ctnexus,ascites,xgb_d2_lr0.05_n250,XGBoost,222.2900390625
+ctnexus,ascites,xgb_d4_lr0.02_n500,XGBoost,664.390625

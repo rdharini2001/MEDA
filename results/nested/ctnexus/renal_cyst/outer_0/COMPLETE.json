@@ -1,0 +1,9 @@
+{
+  "seed": 42,
+  "inner": 3,
+  "selected": "logreg_l1_C0.1",
+  "threshold": 0.5135130039634106,
+  "candidate_count": 23,
+  "data_sha256": "271752ae4758a2829805c42938321293b0324435a88c4f429059fef006c17018",
+  "selection_uses_evaluation_labels": false
+}

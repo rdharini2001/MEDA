@@ -1,0 +1,9 @@
+{
+  "seed": 42,
+  "inner": 3,
+  "selected": "xgb_d3_lr0.025_n450",
+  "threshold": 0.03485925957560539,
+  "candidate_count": 23,
+  "data_sha256": "d60fa60e9717a764f29851124d96f28d7fe6b14b1774dd17762d257750403da4",
+  "selection_uses_evaluation_labels": false
+}

@@ -1,0 +1,9 @@
+{
+  "seed": 42,
+  "inner": 3,
+  "selected": "extratrees_balanced",
+  "threshold": 0.41000000000000003,
+  "candidate_count": 22,
+  "data_sha256": "097c2c0124039fc3f8c8e6e09bdfd08ba5adf7d0bdf7a7ea0ac59bfd4ddb2240",
+  "selection_uses_evaluation_labels": false
+}

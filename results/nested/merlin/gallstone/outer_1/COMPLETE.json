@@ -1,0 +1,9 @@
+{
+  "seed": 42,
+  "inner": 3,
+  "selected": "pca8_logreg",
+  "threshold": 0.47000000000000003,
+  "candidate_count": 23,
+  "data_sha256": "5373755113335d1752b3ad23eb34a4dfc017eb382725f0c5f65c910dcf2bbe28",
+  "selection_uses_evaluation_labels": false
+}

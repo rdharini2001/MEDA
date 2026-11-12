@@ -1,0 +1,9 @@
+{
+  "seed": 42,
+  "inner": 3,
+  "selected": "rf_balanced",
+  "threshold": 0.21,
+  "candidate_count": 23,
+  "data_sha256": "28b60bbcc11d25ea5cca64e2ace0cf209b703924b4dfa8be1d2c3632665e1a4b",
+  "selection_uses_evaluation_labels": false
+}

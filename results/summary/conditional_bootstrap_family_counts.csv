@@ -1,0 +1,1036 @@
+backbone,target,outer_fold,family,count
+ctnexus,adrenal_hyperplasia,0,Balanced logistic,9
+ctnexus,adrenal_hyperplasia,0,ExtraTrees,44
+ctnexus,adrenal_hyperplasia,0,HistGradientBoosting,8
+ctnexus,adrenal_hyperplasia,0,PCA-logistic,46
+ctnexus,adrenal_hyperplasia,0,Random forest,18
+ctnexus,adrenal_hyperplasia,0,Sparse logistic,51
+ctnexus,adrenal_hyperplasia,0,XGBoost,24
+ctnexus,adrenal_hyperplasia,1,Balanced logistic,7
+ctnexus,adrenal_hyperplasia,1,ExtraTrees,18
+ctnexus,adrenal_hyperplasia,1,PCA-logistic,70
+ctnexus,adrenal_hyperplasia,1,Random forest,98
+ctnexus,adrenal_hyperplasia,1,Sparse logistic,1
+ctnexus,adrenal_hyperplasia,1,XGBoost,6
+ctnexus,adrenal_hyperplasia,2,ExtraTrees,10
+ctnexus,adrenal_hyperplasia,2,PCA-logistic,171
+ctnexus,adrenal_hyperplasia,2,Random forest,11
+ctnexus,adrenal_hyperplasia,2,Sparse logistic,6
+ctnexus,adrenal_hyperplasia,2,XGBoost,2
+ctnexus,adrenal_hyperplasia,3,Balanced logistic,41
+ctnexus,adrenal_hyperplasia,3,ExtraTrees,9
+ctnexus,adrenal_hyperplasia,3,HistGradientBoosting,2
+ctnexus,adrenal_hyperplasia,3,PCA-logistic,125
+ctnexus,adrenal_hyperplasia,3,Random forest,1
+ctnexus,adrenal_hyperplasia,3,Sparse logistic,3
+ctnexus,adrenal_hyperplasia,3,XGBoost,19
+ctnexus,adrenal_hyperplasia,4,Balanced logistic,1
+ctnexus,adrenal_hyperplasia,4,ExtraTrees,85
+ctnexus,adrenal_hyperplasia,4,HistGradientBoosting,2
+ctnexus,adrenal_hyperplasia,4,PCA-logistic,82
+ctnexus,adrenal_hyperplasia,4,Random forest,7
+ctnexus,adrenal_hyperplasia,4,Sparse logistic,5
+ctnexus,adrenal_hyperplasia,4,XGBoost,18
+ctnexus,ascites,0,Balanced logistic,52
+ctnexus,ascites,0,ExtraTrees,1
+ctnexus,ascites,0,HistGradientBoosting,25
+ctnexus,ascites,0,PCA-logistic,91
+ctnexus,ascites,0,Random forest,3
+ctnexus,ascites,0,Sparse logistic,18
+ctnexus,ascites,0,XGBoost,10
+ctnexus,ascites,1,Balanced logistic,24
+ctnexus,ascites,1,PCA-logistic,23
+ctnexus,ascites,1,Sparse logistic,153
+ctnexus,ascites,2,Balanced logistic,39
+ctnexus,ascites,2,ExtraTrees,73
+ctnexus,ascites,2,HistGradientBoosting,1
+ctnexus,ascites,2,PCA-logistic,54
+ctnexus,ascites,2,Random forest,17
+ctnexus,ascites,2,Sparse logistic,4
+ctnexus,ascites,2,XGBoost,12
+ctnexus,ascites,3,Balanced logistic,44
+ctnexus,ascites,3,HistGradientBoosting,1
+ctnexus,ascites,3,PCA-logistic,5
+ctnexus,ascites,3,Random forest,62
+ctnexus,ascites,3,Sparse logistic,84
+ctnexus,ascites,3,XGBoost,4
+ctnexus,ascites,4,Balanced logistic,76
+ctnexus,ascites,4,PCA-logistic,34
+ctnexus,ascites,4,Random forest,70
+ctnexus,ascites,4,Sparse logistic,18
+ctnexus,ascites,4,XGBoost,2
+ctnexus,atherosclerosis,0,Balanced logistic,15
+ctnexus,atherosclerosis,0,PCA-logistic,41
+ctnexus,atherosclerosis,0,Random forest,10
+ctnexus,atherosclerosis,0,Sparse logistic,13
+ctnexus,atherosclerosis,0,XGBoost,121
+ctnexus,atherosclerosis,1,Balanced logistic,42
+ctnexus,atherosclerosis,1,PCA-logistic,38
+ctnexus,atherosclerosis,1,Sparse logistic,60
+ctnexus,atherosclerosis,1,XGBoost,60
+ctnexus,atherosclerosis,2,ExtraTrees,2
+ctnexus,atherosclerosis,2,HistGradientBoosting,29
+ctnexus,atherosclerosis,2,PCA-logistic,12
+ctnexus,atherosclerosis,2,Random forest,15
+ctnexus,atherosclerosis,2,Sparse logistic,105
+ctnexus,atherosclerosis,2,XGBoost,37
+ctnexus,atherosclerosis,3,Balanced logistic,1
+ctnexus,atherosclerosis,3,ExtraTrees,15
+ctnexus,atherosclerosis,3,HistGradientBoosting,5
+ctnexus,atherosclerosis,3,PCA-logistic,52
+ctnexus,atherosclerosis,3,Random forest,1
+ctnexus,atherosclerosis,3,Sparse logistic,30
+ctnexus,atherosclerosis,3,XGBoost,96
+ctnexus,atherosclerosis,4,Balanced logistic,1
+ctnexus,atherosclerosis,4,ExtraTrees,13
+ctnexus,atherosclerosis,4,HistGradientBoosting,2
+ctnexus,atherosclerosis,4,PCA-logistic,22
+ctnexus,atherosclerosis,4,Random forest,1
+ctnexus,atherosclerosis,4,Sparse logistic,14
+ctnexus,atherosclerosis,4,XGBoost,147
+ctnexus,cholecystitis,0,Balanced logistic,1
+ctnexus,cholecystitis,0,ExtraTrees,28
+ctnexus,cholecystitis,0,HistGradientBoosting,3
+ctnexus,cholecystitis,0,PCA-logistic,131
+ctnexus,cholecystitis,0,XGBoost,37
+ctnexus,cholecystitis,1,ExtraTrees,6
+ctnexus,cholecystitis,1,PCA-logistic,152
+ctnexus,cholecystitis,1,Random forest,21
+ctnexus,cholecystitis,1,Sparse logistic,17
+ctnexus,cholecystitis,1,XGBoost,4
+ctnexus,cholecystitis,2,Balanced logistic,1
+ctnexus,cholecystitis,2,ExtraTrees,6
+ctnexus,cholecystitis,2,HistGradientBoosting,5
+ctnexus,cholecystitis,2,PCA-logistic,109
+ctnexus,cholecystitis,2,Random forest,66
+ctnexus,cholecystitis,2,Sparse logistic,3
+ctnexus,cholecystitis,2,XGBoost,10
+ctnexus,cholecystitis,3,Balanced logistic,4
+ctnexus,cholecystitis,3,ExtraTrees,25
+ctnexus,cholecystitis,3,HistGradientBoosting,9
+ctnexus,cholecystitis,3,PCA-logistic,151
+ctnexus,cholecystitis,3,Random forest,1
+ctnexus,cholecystitis,3,Sparse logistic,2
+ctnexus,cholecystitis,3,XGBoost,8
+ctnexus,cholecystitis,4,ExtraTrees,9
+ctnexus,cholecystitis,4,HistGradientBoosting,3
+ctnexus,cholecystitis,4,PCA-logistic,131
+ctnexus,cholecystitis,4,Random forest,1
+ctnexus,cholecystitis,4,Sparse logistic,9
+ctnexus,cholecystitis,4,XGBoost,47
+ctnexus,colorectal_cancer,0,ExtraTrees,14
+ctnexus,colorectal_cancer,0,HistGradientBoosting,10
+ctnexus,colorectal_cancer,0,PCA-logistic,97
+ctnexus,colorectal_cancer,0,Random forest,31
+ctnexus,colorectal_cancer,0,Sparse logistic,47
+ctnexus,colorectal_cancer,0,XGBoost,1
+ctnexus,colorectal_cancer,1,ExtraTrees,26
+ctnexus,colorectal_cancer,1,HistGradientBoosting,2
+ctnexus,colorectal_cancer,1,PCA-logistic,94
+ctnexus,colorectal_cancer,1,Random forest,30
+ctnexus,colorectal_cancer,1,Sparse logistic,12
+ctnexus,colorectal_cancer,1,XGBoost,36
+ctnexus,colorectal_cancer,2,ExtraTrees,43
+ctnexus,colorectal_cancer,2,PCA-logistic,88
+ctnexus,colorectal_cancer,2,Random forest,5
+ctnexus,colorectal_cancer,2,Sparse logistic,36
+ctnexus,colorectal_cancer,2,XGBoost,28
+ctnexus,colorectal_cancer,3,Balanced logistic,2
+ctnexus,colorectal_cancer,3,ExtraTrees,9
+ctnexus,colorectal_cancer,3,HistGradientBoosting,5
+ctnexus,colorectal_cancer,3,PCA-logistic,132
+ctnexus,colorectal_cancer,3,Random forest,1
+ctnexus,colorectal_cancer,3,Sparse logistic,22
+ctnexus,colorectal_cancer,3,XGBoost,29
+ctnexus,colorectal_cancer,4,Balanced logistic,56
+ctnexus,colorectal_cancer,4,ExtraTrees,7
+ctnexus,colorectal_cancer,4,PCA-logistic,30
+ctnexus,colorectal_cancer,4,Random forest,40
+ctnexus,colorectal_cancer,4,Sparse logistic,48
+ctnexus,colorectal_cancer,4,XGBoost,19
+ctnexus,covid,0,Balanced logistic,5
+ctnexus,covid,0,ExtraTrees,7
+ctnexus,covid,0,HistGradientBoosting,24
+ctnexus,covid,0,PCA-logistic,79
+ctnexus,covid,0,Random forest,35
+ctnexus,covid,0,Sparse logistic,8
+ctnexus,covid,0,XGBoost,42
+ctnexus,covid,1,Balanced logistic,24
+ctnexus,covid,1,ExtraTrees,22
+ctnexus,covid,1,PCA-logistic,73
+ctnexus,covid,1,Random forest,3
+ctnexus,covid,1,Sparse logistic,27
+ctnexus,covid,1,XGBoost,51
+ctnexus,covid,2,Balanced logistic,2
+ctnexus,covid,2,ExtraTrees,17
+ctnexus,covid,2,HistGradientBoosting,5
+ctnexus,covid,2,PCA-logistic,77
+ctnexus,covid,2,Random forest,6
+ctnexus,covid,2,Sparse logistic,35
+ctnexus,covid,2,XGBoost,58
+ctnexus,covid,3,Balanced logistic,6
+ctnexus,covid,3,ExtraTrees,60
+ctnexus,covid,3,PCA-logistic,14
+ctnexus,covid,3,Random forest,6
+ctnexus,covid,3,Sparse logistic,95
+ctnexus,covid,3,XGBoost,19
+ctnexus,covid,4,Balanced logistic,60
+ctnexus,covid,4,ExtraTrees,29
+ctnexus,covid,4,HistGradientBoosting,1
+ctnexus,covid,4,PCA-logistic,13
+ctnexus,covid,4,Random forest,15
+ctnexus,covid,4,Sparse logistic,31
+ctnexus,covid,4,XGBoost,51
+ctnexus,fatty_liver,0,Balanced logistic,118
+ctnexus,fatty_liver,0,HistGradientBoosting,9
+ctnexus,fatty_liver,0,PCA-logistic,5
+ctnexus,fatty_liver,0,Sparse logistic,51
+ctnexus,fatty_liver,0,XGBoost,17
+ctnexus,fatty_liver,1,Balanced logistic,65
+ctnexus,fatty_liver,1,ExtraTrees,8
+ctnexus,fatty_liver,1,PCA-logistic,75
+ctnexus,fatty_liver,1,Random forest,2
+ctnexus,fatty_liver,1,Sparse logistic,50
+ctnexus,fatty_liver,2,Balanced logistic,66
+ctnexus,fatty_liver,2,PCA-logistic,10
+ctnexus,fatty_liver,2,Random forest,8
+ctnexus,fatty_liver,2,Sparse logistic,114
+ctnexus,fatty_liver,2,XGBoost,2
+ctnexus,fatty_liver,3,Balanced logistic,57
+ctnexus,fatty_liver,3,ExtraTrees,6
+ctnexus,fatty_liver,3,PCA-logistic,6
+ctnexus,fatty_liver,3,Random forest,3
+ctnexus,fatty_liver,3,Sparse logistic,84
+ctnexus,fatty_liver,3,XGBoost,44
+ctnexus,fatty_liver,4,Balanced logistic,152
+ctnexus,fatty_liver,4,HistGradientBoosting,4
+ctnexus,fatty_liver,4,PCA-logistic,22
+ctnexus,fatty_liver,4,Random forest,8
+ctnexus,fatty_liver,4,Sparse logistic,6
+ctnexus,fatty_liver,4,XGBoost,8
+ctnexus,gallstone,0,Balanced logistic,85
+ctnexus,gallstone,0,ExtraTrees,12
+ctnexus,gallstone,0,HistGradientBoosting,8
+ctnexus,gallstone,0,PCA-logistic,66
+ctnexus,gallstone,0,Random forest,6
+ctnexus,gallstone,0,Sparse logistic,16
+ctnexus,gallstone,0,XGBoost,7
+ctnexus,gallstone,1,Balanced logistic,20
+ctnexus,gallstone,1,ExtraTrees,14
+ctnexus,gallstone,1,HistGradientBoosting,6
+ctnexus,gallstone,1,PCA-logistic,6
+ctnexus,gallstone,1,Random forest,7
+ctnexus,gallstone,1,Sparse logistic,2
+ctnexus,gallstone,1,XGBoost,145
+ctnexus,gallstone,2,Balanced logistic,47
+ctnexus,gallstone,2,ExtraTrees,7
+ctnexus,gallstone,2,HistGradientBoosting,6
+ctnexus,gallstone,2,PCA-logistic,97
+ctnexus,gallstone,2,Random forest,6
+ctnexus,gallstone,2,Sparse logistic,36
+ctnexus,gallstone,2,XGBoost,1
+ctnexus,gallstone,3,Balanced logistic,1
+ctnexus,gallstone,3,PCA-logistic,127
+ctnexus,gallstone,3,Random forest,1
+ctnexus,gallstone,3,Sparse logistic,2
+ctnexus,gallstone,3,XGBoost,69
+ctnexus,gallstone,4,ExtraTrees,3
+ctnexus,gallstone,4,HistGradientBoosting,1
+ctnexus,gallstone,4,PCA-logistic,46
+ctnexus,gallstone,4,Random forest,21
+ctnexus,gallstone,4,Sparse logistic,119
+ctnexus,gallstone,4,XGBoost,10
+ctnexus,hydronephrosis,0,Balanced logistic,117
+ctnexus,hydronephrosis,0,ExtraTrees,14
+ctnexus,hydronephrosis,0,PCA-logistic,56
+ctnexus,hydronephrosis,0,Random forest,5
+ctnexus,hydronephrosis,0,Sparse logistic,6
+ctnexus,hydronephrosis,0,XGBoost,2
+ctnexus,hydronephrosis,1,Balanced logistic,56
+ctnexus,hydronephrosis,1,ExtraTrees,37
+ctnexus,hydronephrosis,1,PCA-logistic,44
+ctnexus,hydronephrosis,1,Random forest,44
+ctnexus,hydronephrosis,1,XGBoost,19
+ctnexus,hydronephrosis,2,Balanced logistic,27
+ctnexus,hydronephrosis,2,ExtraTrees,17
+ctnexus,hydronephrosis,2,PCA-logistic,28
+ctnexus,hydronephrosis,2,Random forest,13
+ctnexus,hydronephrosis,2,Sparse logistic,5
+ctnexus,hydronephrosis,2,XGBoost,110
+ctnexus,hydronephrosis,3,Balanced logistic,41
+ctnexus,hydronephrosis,3,ExtraTrees,1
+ctnexus,hydronephrosis,3,HistGradientBoosting,2
+ctnexus,hydronephrosis,3,PCA-logistic,116
+ctnexus,hydronephrosis,3,Random forest,1
+ctnexus,hydronephrosis,3,Sparse logistic,6
+ctnexus,hydronephrosis,3,XGBoost,33
+ctnexus,hydronephrosis,4,Balanced logistic,124
+ctnexus,hydronephrosis,4,ExtraTrees,3
+ctnexus,hydronephrosis,4,HistGradientBoosting,1
+ctnexus,hydronephrosis,4,PCA-logistic,53
+ctnexus,hydronephrosis,4,Random forest,1
+ctnexus,hydronephrosis,4,Sparse logistic,7
+ctnexus,hydronephrosis,4,XGBoost,11
+ctnexus,kidney_stone,0,Balanced logistic,38
+ctnexus,kidney_stone,0,ExtraTrees,28
+ctnexus,kidney_stone,0,PCA-logistic,106
+ctnexus,kidney_stone,0,Random forest,6
+ctnexus,kidney_stone,0,Sparse logistic,13
+ctnexus,kidney_stone,0,XGBoost,9
+ctnexus,kidney_stone,1,Balanced logistic,3
+ctnexus,kidney_stone,1,ExtraTrees,11
+ctnexus,kidney_stone,1,HistGradientBoosting,6
+ctnexus,kidney_stone,1,PCA-logistic,107
+ctnexus,kidney_stone,1,Random forest,4
+ctnexus,kidney_stone,1,Sparse logistic,9
+ctnexus,kidney_stone,1,XGBoost,60
+ctnexus,kidney_stone,2,Balanced logistic,6
+ctnexus,kidney_stone,2,ExtraTrees,16
+ctnexus,kidney_stone,2,HistGradientBoosting,14
+ctnexus,kidney_stone,2,PCA-logistic,22
+ctnexus,kidney_stone,2,Random forest,11
+ctnexus,kidney_stone,2,Sparse logistic,114
+ctnexus,kidney_stone,2,XGBoost,17
+ctnexus,kidney_stone,3,Balanced logistic,3
+ctnexus,kidney_stone,3,ExtraTrees,56
+ctnexus,kidney_stone,3,HistGradientBoosting,18
+ctnexus,kidney_stone,3,PCA-logistic,99
+ctnexus,kidney_stone,3,Random forest,7
+ctnexus,kidney_stone,3,Sparse logistic,4
+ctnexus,kidney_stone,3,XGBoost,13
+ctnexus,kidney_stone,4,ExtraTrees,3
+ctnexus,kidney_stone,4,HistGradientBoosting,3
+ctnexus,kidney_stone,4,PCA-logistic,77
+ctnexus,kidney_stone,4,Random forest,17
+ctnexus,kidney_stone,4,Sparse logistic,25
+ctnexus,kidney_stone,4,XGBoost,75
+ctnexus,liver_calcifications,0,Balanced logistic,21
+ctnexus,liver_calcifications,0,ExtraTrees,5
+ctnexus,liver_calcifications,0,PCA-logistic,47
+ctnexus,liver_calcifications,0,Sparse logistic,126
+ctnexus,liver_calcifications,0,XGBoost,1
+ctnexus,liver_calcifications,1,Balanced logistic,4
+ctnexus,liver_calcifications,1,ExtraTrees,56
+ctnexus,liver_calcifications,1,HistGradientBoosting,31
+ctnexus,liver_calcifications,1,PCA-logistic,72
+ctnexus,liver_calcifications,1,Random forest,2
+ctnexus,liver_calcifications,1,Sparse logistic,2
+ctnexus,liver_calcifications,1,XGBoost,33
+ctnexus,liver_calcifications,2,Balanced logistic,17
+ctnexus,liver_calcifications,2,HistGradientBoosting,11
+ctnexus,liver_calcifications,2,PCA-logistic,147
+ctnexus,liver_calcifications,2,Random forest,1
+ctnexus,liver_calcifications,2,Sparse logistic,24
+ctnexus,liver_calcifications,3,Balanced logistic,2
+ctnexus,liver_calcifications,3,ExtraTrees,5
+ctnexus,liver_calcifications,3,HistGradientBoosting,1
+ctnexus,liver_calcifications,3,PCA-logistic,107
+ctnexus,liver_calcifications,3,Random forest,20
+ctnexus,liver_calcifications,3,Sparse logistic,6
+ctnexus,liver_calcifications,3,XGBoost,59
+ctnexus,liver_calcifications,4,Balanced logistic,21
+ctnexus,liver_calcifications,4,HistGradientBoosting,7
+ctnexus,liver_calcifications,4,PCA-logistic,107
+ctnexus,liver_calcifications,4,Random forest,1
+ctnexus,liver_calcifications,4,Sparse logistic,51
+ctnexus,liver_calcifications,4,XGBoost,13
+ctnexus,liver_cyst,0,Balanced logistic,1
+ctnexus,liver_cyst,0,ExtraTrees,6
+ctnexus,liver_cyst,0,HistGradientBoosting,1
+ctnexus,liver_cyst,0,PCA-logistic,4
+ctnexus,liver_cyst,0,Random forest,113
+ctnexus,liver_cyst,0,Sparse logistic,14
+ctnexus,liver_cyst,0,XGBoost,61
+ctnexus,liver_cyst,1,ExtraTrees,4
+ctnexus,liver_cyst,1,HistGradientBoosting,2
+ctnexus,liver_cyst,1,Random forest,134
+ctnexus,liver_cyst,1,Sparse logistic,7
+ctnexus,liver_cyst,1,XGBoost,53
+ctnexus,liver_cyst,2,Balanced logistic,1
+ctnexus,liver_cyst,2,ExtraTrees,11
+ctnexus,liver_cyst,2,HistGradientBoosting,4
+ctnexus,liver_cyst,2,PCA-logistic,87
+ctnexus,liver_cyst,2,Random forest,51
+ctnexus,liver_cyst,2,Sparse logistic,24
+ctnexus,liver_cyst,2,XGBoost,22
+ctnexus,liver_cyst,3,ExtraTrees,6
+ctnexus,liver_cyst,3,PCA-logistic,27
+ctnexus,liver_cyst,3,Random forest,29
+ctnexus,liver_cyst,3,Sparse logistic,34
+ctnexus,liver_cyst,3,XGBoost,104
+ctnexus,liver_cyst,4,Balanced logistic,1
+ctnexus,liver_cyst,4,ExtraTrees,82
+ctnexus,liver_cyst,4,PCA-logistic,20
+ctnexus,liver_cyst,4,Random forest,62
+ctnexus,liver_cyst,4,Sparse logistic,13
+ctnexus,liver_cyst,4,XGBoost,22
+ctnexus,liver_lesion,0,Balanced logistic,3
+ctnexus,liver_lesion,0,ExtraTrees,1
+ctnexus,liver_lesion,0,HistGradientBoosting,7
+ctnexus,liver_lesion,0,PCA-logistic,71
+ctnexus,liver_lesion,0,Random forest,8
+ctnexus,liver_lesion,0,Sparse logistic,8
+ctnexus,liver_lesion,0,XGBoost,102
+ctnexus,liver_lesion,1,ExtraTrees,4
+ctnexus,liver_lesion,1,HistGradientBoosting,7
+ctnexus,liver_lesion,1,PCA-logistic,19
+ctnexus,liver_lesion,1,Random forest,5
+ctnexus,liver_lesion,1,Sparse logistic,1
+ctnexus,liver_lesion,1,XGBoost,164
+ctnexus,liver_lesion,2,Balanced logistic,5
+ctnexus,liver_lesion,2,ExtraTrees,18
+ctnexus,liver_lesion,2,HistGradientBoosting,1
+ctnexus,liver_lesion,2,PCA-logistic,117
+ctnexus,liver_lesion,2,Sparse logistic,16
+ctnexus,liver_lesion,2,XGBoost,43
+ctnexus,liver_lesion,3,HistGradientBoosting,1
+ctnexus,liver_lesion,3,PCA-logistic,105
+ctnexus,liver_lesion,3,Random forest,1
+ctnexus,liver_lesion,3,Sparse logistic,2
+ctnexus,liver_lesion,3,XGBoost,91
+ctnexus,liver_lesion,4,ExtraTrees,20
+ctnexus,liver_lesion,4,HistGradientBoosting,85
+ctnexus,liver_lesion,4,PCA-logistic,67
+ctnexus,liver_lesion,4,Random forest,13
+ctnexus,liver_lesion,4,XGBoost,15
+ctnexus,lung_nodule_malignancy,0,Balanced logistic,5
+ctnexus,lung_nodule_malignancy,0,ExtraTrees,24
+ctnexus,lung_nodule_malignancy,0,HistGradientBoosting,41
+ctnexus,lung_nodule_malignancy,0,PCA-logistic,24
+ctnexus,lung_nodule_malignancy,0,Random forest,33
+ctnexus,lung_nodule_malignancy,0,Sparse logistic,47
+ctnexus,lung_nodule_malignancy,0,XGBoost,26
+ctnexus,lung_nodule_malignancy,1,Balanced logistic,51
+ctnexus,lung_nodule_malignancy,1,ExtraTrees,41
+ctnexus,lung_nodule_malignancy,1,HistGradientBoosting,2
+ctnexus,lung_nodule_malignancy,1,PCA-logistic,23
+ctnexus,lung_nodule_malignancy,1,Random forest,4
+ctnexus,lung_nodule_malignancy,1,Sparse logistic,58
+ctnexus,lung_nodule_malignancy,1,XGBoost,21
+ctnexus,lung_nodule_malignancy,2,Balanced logistic,31
+ctnexus,lung_nodule_malignancy,2,ExtraTrees,2
+ctnexus,lung_nodule_malignancy,2,HistGradientBoosting,4
+ctnexus,lung_nodule_malignancy,2,PCA-logistic,152
+ctnexus,lung_nodule_malignancy,2,Random forest,4
+ctnexus,lung_nodule_malignancy,2,Sparse logistic,6
+ctnexus,lung_nodule_malignancy,2,XGBoost,1
+ctnexus,lung_nodule_malignancy,3,Balanced logistic,56
+ctnexus,lung_nodule_malignancy,3,ExtraTrees,2
+ctnexus,lung_nodule_malignancy,3,HistGradientBoosting,33
+ctnexus,lung_nodule_malignancy,3,PCA-logistic,84
+ctnexus,lung_nodule_malignancy,3,Random forest,10
+ctnexus,lung_nodule_malignancy,3,Sparse logistic,1
+ctnexus,lung_nodule_malignancy,3,XGBoost,14
+ctnexus,lung_nodule_malignancy,4,Balanced logistic,32
+ctnexus,lung_nodule_malignancy,4,ExtraTrees,23
+ctnexus,lung_nodule_malignancy,4,HistGradientBoosting,65
+ctnexus,lung_nodule_malignancy,4,PCA-logistic,32
+ctnexus,lung_nodule_malignancy,4,Random forest,8
+ctnexus,lung_nodule_malignancy,4,Sparse logistic,29
+ctnexus,lung_nodule_malignancy,4,XGBoost,11
+ctnexus,lymphadenopathy,0,Balanced logistic,64
+ctnexus,lymphadenopathy,0,ExtraTrees,19
+ctnexus,lymphadenopathy,0,HistGradientBoosting,7
+ctnexus,lymphadenopathy,0,PCA-logistic,17
+ctnexus,lymphadenopathy,0,Random forest,24
+ctnexus,lymphadenopathy,0,Sparse logistic,47
+ctnexus,lymphadenopathy,0,XGBoost,22
+ctnexus,lymphadenopathy,1,Balanced logistic,16
+ctnexus,lymphadenopathy,1,ExtraTrees,13
+ctnexus,lymphadenopathy,1,HistGradientBoosting,19
+ctnexus,lymphadenopathy,1,PCA-logistic,128
+ctnexus,lymphadenopathy,1,Sparse logistic,6
+ctnexus,lymphadenopathy,1,XGBoost,18
+ctnexus,lymphadenopathy,2,Balanced logistic,48
+ctnexus,lymphadenopathy,2,ExtraTrees,23
+ctnexus,lymphadenopathy,2,HistGradientBoosting,1
+ctnexus,lymphadenopathy,2,PCA-logistic,54
+ctnexus,lymphadenopathy,2,Random forest,37
+ctnexus,lymphadenopathy,2,Sparse logistic,4
+ctnexus,lymphadenopathy,2,XGBoost,33
+ctnexus,lymphadenopathy,3,Balanced logistic,19
+ctnexus,lymphadenopathy,3,HistGradientBoosting,14
+ctnexus,lymphadenopathy,3,PCA-logistic,44
+ctnexus,lymphadenopathy,3,Sparse logistic,91
+ctnexus,lymphadenopathy,3,XGBoost,32
+ctnexus,lymphadenopathy,4,Balanced logistic,44
+ctnexus,lymphadenopathy,4,ExtraTrees,16
+ctnexus,lymphadenopathy,4,HistGradientBoosting,6
+ctnexus,lymphadenopathy,4,PCA-logistic,11
+ctnexus,lymphadenopathy,4,Random forest,17
+ctnexus,lymphadenopathy,4,Sparse logistic,77
+ctnexus,lymphadenopathy,4,XGBoost,29
+ctnexus,renal_cyst,0,ExtraTrees,10
+ctnexus,renal_cyst,0,HistGradientBoosting,6
+ctnexus,renal_cyst,0,PCA-logistic,61
+ctnexus,renal_cyst,0,Random forest,26
+ctnexus,renal_cyst,0,Sparse logistic,48
+ctnexus,renal_cyst,0,XGBoost,49
+ctnexus,renal_cyst,1,ExtraTrees,20
+ctnexus,renal_cyst,1,HistGradientBoosting,2
+ctnexus,renal_cyst,1,PCA-logistic,160
+ctnexus,renal_cyst,1,Random forest,9
+ctnexus,renal_cyst,1,Sparse logistic,5
+ctnexus,renal_cyst,1,XGBoost,4
+ctnexus,renal_cyst,2,Balanced logistic,2
+ctnexus,renal_cyst,2,ExtraTrees,52
+ctnexus,renal_cyst,2,PCA-logistic,78
+ctnexus,renal_cyst,2,Random forest,31
+ctnexus,renal_cyst,2,Sparse logistic,29
+ctnexus,renal_cyst,2,XGBoost,8
+ctnexus,renal_cyst,3,Balanced logistic,1
+ctnexus,renal_cyst,3,ExtraTrees,1
+ctnexus,renal_cyst,3,HistGradientBoosting,4
+ctnexus,renal_cyst,3,PCA-logistic,123
+ctnexus,renal_cyst,3,Random forest,19
+ctnexus,renal_cyst,3,Sparse logistic,8
+ctnexus,renal_cyst,3,XGBoost,44
+ctnexus,renal_cyst,4,Balanced logistic,32
+ctnexus,renal_cyst,4,ExtraTrees,14
+ctnexus,renal_cyst,4,HistGradientBoosting,15
+ctnexus,renal_cyst,4,PCA-logistic,98
+ctnexus,renal_cyst,4,Random forest,16
+ctnexus,renal_cyst,4,Sparse logistic,11
+ctnexus,renal_cyst,4,XGBoost,14
+ctnexus,splenomegaly,0,ExtraTrees,13
+ctnexus,splenomegaly,0,HistGradientBoosting,10
+ctnexus,splenomegaly,0,PCA-logistic,42
+ctnexus,splenomegaly,0,Random forest,35
+ctnexus,splenomegaly,0,Sparse logistic,87
+ctnexus,splenomegaly,0,XGBoost,13
+ctnexus,splenomegaly,1,ExtraTrees,45
+ctnexus,splenomegaly,1,HistGradientBoosting,12
+ctnexus,splenomegaly,1,PCA-logistic,54
+ctnexus,splenomegaly,1,Random forest,35
+ctnexus,splenomegaly,1,Sparse logistic,1
+ctnexus,splenomegaly,1,XGBoost,53
+ctnexus,splenomegaly,2,Balanced logistic,27
+ctnexus,splenomegaly,2,ExtraTrees,23
+ctnexus,splenomegaly,2,HistGradientBoosting,12
+ctnexus,splenomegaly,2,PCA-logistic,74
+ctnexus,splenomegaly,2,Random forest,26
+ctnexus,splenomegaly,2,Sparse logistic,30
+ctnexus,splenomegaly,2,XGBoost,8
+ctnexus,splenomegaly,3,Balanced logistic,116
+ctnexus,splenomegaly,3,ExtraTrees,8
+ctnexus,splenomegaly,3,HistGradientBoosting,1
+ctnexus,splenomegaly,3,PCA-logistic,28
+ctnexus,splenomegaly,3,Random forest,7
+ctnexus,splenomegaly,3,Sparse logistic,7
+ctnexus,splenomegaly,3,XGBoost,33
+ctnexus,splenomegaly,4,Balanced logistic,6
+ctnexus,splenomegaly,4,ExtraTrees,1
+ctnexus,splenomegaly,4,HistGradientBoosting,16
+ctnexus,splenomegaly,4,PCA-logistic,10
+ctnexus,splenomegaly,4,Random forest,6
+ctnexus,splenomegaly,4,Sparse logistic,10
+ctnexus,splenomegaly,4,XGBoost,151
+merlin,adrenal_hyperplasia,0,Balanced logistic,1
+merlin,adrenal_hyperplasia,0,ExtraTrees,2
+merlin,adrenal_hyperplasia,0,HistGradientBoosting,5
+merlin,adrenal_hyperplasia,0,PCA-logistic,39
+merlin,adrenal_hyperplasia,0,Random forest,10
+merlin,adrenal_hyperplasia,0,Sparse logistic,142
+merlin,adrenal_hyperplasia,0,XGBoost,1
+merlin,adrenal_hyperplasia,1,Balanced logistic,2
+merlin,adrenal_hyperplasia,1,ExtraTrees,2
+merlin,adrenal_hyperplasia,1,PCA-logistic,61
+merlin,adrenal_hyperplasia,1,Random forest,52
+merlin,adrenal_hyperplasia,1,Sparse logistic,64
+merlin,adrenal_hyperplasia,1,XGBoost,19
+merlin,adrenal_hyperplasia,2,PCA-logistic,55
+merlin,adrenal_hyperplasia,2,Sparse logistic,142
+merlin,adrenal_hyperplasia,2,XGBoost,3
+merlin,adrenal_hyperplasia,3,Balanced logistic,30
+merlin,adrenal_hyperplasia,3,HistGradientBoosting,5
+merlin,adrenal_hyperplasia,3,PCA-logistic,135
+merlin,adrenal_hyperplasia,3,Random forest,7
+merlin,adrenal_hyperplasia,3,Sparse logistic,10
+merlin,adrenal_hyperplasia,3,XGBoost,13
+merlin,adrenal_hyperplasia,4,Balanced logistic,12
+merlin,adrenal_hyperplasia,4,ExtraTrees,2
+merlin,adrenal_hyperplasia,4,PCA-logistic,12
+merlin,adrenal_hyperplasia,4,Random forest,2
+merlin,adrenal_hyperplasia,4,Sparse logistic,153
+merlin,adrenal_hyperplasia,4,XGBoost,19
+merlin,ascites,0,Balanced logistic,14
+merlin,ascites,0,ExtraTrees,2
+merlin,ascites,0,PCA-logistic,21
+merlin,ascites,0,Random forest,7
+merlin,ascites,0,Sparse logistic,151
+merlin,ascites,0,XGBoost,5
+merlin,ascites,1,ExtraTrees,33
+merlin,ascites,1,HistGradientBoosting,1
+merlin,ascites,1,Random forest,2
+merlin,ascites,1,Sparse logistic,74
+merlin,ascites,1,XGBoost,90
+merlin,ascites,2,Balanced logistic,3
+merlin,ascites,2,ExtraTrees,2
+merlin,ascites,2,HistGradientBoosting,13
+merlin,ascites,2,PCA-logistic,55
+merlin,ascites,2,Random forest,21
+merlin,ascites,2,Sparse logistic,58
+merlin,ascites,2,XGBoost,48
+merlin,ascites,3,Balanced logistic,6
+merlin,ascites,3,ExtraTrees,16
+merlin,ascites,3,HistGradientBoosting,47
+merlin,ascites,3,PCA-logistic,71
+merlin,ascites,3,Sparse logistic,14
+merlin,ascites,3,XGBoost,46
+merlin,ascites,4,Balanced logistic,7
+merlin,ascites,4,ExtraTrees,10
+merlin,ascites,4,HistGradientBoosting,3
+merlin,ascites,4,PCA-logistic,28
+merlin,ascites,4,Random forest,27
+merlin,ascites,4,Sparse logistic,114
+merlin,ascites,4,XGBoost,11
+merlin,atherosclerosis,0,PCA-logistic,193
+merlin,atherosclerosis,0,Sparse logistic,2
+merlin,atherosclerosis,0,XGBoost,5
+merlin,atherosclerosis,1,Balanced logistic,1
+merlin,atherosclerosis,1,ExtraTrees,1
+merlin,atherosclerosis,1,HistGradientBoosting,38
+merlin,atherosclerosis,1,PCA-logistic,77
+merlin,atherosclerosis,1,Random forest,15
+merlin,atherosclerosis,1,Sparse logistic,43
+merlin,atherosclerosis,1,XGBoost,25
+merlin,atherosclerosis,2,Balanced logistic,2
+merlin,atherosclerosis,2,HistGradientBoosting,6
+merlin,atherosclerosis,2,PCA-logistic,167
+merlin,atherosclerosis,2,Random forest,2
+merlin,atherosclerosis,2,Sparse logistic,3
+merlin,atherosclerosis,2,XGBoost,20
+merlin,atherosclerosis,3,Balanced logistic,4
+merlin,atherosclerosis,3,ExtraTrees,7
+merlin,atherosclerosis,3,HistGradientBoosting,4
+merlin,atherosclerosis,3,PCA-logistic,161
+merlin,atherosclerosis,3,Random forest,10
+merlin,atherosclerosis,3,Sparse logistic,4
+merlin,atherosclerosis,3,XGBoost,10
+merlin,atherosclerosis,4,PCA-logistic,173
+merlin,atherosclerosis,4,XGBoost,27
+merlin,cholecystitis,0,Balanced logistic,37
+merlin,cholecystitis,0,ExtraTrees,9
+merlin,cholecystitis,0,HistGradientBoosting,9
+merlin,cholecystitis,0,PCA-logistic,94
+merlin,cholecystitis,0,Random forest,6
+merlin,cholecystitis,0,Sparse logistic,30
+merlin,cholecystitis,0,XGBoost,15
+merlin,cholecystitis,1,Balanced logistic,77
+merlin,cholecystitis,1,ExtraTrees,13
+merlin,cholecystitis,1,HistGradientBoosting,16
+merlin,cholecystitis,1,PCA-logistic,30
+merlin,cholecystitis,1,Random forest,16
+merlin,cholecystitis,1,Sparse logistic,23
+merlin,cholecystitis,1,XGBoost,25
+merlin,cholecystitis,2,Balanced logistic,8
+merlin,cholecystitis,2,ExtraTrees,8
+merlin,cholecystitis,2,PCA-logistic,94
+merlin,cholecystitis,2,Random forest,15
+merlin,cholecystitis,2,Sparse logistic,44
+merlin,cholecystitis,2,XGBoost,31
+merlin,cholecystitis,3,Balanced logistic,1
+merlin,cholecystitis,3,ExtraTrees,11
+merlin,cholecystitis,3,HistGradientBoosting,1
+merlin,cholecystitis,3,PCA-logistic,84
+merlin,cholecystitis,3,Random forest,26
+merlin,cholecystitis,3,Sparse logistic,21
+merlin,cholecystitis,3,XGBoost,56
+merlin,cholecystitis,4,Balanced logistic,4
+merlin,cholecystitis,4,PCA-logistic,130
+merlin,cholecystitis,4,Random forest,1
+merlin,cholecystitis,4,Sparse logistic,53
+merlin,cholecystitis,4,XGBoost,12
+merlin,colorectal_cancer,0,Balanced logistic,11
+merlin,colorectal_cancer,0,ExtraTrees,80
+merlin,colorectal_cancer,0,HistGradientBoosting,1
+merlin,colorectal_cancer,0,PCA-logistic,12
+merlin,colorectal_cancer,0,Random forest,55
+merlin,colorectal_cancer,0,Sparse logistic,29
+merlin,colorectal_cancer,0,XGBoost,12
+merlin,colorectal_cancer,1,Balanced logistic,1
+merlin,colorectal_cancer,1,ExtraTrees,1
+merlin,colorectal_cancer,1,HistGradientBoosting,3
+merlin,colorectal_cancer,1,PCA-logistic,89
+merlin,colorectal_cancer,1,Random forest,4
+merlin,colorectal_cancer,1,Sparse logistic,71
+merlin,colorectal_cancer,1,XGBoost,31
+merlin,colorectal_cancer,2,ExtraTrees,1
+merlin,colorectal_cancer,2,PCA-logistic,151
+merlin,colorectal_cancer,2,Random forest,6
+merlin,colorectal_cancer,2,Sparse logistic,40
+merlin,colorectal_cancer,2,XGBoost,2
+merlin,colorectal_cancer,3,Balanced logistic,53
+merlin,colorectal_cancer,3,ExtraTrees,11
+merlin,colorectal_cancer,3,PCA-logistic,97
+merlin,colorectal_cancer,3,Random forest,30
+merlin,colorectal_cancer,3,Sparse logistic,9
+merlin,colorectal_cancer,4,Balanced logistic,14
+merlin,colorectal_cancer,4,ExtraTrees,7
+merlin,colorectal_cancer,4,PCA-logistic,75
+merlin,colorectal_cancer,4,Random forest,13
+merlin,colorectal_cancer,4,Sparse logistic,72
+merlin,colorectal_cancer,4,XGBoost,19
+merlin,covid,0,Balanced logistic,6
+merlin,covid,0,ExtraTrees,106
+merlin,covid,0,HistGradientBoosting,1
+merlin,covid,0,PCA-logistic,11
+merlin,covid,0,Random forest,65
+merlin,covid,0,Sparse logistic,7
+merlin,covid,0,XGBoost,4
+merlin,covid,1,Balanced logistic,56
+merlin,covid,1,ExtraTrees,5
+merlin,covid,1,HistGradientBoosting,8
+merlin,covid,1,PCA-logistic,39
+merlin,covid,1,Random forest,2
+merlin,covid,1,Sparse logistic,87
+merlin,covid,1,XGBoost,3
+merlin,covid,2,Balanced logistic,8
+merlin,covid,2,ExtraTrees,18
+merlin,covid,2,PCA-logistic,87
+merlin,covid,2,Random forest,50
+merlin,covid,2,Sparse logistic,34
+merlin,covid,2,XGBoost,3
+merlin,covid,3,Balanced logistic,35
+merlin,covid,3,ExtraTrees,8
+merlin,covid,3,HistGradientBoosting,4
+merlin,covid,3,PCA-logistic,38
+merlin,covid,3,Random forest,18
+merlin,covid,3,Sparse logistic,75
+merlin,covid,3,XGBoost,22
+merlin,covid,4,Balanced logistic,72
+merlin,covid,4,ExtraTrees,3
+merlin,covid,4,PCA-logistic,62
+merlin,covid,4,Random forest,10
+merlin,covid,4,Sparse logistic,50
+merlin,covid,4,XGBoost,3
+merlin,fatty_liver,0,Balanced logistic,31
+merlin,fatty_liver,0,HistGradientBoosting,1
+merlin,fatty_liver,0,PCA-logistic,68
+merlin,fatty_liver,0,Random forest,2
+merlin,fatty_liver,0,Sparse logistic,49
+merlin,fatty_liver,0,XGBoost,49
+merlin,fatty_liver,1,Balanced logistic,56
+merlin,fatty_liver,1,ExtraTrees,36
+merlin,fatty_liver,1,HistGradientBoosting,3
+merlin,fatty_liver,1,PCA-logistic,19
+merlin,fatty_liver,1,Random forest,36
+merlin,fatty_liver,1,Sparse logistic,42
+merlin,fatty_liver,1,XGBoost,8
+merlin,fatty_liver,2,Balanced logistic,3
+merlin,fatty_liver,2,ExtraTrees,24
+merlin,fatty_liver,2,HistGradientBoosting,4
+merlin,fatty_liver,2,PCA-logistic,40
+merlin,fatty_liver,2,Random forest,67
+merlin,fatty_liver,2,Sparse logistic,13
+merlin,fatty_liver,2,XGBoost,49
+merlin,fatty_liver,3,ExtraTrees,13
+merlin,fatty_liver,3,HistGradientBoosting,10
+merlin,fatty_liver,3,PCA-logistic,38
+merlin,fatty_liver,3,Random forest,74
+merlin,fatty_liver,3,Sparse logistic,59
+merlin,fatty_liver,3,XGBoost,6
+merlin,fatty_liver,4,Balanced logistic,45
+merlin,fatty_liver,4,ExtraTrees,1
+merlin,fatty_liver,4,HistGradientBoosting,5
+merlin,fatty_liver,4,PCA-logistic,9
+merlin,fatty_liver,4,Random forest,2
+merlin,fatty_liver,4,Sparse logistic,134
+merlin,fatty_liver,4,XGBoost,4
+merlin,gallstone,0,Balanced logistic,1
+merlin,gallstone,0,ExtraTrees,33
+merlin,gallstone,0,PCA-logistic,128
+merlin,gallstone,0,Random forest,23
+merlin,gallstone,0,Sparse logistic,11
+merlin,gallstone,0,XGBoost,4
+merlin,gallstone,1,ExtraTrees,37
+merlin,gallstone,1,HistGradientBoosting,1
+merlin,gallstone,1,PCA-logistic,89
+merlin,gallstone,1,Random forest,32
+merlin,gallstone,1,Sparse logistic,37
+merlin,gallstone,1,XGBoost,4
+merlin,gallstone,2,Balanced logistic,10
+merlin,gallstone,2,HistGradientBoosting,20
+merlin,gallstone,2,PCA-logistic,119
+merlin,gallstone,2,Random forest,1
+merlin,gallstone,2,Sparse logistic,28
+merlin,gallstone,2,XGBoost,22
+merlin,gallstone,3,Balanced logistic,6
+merlin,gallstone,3,ExtraTrees,9
+merlin,gallstone,3,HistGradientBoosting,8
+merlin,gallstone,3,PCA-logistic,57
+merlin,gallstone,3,Random forest,41
+merlin,gallstone,3,Sparse logistic,25
+merlin,gallstone,3,XGBoost,54
+merlin,gallstone,4,Balanced logistic,73
+merlin,gallstone,4,ExtraTrees,23
+merlin,gallstone,4,HistGradientBoosting,6
+merlin,gallstone,4,PCA-logistic,70
+merlin,gallstone,4,Random forest,21
+merlin,gallstone,4,Sparse logistic,3
+merlin,gallstone,4,XGBoost,4
+merlin,hydronephrosis,0,Balanced logistic,7
+merlin,hydronephrosis,0,ExtraTrees,50
+merlin,hydronephrosis,0,HistGradientBoosting,1
+merlin,hydronephrosis,0,PCA-logistic,2
+merlin,hydronephrosis,0,Random forest,1
+merlin,hydronephrosis,0,Sparse logistic,9
+merlin,hydronephrosis,0,XGBoost,130
+merlin,hydronephrosis,1,Balanced logistic,2
+merlin,hydronephrosis,1,ExtraTrees,7
+merlin,hydronephrosis,1,PCA-logistic,137
+merlin,hydronephrosis,1,Random forest,35
+merlin,hydronephrosis,1,Sparse logistic,8
+merlin,hydronephrosis,1,XGBoost,11
+merlin,hydronephrosis,2,Balanced logistic,47
+merlin,hydronephrosis,2,ExtraTrees,14
+merlin,hydronephrosis,2,HistGradientBoosting,1
+merlin,hydronephrosis,2,PCA-logistic,13
+merlin,hydronephrosis,2,Random forest,56
+merlin,hydronephrosis,2,Sparse logistic,4
+merlin,hydronephrosis,2,XGBoost,65
+merlin,hydronephrosis,3,Balanced logistic,37
+merlin,hydronephrosis,3,ExtraTrees,18
+merlin,hydronephrosis,3,HistGradientBoosting,3
+merlin,hydronephrosis,3,PCA-logistic,39
+merlin,hydronephrosis,3,Random forest,15
+merlin,hydronephrosis,3,Sparse logistic,1
+merlin,hydronephrosis,3,XGBoost,87
+merlin,hydronephrosis,4,Balanced logistic,36
+merlin,hydronephrosis,4,ExtraTrees,23
+merlin,hydronephrosis,4,PCA-logistic,12
+merlin,hydronephrosis,4,Random forest,27
+merlin,hydronephrosis,4,Sparse logistic,95
+merlin,hydronephrosis,4,XGBoost,7
+merlin,kidney_stone,0,Balanced logistic,90
+merlin,kidney_stone,0,PCA-logistic,10
+merlin,kidney_stone,0,Sparse logistic,100
+merlin,kidney_stone,1,Balanced logistic,117
+merlin,kidney_stone,1,PCA-logistic,60
+merlin,kidney_stone,1,Sparse logistic,21
+merlin,kidney_stone,1,XGBoost,2
+merlin,kidney_stone,2,Balanced logistic,86
+merlin,kidney_stone,2,HistGradientBoosting,2
+merlin,kidney_stone,2,PCA-logistic,37
+merlin,kidney_stone,2,Random forest,1
+merlin,kidney_stone,2,Sparse logistic,60
+merlin,kidney_stone,2,XGBoost,14
+merlin,kidney_stone,3,Balanced logistic,12
+merlin,kidney_stone,3,PCA-logistic,69
+merlin,kidney_stone,3,Random forest,4
+merlin,kidney_stone,3,Sparse logistic,113
+merlin,kidney_stone,3,XGBoost,2
+merlin,kidney_stone,4,Balanced logistic,11
+merlin,kidney_stone,4,ExtraTrees,6
+merlin,kidney_stone,4,PCA-logistic,58
+merlin,kidney_stone,4,Random forest,1
+merlin,kidney_stone,4,Sparse logistic,100
+merlin,kidney_stone,4,XGBoost,24
+merlin,liver_calcifications,0,Balanced logistic,1
+merlin,liver_calcifications,0,ExtraTrees,5
+merlin,liver_calcifications,0,PCA-logistic,74
+merlin,liver_calcifications,0,Random forest,13
+merlin,liver_calcifications,0,Sparse logistic,51
+merlin,liver_calcifications,0,XGBoost,56
+merlin,liver_calcifications,1,Balanced logistic,5
+merlin,liver_calcifications,1,ExtraTrees,17
+merlin,liver_calcifications,1,HistGradientBoosting,7
+merlin,liver_calcifications,1,PCA-logistic,44
+merlin,liver_calcifications,1,Random forest,13
+merlin,liver_calcifications,1,Sparse logistic,32
+merlin,liver_calcifications,1,XGBoost,82
+merlin,liver_calcifications,2,Balanced logistic,9
+merlin,liver_calcifications,2,ExtraTrees,64
+merlin,liver_calcifications,2,PCA-logistic,107
+merlin,liver_calcifications,2,Random forest,1
+merlin,liver_calcifications,2,Sparse logistic,6
+merlin,liver_calcifications,2,XGBoost,13
+merlin,liver_calcifications,3,Balanced logistic,2
+merlin,liver_calcifications,3,ExtraTrees,7
+merlin,liver_calcifications,3,HistGradientBoosting,2
+merlin,liver_calcifications,3,PCA-logistic,161
+merlin,liver_calcifications,3,Random forest,5
+merlin,liver_calcifications,3,Sparse logistic,22
+merlin,liver_calcifications,3,XGBoost,1
+merlin,liver_calcifications,4,Balanced logistic,108
+merlin,liver_calcifications,4,PCA-logistic,67
+merlin,liver_calcifications,4,Random forest,4
+merlin,liver_calcifications,4,Sparse logistic,21
+merlin,liver_cyst,0,ExtraTrees,8
+merlin,liver_cyst,0,PCA-logistic,65
+merlin,liver_cyst,0,Random forest,3
+merlin,liver_cyst,0,Sparse logistic,122
+merlin,liver_cyst,0,XGBoost,2
+merlin,liver_cyst,1,Balanced logistic,7
+merlin,liver_cyst,1,ExtraTrees,8
+merlin,liver_cyst,1,HistGradientBoosting,2
+merlin,liver_cyst,1,PCA-logistic,119
+merlin,liver_cyst,1,Random forest,7
+merlin,liver_cyst,1,Sparse logistic,49
+merlin,liver_cyst,1,XGBoost,8
+merlin,liver_cyst,2,Balanced logistic,21
+merlin,liver_cyst,2,ExtraTrees,24
+merlin,liver_cyst,2,HistGradientBoosting,2
+merlin,liver_cyst,2,PCA-logistic,78
+merlin,liver_cyst,2,Random forest,4
+merlin,liver_cyst,2,Sparse logistic,66
+merlin,liver_cyst,2,XGBoost,5
+merlin,liver_cyst,3,Balanced logistic,3
+merlin,liver_cyst,3,ExtraTrees,2
+merlin,liver_cyst,3,HistGradientBoosting,6
+merlin,liver_cyst,3,PCA-logistic,60
+merlin,liver_cyst,3,Random forest,1
+merlin,liver_cyst,3,Sparse logistic,123
+merlin,liver_cyst,3,XGBoost,5
+merlin,liver_cyst,4,ExtraTrees,34
+merlin,liver_cyst,4,HistGradientBoosting,1
+merlin,liver_cyst,4,PCA-logistic,117
+merlin,liver_cyst,4,Random forest,42
+merlin,liver_cyst,4,Sparse logistic,1
+merlin,liver_cyst,4,XGBoost,5
+merlin,liver_lesion,0,Balanced logistic,56
+merlin,liver_lesion,0,PCA-logistic,103
+merlin,liver_lesion,0,Sparse logistic,40
+merlin,liver_lesion,0,XGBoost,1
+merlin,liver_lesion,1,Balanced logistic,97
+merlin,liver_lesion,1,ExtraTrees,3
+merlin,liver_lesion,1,PCA-logistic,62
+merlin,liver_lesion,1,Random forest,2
+merlin,liver_lesion,1,Sparse logistic,23
+merlin,liver_lesion,1,XGBoost,13
+merlin,liver_lesion,2,Balanced logistic,23
+merlin,liver_lesion,2,ExtraTrees,11
+merlin,liver_lesion,2,PCA-logistic,59
+merlin,liver_lesion,2,Random forest,16
+merlin,liver_lesion,2,Sparse logistic,54
+merlin,liver_lesion,2,XGBoost,37
+merlin,liver_lesion,3,Balanced logistic,6
+merlin,liver_lesion,3,HistGradientBoosting,3
+merlin,liver_lesion,3,PCA-logistic,91
+merlin,liver_lesion,3,Sparse logistic,28
+merlin,liver_lesion,3,XGBoost,72
+merlin,liver_lesion,4,Balanced logistic,33
+merlin,liver_lesion,4,ExtraTrees,1
+merlin,liver_lesion,4,HistGradientBoosting,2
+merlin,liver_lesion,4,PCA-logistic,97
+merlin,liver_lesion,4,Random forest,1
+merlin,liver_lesion,4,Sparse logistic,66
+merlin,lung_nodule_malignancy,0,Balanced logistic,12
+merlin,lung_nodule_malignancy,0,ExtraTrees,6
+merlin,lung_nodule_malignancy,0,HistGradientBoosting,3
+merlin,lung_nodule_malignancy,0,PCA-logistic,55
+merlin,lung_nodule_malignancy,0,Random forest,13
+merlin,lung_nodule_malignancy,0,Sparse logistic,37
+merlin,lung_nodule_malignancy,0,XGBoost,74
+merlin,lung_nodule_malignancy,1,Balanced logistic,8
+merlin,lung_nodule_malignancy,1,ExtraTrees,9
+merlin,lung_nodule_malignancy,1,HistGradientBoosting,14
+merlin,lung_nodule_malignancy,1,PCA-logistic,98
+merlin,lung_nodule_malignancy,1,Random forest,8
+merlin,lung_nodule_malignancy,1,Sparse logistic,23
+merlin,lung_nodule_malignancy,1,XGBoost,40
+merlin,lung_nodule_malignancy,2,Balanced logistic,4
+merlin,lung_nodule_malignancy,2,ExtraTrees,2
+merlin,lung_nodule_malignancy,2,PCA-logistic,126
+merlin,lung_nodule_malignancy,2,Sparse logistic,25
+merlin,lung_nodule_malignancy,2,XGBoost,43
+merlin,lung_nodule_malignancy,3,Balanced logistic,142
+merlin,lung_nodule_malignancy,3,ExtraTrees,6
+merlin,lung_nodule_malignancy,3,PCA-logistic,42
+merlin,lung_nodule_malignancy,3,Sparse logistic,10
+merlin,lung_nodule_malignancy,4,Balanced logistic,4
+merlin,lung_nodule_malignancy,4,ExtraTrees,50
+merlin,lung_nodule_malignancy,4,HistGradientBoosting,2
+merlin,lung_nodule_malignancy,4,PCA-logistic,115
+merlin,lung_nodule_malignancy,4,Random forest,26
+merlin,lung_nodule_malignancy,4,Sparse logistic,1
+merlin,lung_nodule_malignancy,4,XGBoost,2
+merlin,lymphadenopathy,0,Balanced logistic,2
+merlin,lymphadenopathy,0,ExtraTrees,6
+merlin,lymphadenopathy,0,HistGradientBoosting,1
+merlin,lymphadenopathy,0,PCA-logistic,164
+merlin,lymphadenopathy,0,Random forest,6
+merlin,lymphadenopathy,0,Sparse logistic,1
+merlin,lymphadenopathy,0,XGBoost,20
+merlin,lymphadenopathy,1,ExtraTrees,1
+merlin,lymphadenopathy,1,HistGradientBoosting,2
+merlin,lymphadenopathy,1,PCA-logistic,149
+merlin,lymphadenopathy,1,Random forest,15
+merlin,lymphadenopathy,1,XGBoost,33
+merlin,lymphadenopathy,2,Balanced logistic,7
+merlin,lymphadenopathy,2,ExtraTrees,3
+merlin,lymphadenopathy,2,HistGradientBoosting,3
+merlin,lymphadenopathy,2,PCA-logistic,50
+merlin,lymphadenopathy,2,Random forest,8
+merlin,lymphadenopathy,2,Sparse logistic,52
+merlin,lymphadenopathy,2,XGBoost,77
+merlin,lymphadenopathy,3,Balanced logistic,4
+merlin,lymphadenopathy,3,ExtraTrees,16
+merlin,lymphadenopathy,3,HistGradientBoosting,2
+merlin,lymphadenopathy,3,PCA-logistic,148
+merlin,lymphadenopathy,3,Random forest,2
+merlin,lymphadenopathy,3,Sparse logistic,16
+merlin,lymphadenopathy,3,XGBoost,12
+merlin,lymphadenopathy,4,ExtraTrees,8
+merlin,lymphadenopathy,4,PCA-logistic,50
+merlin,lymphadenopathy,4,Random forest,1
+merlin,lymphadenopathy,4,Sparse logistic,11
+merlin,lymphadenopathy,4,XGBoost,130
+merlin,renal_cyst,0,ExtraTrees,17
+merlin,renal_cyst,0,HistGradientBoosting,1
+merlin,renal_cyst,0,PCA-logistic,104
+merlin,renal_cyst,0,Random forest,26
+merlin,renal_cyst,0,Sparse logistic,1
+merlin,renal_cyst,0,XGBoost,51
+merlin,renal_cyst,1,Balanced logistic,17
+merlin,renal_cyst,1,ExtraTrees,29
+merlin,renal_cyst,1,PCA-logistic,75
+merlin,renal_cyst,1,Random forest,20
+merlin,renal_cyst,1,Sparse logistic,9
+merlin,renal_cyst,1,XGBoost,50
+merlin,renal_cyst,2,Balanced logistic,4
+merlin,renal_cyst,2,ExtraTrees,32
+merlin,renal_cyst,2,HistGradientBoosting,1
+merlin,renal_cyst,2,PCA-logistic,105
+merlin,renal_cyst,2,Random forest,2
+merlin,renal_cyst,2,Sparse logistic,45
+merlin,renal_cyst,2,XGBoost,11
+merlin,renal_cyst,3,Balanced logistic,2
+merlin,renal_cyst,3,ExtraTrees,25
+merlin,renal_cyst,3,HistGradientBoosting,11
+merlin,renal_cyst,3,PCA-logistic,77
+merlin,renal_cyst,3,Random forest,14
+merlin,renal_cyst,3,Sparse logistic,7
+merlin,renal_cyst,3,XGBoost,64
+merlin,renal_cyst,4,ExtraTrees,73
+merlin,renal_cyst,4,HistGradientBoosting,1
+merlin,renal_cyst,4,PCA-logistic,6
+merlin,renal_cyst,4,Random forest,38
+merlin,renal_cyst,4,Sparse logistic,29
+merlin,renal_cyst,4,XGBoost,53
+merlin,splenomegaly,0,ExtraTrees,21
+merlin,splenomegaly,0,HistGradientBoosting,2
+merlin,splenomegaly,0,PCA-logistic,53
+merlin,splenomegaly,0,Random forest,7
+merlin,splenomegaly,0,Sparse logistic,35
+merlin,splenomegaly,0,XGBoost,82
+merlin,splenomegaly,1,Balanced logistic,1
+merlin,splenomegaly,1,HistGradientBoosting,10
+merlin,splenomegaly,1,PCA-logistic,105
+merlin,splenomegaly,1,Random forest,1
+merlin,splenomegaly,1,Sparse logistic,38
+merlin,splenomegaly,1,XGBoost,45
+merlin,splenomegaly,2,Balanced logistic,27
+merlin,splenomegaly,2,ExtraTrees,13
+merlin,splenomegaly,2,PCA-logistic,61
+merlin,splenomegaly,2,Random forest,11
+merlin,splenomegaly,2,Sparse logistic,73
+merlin,splenomegaly,2,XGBoost,15
+merlin,splenomegaly,3,PCA-logistic,1
+merlin,splenomegaly,3,Sparse logistic,199
+merlin,splenomegaly,4,Balanced logistic,1
+merlin,splenomegaly,4,HistGradientBoosting,5
+merlin,splenomegaly,4,PCA-logistic,3
+merlin,splenomegaly,4,Random forest,8
+merlin,splenomegaly,4,Sparse logistic,115
+merlin,splenomegaly,4,XGBoost,68

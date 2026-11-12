@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "meda"
+version = "1.0.0"
+description = "Finding-specific classifier and threshold selection on frozen CT foundation-model embeddings"
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [{ name = "Dharini Raghavan" }, { name = "Amritpal Singh" }, { name = "Anant Madabhushi" }]
+dependencies = [
+    "numpy>=1.24",
+    "pandas>=2.0",
+    "scipy>=1.10",
+    "scikit-learn>=1.2",
+    "xgboost>=2.0",
+    "joblib>=1.2",
+    "threadpoolctl>=2.2",
+]
+
+[tool.setuptools]
+packages = ["meda"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-m 'not slow'"

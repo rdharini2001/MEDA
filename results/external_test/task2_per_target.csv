@@ -1,0 +1,211 @@
+dataset,disease,team,test_balanced_acc,test_auroc
+External-Abd-China,Gallstone,ctnexus_lp,0.5073,0.4325
+External-Abd-China,Gallstone,dharini24_vl_eao,0.6343,0.6539
+External-Abd-China,Gallstone,fomofo_vo_eao,0.5667,0.5649
+External-Abd-China,Gallstone,gooducas_vo_eao,0.5394,0.6007
+External-Abd-China,Gallstone,medical_image_insights_vl_eao,0.6265,0.6451
+External-Abd-China,Gallstone,merlin_lp,0.5768,0.6237
+External-Abd-China,Gallstone,voco_lp,0.4892,0.5399
+External-Abd-China,Kidney cyst,ctnexus_lp,0.5909,0.6092
+External-Abd-China,Kidney cyst,dharini24_vl_eao,0.5589,0.5952
+External-Abd-China,Kidney cyst,fomofo_vo_eao,0.6322,0.6823
+External-Abd-China,Kidney cyst,gooducas_vo_eao,0.6313,0.6872
+External-Abd-China,Kidney cyst,medical_image_insights_vl_eao,0.5558,0.5976
+External-Abd-China,Kidney cyst,merlin_lp,0.6075,0.6233
+External-Abd-China,Kidney cyst,voco_lp,0.6081,0.6369
+External-Abd-China,Kidney stone,ctnexus_lp,0.5829,0.6315
+External-Abd-China,Kidney stone,dharini24_vl_eao,0.5771,0.6263
+External-Abd-China,Kidney stone,fomofo_vo_eao,0.6514,0.6647
+External-Abd-China,Kidney stone,gooducas_vo_eao,0.6629,0.639
+External-Abd-China,Kidney stone,medical_image_insights_vl_eao,0.6,0.6359
+External-Abd-China,Kidney stone,merlin_lp,0.6,0.6273
+External-Abd-China,Kidney stone,voco_lp,0.6057,0.6015
+External-Abd-China,Kidney tumor,ctnexus_lp,0.5115,0.789
+External-Abd-China,Kidney tumor,dharini24_vl_eao,0.7835,0.8297
+External-Abd-China,Kidney tumor,fomofo_vo_eao,0.7759,0.8554
+External-Abd-China,Kidney tumor,gooducas_vo_eao,0.6681,0.7676
+External-Abd-China,Kidney tumor,medical_image_insights_vl_eao,0.6992,0.7995
+External-Abd-China,Kidney tumor,merlin_lp,0.7505,0.8338
+External-Abd-China,Kidney tumor,voco_lp,0.7548,0.8135
+External-Abd-China,Liver cyst,ctnexus_lp,0.5527,0.5621
+External-Abd-China,Liver cyst,dharini24_vl_eao,0.5921,0.6253
+External-Abd-China,Liver cyst,fomofo_vo_eao,0.5233,0.5209
+External-Abd-China,Liver cyst,gooducas_vo_eao,0.5982,0.6273
+External-Abd-China,Liver cyst,medical_image_insights_vl_eao,0.6168,0.6568
+External-Abd-China,Liver cyst,merlin_lp,0.5927,0.6403
+External-Abd-China,Liver cyst,voco_lp,0.5533,0.5774
+External-Abd-China,Liver tumor,ctnexus_lp,0.6676,0.6889
+External-Abd-China,Liver tumor,dharini24_vl_eao,0.8166,0.8685
+External-Abd-China,Liver tumor,fomofo_vo_eao,0.79,0.8058
+External-Abd-China,Liver tumor,gooducas_vo_eao,0.7467,0.8105
+External-Abd-China,Liver tumor,medical_image_insights_vl_eao,0.7935,0.8684
+External-Abd-China,Liver tumor,merlin_lp,0.7998,0.8641
+External-Abd-China,Liver tumor,voco_lp,0.7893,0.8467
+External-Abd-China,Pancreatic cancer,ctnexus_lp,0.6346,0.687
+External-Abd-China,Pancreatic cancer,dharini24_vl_eao,0.7083,0.8178
+External-Abd-China,Pancreatic cancer,fomofo_vo_eao,0.7155,0.8356
+External-Abd-China,Pancreatic cancer,gooducas_vo_eao,0.65,0.7975
+External-Abd-China,Pancreatic cancer,medical_image_insights_vl_eao,0.728,0.8237
+External-Abd-China,Pancreatic cancer,merlin_lp,0.6872,0.805
+External-Abd-China,Pancreatic cancer,voco_lp,0.7501,0.8043
+External-Chest-China,Bronchiectasis,ctnexus_lp,0.538,0.5061
+External-Chest-China,Bronchiectasis,dharini24_vl_eao,0.4854,0.4206
+External-Chest-China,Bronchiectasis,fomofo_vo_eao,0.442,0.4499
+External-Chest-China,Bronchiectasis,gooducas_vo_eao,0.5156,0.4903
+External-Chest-China,Bronchiectasis,medical_image_insights_vl_eao,0.5679,0.5937
+External-Chest-China,Bronchiectasis,merlin_lp,0.4967,0.5105
+External-Chest-China,Bronchiectasis,voco_lp,0.4946,0.4911
+External-Chest-China,Emphysema,ctnexus_lp,0.4942,0.4901
+External-Chest-China,Emphysema,dharini24_vl_eao,0.5604,0.6175
+External-Chest-China,Emphysema,fomofo_vo_eao,0.4893,0.4679
+External-Chest-China,Emphysema,gooducas_vo_eao,0.5357,0.5197
+External-Chest-China,Emphysema,medical_image_insights_vl_eao,0.5481,0.6067
+External-Chest-China,Emphysema,merlin_lp,0.5711,0.597
+External-Chest-China,Emphysema,voco_lp,0.5312,0.5279
+External-Chest-China,Pleural effusion,ctnexus_lp,0.504,0.5377
+External-Chest-China,Pleural effusion,dharini24_vl_eao,0.6073,0.6243
+External-Chest-China,Pleural effusion,fomofo_vo_eao,0.5424,0.577
+External-Chest-China,Pleural effusion,gooducas_vo_eao,0.5246,0.528
+External-Chest-China,Pleural effusion,medical_image_insights_vl_eao,0.4854,0.5198
+External-Chest-China,Pleural effusion,merlin_lp,0.4501,0.4945
+External-Chest-China,Pleural effusion,voco_lp,0.5414,0.5495
+External-Chest-China,Pulm. inflamm.,ctnexus_lp,0.5,0.4688
+External-Chest-China,Pulm. inflamm.,dharini24_vl_eao,0.519,0.4998
+External-Chest-China,Pulm. inflamm.,fomofo_vo_eao,0.5345,0.5305
+External-Chest-China,Pulm. inflamm.,gooducas_vo_eao,0.4655,0.4881
+External-Chest-China,Pulm. inflamm.,medical_image_insights_vl_eao,0.5821,0.5897
+External-Chest-China,Pulm. inflamm.,merlin_lp,0.5321,0.5654
+External-Chest-China,Pulm. inflamm.,voco_lp,0.5357,0.5437
+External-Chest-China,Pulm. nodule,ctnexus_lp,0.5487,0.5358
+External-Chest-China,Pulm. nodule,dharini24_vl_eao,0.5393,0.5414
+External-Chest-China,Pulm. nodule,fomofo_vo_eao,0.5114,0.5151
+External-Chest-China,Pulm. nodule,gooducas_vo_eao,0.5758,0.564
+External-Chest-China,Pulm. nodule,medical_image_insights_vl_eao,0.5368,0.5656
+External-Chest-China,Pulm. nodule,merlin_lp,0.6194,0.6515
+External-Chest-China,Pulm. nodule,voco_lp,0.5444,0.5569
+External-Chest-China,Tuberculosis,ctnexus_lp,0.5429,0.5207
+External-Chest-China,Tuberculosis,dharini24_vl_eao,0.5682,0.5969
+External-Chest-China,Tuberculosis,fomofo_vo_eao,0.5255,0.517
+External-Chest-China,Tuberculosis,gooducas_vo_eao,0.5974,0.5806
+External-Chest-China,Tuberculosis,medical_image_insights_vl_eao,0.5236,0.5232
+External-Chest-China,Tuberculosis,merlin_lp,0.5773,0.5967
+External-Chest-China,Tuberculosis,voco_lp,0.4254,0.4649
+External-WB-Germany,Lung cancer,ctnexus_lp,0.5402,0.5058
+External-WB-Germany,Lung cancer,dharini24_vl_eao,0.6809,0.7399
+External-WB-Germany,Lung cancer,fomofo_vo_eao,0.6005,0.6794
+External-WB-Germany,Lung cancer,gooducas_vo_eao,0.5727,0.608
+External-WB-Germany,Lung cancer,medical_image_insights_vl_eao,0.7373,0.7772
+External-WB-Germany,Lung cancer,merlin_lp,0.7612,0.7837
+External-WB-Germany,Lung cancer,voco_lp,0.5292,0.5768
+External-WB-Germany,Lymphoma,ctnexus_lp,0.5173,0.5708
+External-WB-Germany,Lymphoma,dharini24_vl_eao,0.7385,0.7615
+External-WB-Germany,Lymphoma,fomofo_vo_eao,0.6173,0.6362
+External-WB-Germany,Lymphoma,gooducas_vo_eao,0.7038,0.7623
+External-WB-Germany,Lymphoma,medical_image_insights_vl_eao,0.7462,0.8108
+External-WB-Germany,Lymphoma,merlin_lp,0.7577,0.81
+External-WB-Germany,Lymphoma,voco_lp,0.7154,0.6877
+Internal-Abd-China,Adrenal hyperplasia,ctnexus_lp,0.5588,0.6713
+Internal-Abd-China,Adrenal hyperplasia,dharini24_vl_eao,0.7647,0.7716
+Internal-Abd-China,Adrenal hyperplasia,fomofo_vo_eao,0.5294,0.692
+Internal-Abd-China,Adrenal hyperplasia,gooducas_vo_eao,0.5,0.7336
+Internal-Abd-China,Adrenal hyperplasia,medical_image_insights_vl_eao,0.6471,0.7301
+Internal-Abd-China,Adrenal hyperplasia,merlin_lp,0.7941,0.7612
+Internal-Abd-China,Adrenal hyperplasia,voco_lp,0.6176,0.7024
+Internal-Abd-China,Ascites,ctnexus_lp,0.5811,0.5457
+Internal-Abd-China,Ascites,dharini24_vl_eao,0.8378,0.9248
+Internal-Abd-China,Ascites,fomofo_vo_eao,0.6757,0.8167
+Internal-Abd-China,Ascites,gooducas_vo_eao,0.7297,0.7684
+Internal-Abd-China,Ascites,medical_image_insights_vl_eao,0.7432,0.8846
+Internal-Abd-China,Ascites,merlin_lp,0.8243,0.9248
+Internal-Abd-China,Ascites,voco_lp,0.7162,0.8042
+Internal-Abd-China,Atherosclerosis,ctnexus_lp,0.4545,0.4876
+Internal-Abd-China,Atherosclerosis,dharini24_vl_eao,0.7045,0.8306
+Internal-Abd-China,Atherosclerosis,fomofo_vo_eao,0.6818,0.7934
+Internal-Abd-China,Atherosclerosis,gooducas_vo_eao,0.7045,0.8347
+Internal-Abd-China,Atherosclerosis,medical_image_insights_vl_eao,0.6818,0.7169
+Internal-Abd-China,Atherosclerosis,merlin_lp,0.7273,0.8037
+Internal-Abd-China,Atherosclerosis,voco_lp,0.6818,0.7004
+Internal-Abd-China,Cholecystitis,ctnexus_lp,0.631,0.6304
+Internal-Abd-China,Cholecystitis,dharini24_vl_eao,0.619,0.6366
+Internal-Abd-China,Cholecystitis,fomofo_vo_eao,0.5238,0.6032
+Internal-Abd-China,Cholecystitis,gooducas_vo_eao,0.619,0.6429
+Internal-Abd-China,Cholecystitis,medical_image_insights_vl_eao,0.619,0.674
+Internal-Abd-China,Cholecystitis,merlin_lp,0.631,0.6667
+Internal-Abd-China,Cholecystitis,voco_lp,0.5595,0.5493
+Internal-Abd-China,Colorectal cancer,ctnexus_lp,0.5,0.4592
+Internal-Abd-China,Colorectal cancer,dharini24_vl_eao,0.6964,0.7194
+Internal-Abd-China,Colorectal cancer,fomofo_vo_eao,0.625,0.7232
+Internal-Abd-China,Colorectal cancer,gooducas_vo_eao,0.5714,0.6952
+Internal-Abd-China,Colorectal cancer,medical_image_insights_vl_eao,0.5536,0.6008
+Internal-Abd-China,Colorectal cancer,merlin_lp,0.6964,0.7577
+Internal-Abd-China,Colorectal cancer,voco_lp,0.6786,0.7564
+Internal-Abd-China,Fatty liver,ctnexus_lp,0.6735,0.7851
+Internal-Abd-China,Fatty liver,dharini24_vl_eao,0.6837,0.8626
+Internal-Abd-China,Fatty liver,fomofo_vo_eao,0.8878,0.9629
+Internal-Abd-China,Fatty liver,gooducas_vo_eao,0.6633,0.7938
+Internal-Abd-China,Fatty liver,medical_image_insights_vl_eao,0.8163,0.8846
+Internal-Abd-China,Fatty liver,merlin_lp,0.8163,0.9055
+Internal-Abd-China,Fatty liver,voco_lp,0.7143,0.7893
+Internal-Abd-China,Gallstone,ctnexus_lp,0.5729,0.6128
+Internal-Abd-China,Gallstone,dharini24_vl_eao,0.5938,0.6363
+Internal-Abd-China,Gallstone,fomofo_vo_eao,0.6562,0.7661
+Internal-Abd-China,Gallstone,gooducas_vo_eao,0.5833,0.6224
+Internal-Abd-China,Gallstone,medical_image_insights_vl_eao,0.5,0.4596
+Internal-Abd-China,Gallstone,merlin_lp,0.5312,0.5668
+Internal-Abd-China,Gallstone,voco_lp,0.4792,0.5434
+Internal-Abd-China,Hydronephrosis,ctnexus_lp,0.6047,0.6506
+Internal-Abd-China,Hydronephrosis,dharini24_vl_eao,0.7791,0.8561
+Internal-Abd-China,Hydronephrosis,fomofo_vo_eao,0.814,0.8843
+Internal-Abd-China,Hydronephrosis,gooducas_vo_eao,0.8023,0.8156
+Internal-Abd-China,Hydronephrosis,medical_image_insights_vl_eao,0.7326,0.8123
+Internal-Abd-China,Hydronephrosis,merlin_lp,0.6977,0.7864
+Internal-Abd-China,Hydronephrosis,voco_lp,0.7791,0.848
+Internal-Abd-China,Kidney cyst,ctnexus_lp,0.5292,0.5749
+Internal-Abd-China,Kidney cyst,dharini24_vl_eao,0.6314,0.6812
+Internal-Abd-China,Kidney cyst,fomofo_vo_eao,0.6387,0.6921
+Internal-Abd-China,Kidney cyst,gooducas_vo_eao,0.5803,0.6218
+Internal-Abd-China,Kidney cyst,medical_image_insights_vl_eao,0.5657,0.6008
+Internal-Abd-China,Kidney cyst,merlin_lp,0.6423,0.6768
+Internal-Abd-China,Kidney cyst,voco_lp,0.6095,0.6255
+Internal-Abd-China,Kidney stone,ctnexus_lp,0.5904,0.6165
+Internal-Abd-China,Kidney stone,dharini24_vl_eao,0.6627,0.7364
+Internal-Abd-China,Kidney stone,fomofo_vo_eao,0.6566,0.7407
+Internal-Abd-China,Kidney stone,gooducas_vo_eao,0.6747,0.7132
+Internal-Abd-China,Kidney stone,medical_image_insights_vl_eao,0.6325,0.7007
+Internal-Abd-China,Kidney stone,merlin_lp,0.6627,0.7336
+Internal-Abd-China,Kidney stone,voco_lp,0.6687,0.714
+Internal-Abd-China,Liver calcification,ctnexus_lp,0.5,0.5149
+Internal-Abd-China,Liver calcification,dharini24_vl_eao,0.5,0.6147
+Internal-Abd-China,Liver calcification,fomofo_vo_eao,0.4483,0.4411
+Internal-Abd-China,Liver calcification,gooducas_vo_eao,0.5,0.5553
+Internal-Abd-China,Liver calcification,medical_image_insights_vl_eao,0.5345,0.4649
+Internal-Abd-China,Liver calcification,merlin_lp,0.5862,0.5898
+Internal-Abd-China,Liver calcification,voco_lp,0.5345,0.5589
+Internal-Abd-China,Liver cyst,ctnexus_lp,0.5693,0.627
+Internal-Abd-China,Liver cyst,dharini24_vl_eao,0.5693,0.6136
+Internal-Abd-China,Liver cyst,fomofo_vo_eao,0.5644,0.5627
+Internal-Abd-China,Liver cyst,gooducas_vo_eao,0.5594,0.6111
+Internal-Abd-China,Liver cyst,medical_image_insights_vl_eao,0.5842,0.5922
+Internal-Abd-China,Liver cyst,merlin_lp,0.5693,0.5952
+Internal-Abd-China,Liver cyst,voco_lp,0.5396,0.5582
+Internal-Abd-China,Liver tumor,ctnexus_lp,0.6,0.6978
+Internal-Abd-China,Liver tumor,dharini24_vl_eao,0.6417,0.7344
+Internal-Abd-China,Liver tumor,fomofo_vo_eao,0.6667,0.7553
+Internal-Abd-China,Liver tumor,gooducas_vo_eao,0.6417,0.69
+Internal-Abd-China,Liver tumor,medical_image_insights_vl_eao,0.675,0.6731
+Internal-Abd-China,Liver tumor,merlin_lp,0.625,0.7306
+Internal-Abd-China,Liver tumor,voco_lp,0.675,0.7369
+Internal-Abd-China,Lymphadenopathy,ctnexus_lp,0.5517,0.541
+Internal-Abd-China,Lymphadenopathy,dharini24_vl_eao,0.6552,0.7669
+Internal-Abd-China,Lymphadenopathy,fomofo_vo_eao,0.6552,0.7111
+Internal-Abd-China,Lymphadenopathy,gooducas_vo_eao,0.6034,0.7277
+Internal-Abd-China,Lymphadenopathy,medical_image_insights_vl_eao,0.6379,0.7134
+Internal-Abd-China,Lymphadenopathy,merlin_lp,0.6552,0.7396
+Internal-Abd-China,Lymphadenopathy,voco_lp,0.7069,0.7503
+Internal-Abd-China,Splenomegaly,ctnexus_lp,0.5833,0.6875
+Internal-Abd-China,Splenomegaly,dharini24_vl_eao,0.7292,0.8785
+Internal-Abd-China,Splenomegaly,fomofo_vo_eao,0.75,0.8872
+Internal-Abd-China,Splenomegaly,gooducas_vo_eao,0.8333,0.9288
+Internal-Abd-China,Splenomegaly,medical_image_insights_vl_eao,0.7708,0.8594
+Internal-Abd-China,Splenomegaly,merlin_lp,0.7708,0.9201
+Internal-Abd-China,Splenomegaly,voco_lp,0.75,0.8073

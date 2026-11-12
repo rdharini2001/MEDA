@@ -1,0 +1,15 @@
+method,selected_name,family,balacc,auroc,sensitivity,specificity,threshold,n,positives
+LR_unweighted_05,unweighted_logreg_C0.5,Unweighted logistic,0.52,0.4598,0.13,0.91,0.5,200,100
+LR_prior_corrected,unweighted_logreg_C0.5,Unweighted logistic,0.495,0.4598,0.29,0.7,0.1,200,100
+LR_unweighted_tuned,unweighted_logreg_C0.5,Unweighted logistic,0.465,0.4598,0.4,0.53,0.030938404582955298,200,100
+LR_balanced_05,logreg_C0.5,Balanced logistic,0.54,0.4589999999999999,0.22,0.86,0.5,200,100
+LR_balanced_tuned,logreg_C0.5,Balanced logistic,0.47000000000000003,0.4589999999999999,0.4,0.54,0.05559921497988476,200,100
+MEDA,logreg_C0.05,Balanced logistic,0.47,0.47030000000000005,0.36,0.58,0.27,200,100
+MEDA_selected_head_05,logreg_C0.05,Balanced logistic,0.525,0.47030000000000005,0.25,0.8,0.5,200,100
+MEDA_selection_05,pca64_logreg,PCA-logistic,0.48,0.47390000000000004,0.34,0.62,0.5,200,100
+fixed_pca8_logreg_tuned,pca8_logreg,PCA-logistic,0.49,0.47930000000000006,0.4,0.58,0.5064660910212555,200,100
+fixed_logreg_l1_C0.1_tuned,logreg_l1_C0.1,Sparse logistic,0.475,0.49269999999999997,0.42,0.53,0.36000000000000004,200,100
+fixed_extratrees_balanced_tuned,extratrees_balanced,ExtraTrees,0.51,0.4588,0.17,0.85,0.18,200,100
+fixed_rf_balanced_tuned,rf_balanced,Random forest,0.49,0.4926,0.13,0.85,0.17462272319239308,200,100
+fixed_histgb_tuned,histgb,HistGradientBoosting,0.5,0.515,0.16,0.84,0.0253035454330287,200,100
+fixed_xgb_d2_lr0.03_n350_tuned,xgb_d2_lr0.03_n350,XGBoost,0.545,0.5058,0.33,0.76,0.10155466854572298,200,100
